@@ -1,0 +1,591 @@
+Research Track Papers - Oral
+Smoothed Dilated Convolutions for Improved Dense Prediction
+Zhengyang Wang (Washington State University); Shuiwang Ji (Washington State University)
+Discovering Non-Redundant K-means Clusterings in Optimal Subspaces
+Dominik Mautz (Ludwig Maximilian University of Munich); Wei Ye (Ludwig Maximilian University of Munich); Claudia Plant (University of Vienna); Christian B
+Trajectory-driven Influential Billboard Placement
+Ping Zhang (Wuhan University); Zhifeng Bao (RMIT University); Yuchen Li (Singapore Management University); Guoliang Li (Tsinghua University); Yipeng Zhang (RMIT University); Zhiyong Peng (Wuhan University)
+Multi-Type Itemset Embedding for Learning Behavior Success
+Daheng Wang (University of Notre Dame); Meng Jiang (University of Notre Dame); Qingkai Zeng (University of Notre Dame); Zachary Eberhart (University of Notre Dame); Nitesh Chawla (University of Notre Dame)
+STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation
+Qiao Liu (University of Electronic Science and Technology of China); Yifu Zeng (University of Electronic Science and Technology of China); Refuoe Mokhosi (University of Electronic Science and Technology of China); Haibin Zhang (University of Electronic Science and Technology of China)
+Calibrated Multi-Task Learning
+Feiping Nie (Department of Computer Science, OPTIMAL, Northwestern Polytechnical University); Zhanxuan Hu (Department of Computer Science, OPTIMAL, Northwestern Polytechnical University); Xuelong Li (OPTIMAL, Xian Institute of Optics and Precision Mechanics, Chinese Academy of Sciences)
+Unlearn What You Have Learned: Adaptive Crowd Teaching with Exponentially Decayed Memory Learners
+Yao Zhou (Arizona State University); Arun Reddy Nelakurthi (Arizona State University); Jingrui He (Arizona State University)
+Interactive Paths Embedding for Semantic Proximity Search on Heterogeneous Graphs
+Zemin Liu (Zhejiang University); Vincent W. Zheng (Advanced Digital Sciences Center); Zhou Zhao (Zhejiang University); Zhao Li (Alibaba Group); Hongxia Yang (Alibaba Group); Minghui Wu (Zhejiang University); Jing Ying (Zhejiang University)
+Scalable Active Learning by Approximated Error Reduction
+Weijie Fu (Hefei University of Technology); Meng Wang (Hefei University of Technology); Shijie Hao (Hefei University of Technology); Xindong Wu (University of Louisiana at Lafayette)
+R2SDH: Robust Rotated Supervised Discrete Hashing
+Jie Gui (Rutgers University); Ping Li (Baidu Research)
+Learning Adversarial Networks for Semi-Supervised Text Classification via Policy Gradient
+Yan Li (University of Michigan); Jieping Ye (University of Michigan)
+Multi-view Adversarially Learned Inference for Cross-domain Joint Distribution Matching
+Changying Du (Institute of Software, Chinese Academy of Sciences); Changde Du (Institute of Automation, Chinese Academy of Sciences); Xingyu Xie (Nanjing University of Aeronautics and Astronautics); Chen Zhang (Qihoo 360 Search Lab); Hao Wang (Qihoo 360 Search Lab)
+Disturbance Grassmann Kernels for Subspace-Based Learning
+Junyuan Hong (University of Science and Technology of China); Huanhuan Chen (University of Science and Technology of China); Feng Lin (University of Science and Technology of China)
+Finding Similar Exercises with a Unified Semantic Representation
+Qi Liu (University of Science and Technology of China); Zai Huang (University of Science and Technology of China); Zhenya Huang (University of Science and Technology of China); Chuanren Liu (Decision Sciences and MIS Department, Drexel University); Enhong Chen (University of Science and Technology of China); Yu Su (School of Computer Science and Technology, Anhui University); Guoping Hu (iFLYTEK Research)
+Supervised Reinforcement Learning with Recurrent Neural Network for Dynamic Treatment Recommendation
+Lu Wang (East China Normal University); Wei Zhang (East China Normal University); Xiaofeng He (East China Normal University); Hongyuan Zha (Georgia Institute of Technology)
+Transcribing Content from Structural Images with Spotlight Mechanism
+Yu Yin (University of Science and Technology of China); Zhenya Huang (University of Science and Technology of China); Enhong Chen (University of Science and Technology of China); Qi Liu (University of Science and Technology of China); Fuzheng Zhang (Microsoft); Xing Xie (Microsoft); Guoping Hu (iFLYTEK Research)
+StockAssIstant: A Stock AI Assistant for Reliability Modeling of Stock Comments
+Chen Zhang (360 Search Lab); Hao Wang (360 Search Lab); Changying Du (360 Search Lab); Yijun Wang (LineZone Data); Can Chen (LineZone Data); Hongzhi Yin (The University of Queensland)
+Leveraging Meta-path based Context for Top N recommendation with Co-attention mechanism
+Binbin Hu (Beijing University of Posts and Telecommunications); Chuan Shi (Beijing University of Posts and Telecommunications); Xin Zhao (School of Information, Renmin University of China); Philip S. Yu (University of Illinois at Chicago)
+Subspace Network: Deep Multi-Task Censored Regression for Modeling Neurodegenerative Diseases
+Mengying Sun (Michigan State University); Inci M. Baytas (Michigan State University); Liang Zhan (University of Wisconsin-Stout); Zhangyang Wang (Texas A&M University); Jiayu Zhou (Michigan State University)
+Learning Dynamics of Decision Boundaries without Additional Labeled Data
+Atsutoshi Kumagai (NTT); Tomoharu Iwata (NTT)
+Arbitrary-Order Proximity Preserved Network Embedding
+Ziwei Zhang (Tsinghua University); Peng Cui (Tsinghua University); Xiao Wang (Tsinghua University); Jian Pei (Simon Fraser University); Xuanrong Yao (Tsinghua University); Wenwu Zhu (Tsinghua University)
+Scalable k-Means Clustering via Lightweight Coresets
+Olivier Bachem (ETH Zurich); Mario Lucic (Google); Andreas Krause (ETH Zurich)
+Voxel Deconvolutional Networks for 3D Brain Image Labeling
+Yongjun Chen (Washington State University); Hongyang Gao (Washington State University); Lei Cai (Washington State University); Min Shi (Washington State University); Dinggang Shen (The University of North Carolina at Chapel Hill); Shuiwang Ji (Washington State University)
+Count-Min: Optimal Estimation and Tight Error Bounds using Empirical Error Distributions
+Daniel Ting (Tableau Software)
+Metric Learning from Probabilistic Labels
+Mengdi Huai (State University of New York at Buffalo); Chenglin Miao (State University of New York at Buffalo); Yaliang Li (Baidu Research Big Data Lab); Qiuling Suo (State University of New York at Buffalo); Lu Su (State University of New York at Buffalo); Aidong Zhang (State University of New York at Buffalo)
+TextTruth: An Unsupervised Approach to Discover Trustworthy Information from Multi-Sourced Text Data
+Hengtong Zhang (SUNY at Buffalo); Yaliang Li (Baidu Research); Fenglong Ma (SUNY Buffalo); Jing Gao (University at Buffalo); Lu Su (The State University of New York at Buffalo)
+HeavyGuardian: Separate and Guard Hot Items in Data Streams
+Tong Yang (Peking University); Junzhi Gong (Peking University); Haowei Zhang (Peking University); Lei Zou (Peking University); Lei Shi (SKLCS, Institute of Software, Chinese Academy of Sciences); Xiaoming Li (Peking University)
+Can Who-Edits-What Predict Edit Survival?
+Ali Batuhan Yardim (Bilkent University); Victor Kristof (EPFL), Lucas Maystre (EPFL), Matthias Grossglauser (EPFL)
+Graph Classification using Structural Attention
+John Boaz Lee (WPI); Ryan Rossi (Adobe Research); Xiangnan Kong (WPI)
+Opinion Dynamics with Varying Susceptibility to Persuasion
+Rediet Abebe (Cornell University); Jon Kleinberg (Cornell University); David Parkes (Harvard University); Charalampos Tsourkakis (Boston University)
+Efficient Attribute Recommendation with Probabilistic Guarantee
+Chi Wang (Microsoft); Kaushik Chakrabarti (Microsoft)
+You Are How You Drive: Peer and Temporal-Aware Representation Learning for Driving Behavior Analysis
+Pengyang Wang (Missouri University of Science and Technology); Yanjie Fu (Missouri University of Science and Technology); Jiawei Zhang (Florida State University); Pengfei Wang (CNIC, Chinese Academy of Sciences); Yu Zheng (Urban Computing Business Unit, JD Finance); Charu Aggarwal (IBM)
+Simultaneous Urban Region Function Discovery and Popularity Estimation Via an Infinite Urbanization
+Bang Zhang (CSIRO); Lelin Zhang (CSIRO); Ting Guo (CSIRO); Yang Wang (CSIRO); Fang Chen (CSIRO)
+MiSoSouP: Mining Interesting Subgroups with Sampling and Pseudodimension
+Matteo Riondato (Two Sigma Investments, LP); Fabio Vandin (University of Padova)
+NetLSD: Hearing the Shape of a Graph
+Anton Tsitsulin (Hasso Plattner Institute); Davide Mottin (Hasso Plattner Institute); Panagiotis Karras (Aarhus University); Alexander Bronstein (Israel Institute of Technology); Emmanuel M¨¹ller
+Efficient Large-Scale Fleet Management via Multi-Agent Deep Reinforcement Learning
+Kaixiang Lin (Michigan State University); Renyu Zhao (AI Labs, Didi Chuxing); Zhe Xu (AI Labs, Didi Chuxing); Jiayu Zhou (Michigan State University)
+A Dual Markov Chain Topic Model for Dynamic Environments
+Ayan Acharya (CognitiveScale Inc.); Joydeep Ghosh (The University of Texas at Austin); Mingyuan Zhou (The University of Texas at Austin)
+An Efficient Two-Layer Mechanism for Privacy-Preserving Truth Discovery
+Yaliang Li (Baidu Research); Chenglin Miao (SUNY Buffalo); Lu Su (SUNY Buffalo); Jing Gao (SUNY Buffalo); Qi Li (University of Illinois at Urbana-Champaign); Bolin Ding (Microsoft); Zhan Qin (SUNY Buffalo); Kui Ren (SUNY Buffalo)
+SUSTain: Scalable Unsupervised Scoring for Tensors and its Application to Phenotyping
+Ioakeim Perros (Georgia Institute of Technology); Evangelos Papalexakis (University of California Riverside); Haesun Park (Georgia Institute of Technology); Richard Vuduc (Georgia Institute of Technology); Xiaowei Yan (Sutter Health); Christopher Defilippi (Inova Heart and Vascular Institute); Walter F. Stewart (Sutter Health); Jimeng Sun (Georgia Institute of Technology)
+Learning Deep Network Representations with Adversarially Regularized Autoencoders
+Wenchao Yu (University of California, Los Angeles); Cheng Zheng (University of California, Los Angeles); Wei Cheng (NEC Labs America); Charu Aggarwal (IBM); Dongjin Song (NEC); Bo Zong (NEC); Haifeng Chen (NEC); Wei Wang (University of California, Los Angeles)
+FASTEN: Fast Sylvester Equation Solver for Graph Mining
+Boxin Du (Arizona State University); Hanghang Tong (Arizona State University)
+TINET: Learning Invariant Networks via Knowledge Transfer
+Chen Luo (Rice University); Zhengzhang Chen (NEC Laboratories America); Lu-An Tang (NEC Laboratories America); Anshumali Shrivastava (Rice University); Zhichun Li (NEC Laboratories America); Haifeng Chen (NEC Laboratories America); Jieping Ye (University of Michigan)
+Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts
+Jiaqi Ma (University of Michigan); Zhe Zhao (Google); Xinyang Yi (Google); Jilin Chen (Google); Lichan Hong (Google); Ed Chi (Google)
+Towards Mitigating the Class-Imbalance Problem for Partial Label Learning
+Jing Wang (Southeast University); Min-Ling Zhang (Southeast University)
+Exploring the Urban Region-of-Interest through the Analysis of Online Map Search Queries
+Ying Sun (ICT, CAS); Hengshu Zhu (Baidu Inc.); Fuzhen Zhuang (Institute of Computing Technology, Chinese Academy of Sciences); Jingjing Gu (NUAA, Nanjing); Qing He (Institute of Computing Technology, CAS)
+Complex Object Classification: A Multi-Modal Multi-Instance Multi-Label Deep Network with Optimal Tr
+Yang Yang (NanJing university); Yi-Feng Wu (LAMDA Group, Nanjing University); De-Chuan Zhan (Nanjing University); Zhi-Bin Liu (Tencent); Yuan Jiang (Nanjing University)
+New Robust Metric Learning Model Using Maximum Correntropy Criterion
+Jie Xu (University of Pittsburgh); Lei Luo (University of Pittsburgh); Cheng Deng (Xidian University); Heng Huang (University of Pittsburgh)
+TruePIE: Discovering Reliable Patterns in Pattern-Based Information Extraction
+Qi Li (University of Illinois at Urbana-Champaign); Meng Jiang (University of Notre Dame); Xikun Zhang (University of Illinois at Urbana-Champaign); Meng Qu (University of Illinois at Urbana-Champaign); Timothy Hanratty (US Army Research Laboratory); Jing Gao (University at Buffalo); Jiawei Han (University of Illinois at Urbana-Champaign)
+Network Connectivity Optimization: Fundamental Limits and Effective Algorithms
+Chen Chen (Arizona State University); Ruiyue Peng (Translational MRI); Lei Ying (Arizona State University); Hanghang Tong (Arizona State University)
+Risk Prediction on Electronic Healthcare Records with Prior Medical Knowledge
+Fenglong Ma (SUNY Buffalo); Jing Gao (SUNY Buffalo); Qiuling Suo (SUNY Buffalo); Quanzeng You (Microsoft AI & Research); Jing Zhou (Eheath Inc); Aidong Zhang (SUNY Buffalo)
+Ranking Distillation: Learning Compact Ranking Models With High Performance for Recommender System
+Jiaxi Tang (Simon Fraser University); Ke Wang (Simon Fraser University)
+xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems
+Jianxun Lian (University of Science and Technology of China); Xiaohuan Zhou (Beijing University of Posts and Telecommunications); Fuzheng Zhang (Microsoft); Zhongxia Chen (University of Science and Technology of China); Xing Xie (Microsoft); Guangzhong Sun (University of Science and Technology of China)
+NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks
+Wenchao Yu (University of California, Los Angeles); Wei Cheng (NEC Labs America); Charu Aggarwal (IBM); Kai Zhang (NEC); Haifeng Chen (NEC); Wei Wang (University of California, Los Angeles)
+Cost-Effective Training of Deep CNNs with Active Model Adaptation
+Sheng-Jun Huang (NUAA); Jia-Wei Zhao (NUAA); Zhao-Yang Liu (NUAA)
+Adversarial Detection with Model Interpretation
+Ninghao Liu (Texas A&M University); Hongxia Yang (Alibaba Group); Xia Hu (Texas A&M University)
+Offline Evaluation of Ranking Policies with Click Models
+Shuai Li (The Chinese University of Hong Kong); Yasin Abbasi-Yadkori (Adobe Research); Branislav Kveton (Adobe Research); S. Muthukrishnan (Rutgers University); Vishwa Vinay (Adobe Research); Zheng Wen (Adobe Research)
+REST: A Reference-based Framework for Spatio-temporal Trajectory Compression
+Yan Zhao (School of Computer Science and Technology, Soochow University); Shuo Shang (King Abdullah University of Science and Technology); Yu Wang (The Chinese University of Hong Kong); Bolong Zheng (School of Data and Computer Science, Sun Yat-sen University); Quoc Viet Hung Nguyen (Griffith University); Kai Zheng (Big Data Research Center, University of Electronic Science and Technology of China)
+Efficient Similar Region Search with Deep Metric Learning
+Yiding Liu (Nanyang Technological University); Kaiqi Zhao (Nanyang Technological University); Gao Cong (Nanyang Technological University)
+High-order Proximity Preserving Information Network Hashing
+Defu Lian (University of Science and Technology of China); Kai Zheng (University of Science and Technology of China); Vincent W. Zheng (Advanced Digital Sciences Center); Yong Ge (University of Arizona); Longbing Cao (University of Technology, Sydney); Ivor W. Tsang (University of Technology, Sydney); Xing Xie (Microsoft)
+Decoupled Learning for Factorial Marked Temporal Point Processes
+Weichang Wu (Shanghai Jiao Tong University); Junchi Yan (Shanghai Jiao Tong University); Xiaokang Yang (Shanghai Jiao Tong University); Hongyuan Zha (Georgia Institute of Technology)
+R-VQA: Learning Visual Relation Facts with Semantic Attention for Visual Question Answering
+Pan Lu (Tsinghua University); Lei Ji (Microsoft); Wei Zhang (East China Normal University); Nan Duan (Microsoft); Ming Zhou (Microsoft); Jianyong Wang (Tsinghua University)
+Multi-label Learning with Highly Incomplete Data via Collaborative Embedding
+Yufei Han (Symantec Research Labs); Yun Shen (Symantec Research Labs); Guolei Sun (King Abdullah University of Science and Technology (KAUST)); Xiangliang Zhang (King Abdullah University of Science and Technology (KAUST))
+Spectral Clustering of Large-scale Data by Directly Solving Normalized Cut
+Xiaojun Chen (Shenzhen University); Weijun Hong (Shenzhen University); Feiping Nie (Northwestern Polytechnical University); Dan He (Shenzhen University); Min Yang (Chinese Academy of Sciences); Joshua Z. Huang (Shenzhen University)
+SpotLight: Detecting Anomalies in Streaming Graphs
+Dhivya Eswaran (Carnegie Mellon University); Christos Faloutsos (Carnegie Mellon University); Sudipto Guha (Amazon); Nina Mishra (Amazon)
+Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection
+Guansong Pang (University of Technology, Sydney); Longbing Cao (Faculty of IT, University of Technology Sydney); Ling Chen (University of Technology, Sydney); Huan Liu (Arizona State University)
+Dynamic Embeddings for User Profiling in Twitter
+Shangsong Liang (King Abdullah University of Science and Technology); Xiangliang Zhang (King Abdullah University of Science and Technology); Zhaochun Ren (JD.com); Evangelos Kanoulas (University of Amsterdam)
+A Unified Approach to Quantifying Algorithmic Unfairness: Measuring Individual & Group Unfairness vi
+Till Speicher (MPI-SWS); Hoda Heidari (ETH Zurich); Nina Grgic-Hlaca (MPI-SWS); Krishna P. Gummadi (MPI-SWS); Adish Singla (MPI-SWS); Adrian Weller (University of Cambridge); Muhammad Bilal Zafar (MPI-SWS)
+Multiview Clustering via Adaptively Weighted Procrustes
+Feiping Nie (Northwestern Polytechnical University); Lai Tian (Northwestern Polytechnical University); Xuelong Li (Center for OPTIMAL, Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences)
+Deep Variational Network Embedding in Wasserstein Space
+Dingyuan Zhu (Tsinghua University); Peng Cui (Tsinghua University); Daixin Wang (Tsinghua University); Wenwu Zhu (Tsinghua University)
+Geographical Hidden Markov Tree for Flood Extent Mapping
+Miao Xie (University of Alabama); Zhe Jiang (University of Alabama); Arpan Man Sainju (University of Alabama)
+Embedding Temporal Network via Neighborhood Formation
+Yuan Zuo (Beihang University); Guannan Liu (Beihang University); Hao Lin (Beihang University); Jia Guo (Beihang University); Xiaoqian Hu (Beihang University); Junjie Wu (Beihang University)
+Algorithms for Hiring and Outsourcing in the Online Labor Market
+Aris Anagnostopoulos (Sapienza University of Rome); Carlos Castillo (Universitat Pompeu Fabra); Adriano Fazzone (Sapienza University of Rome); Stefano Leonardi (Sapienza University of Rome); Evimaria Terzi (Boston University)
+Data Diff: Interpretable, Executable Summaries of Changes in Distributions for Data Wrangling
+Charles Sutton (The University of Edinburgh); Timothy Hobson (The Alan Turing Institute); James Geddes (The Alan Turing Institute); Rich Caruana (Microsoft)
+Hierarchical Taxonomy Aware Network Embedding
+Jianxin Ma (Tsinghua University); Peng Cui (Tsinghua University); Xiao Wang (Tsinghua University); Wenwu Zhu (Tsinghua University)
+Exact and Consistent Interpretation for Piecewise Linear Neural Networks: A Closed Form Solution
+Lingyang Chu (Simon Fraser University); Xia Hu (Simon Fraser University); Juhua Hu (Simon Fraser University); Lanjun Wang (Huawei Technology Co. Ltd); Jian Pei (JD.com and Simon Fraser University)
+TaxoGen: Constructing Topical Concept Taxonomy by Adaptive Term Embedding and Clustering
+Chao Zhang (University of Illinois at Urbana-Champaign); Fangbo Tao (Facebook); Xiusi Chen (University of Illinois at Urbana-Champaign); Jiaming Shen (University of Illinois at Urbana-Champaign); Meng Jiang (University of Notre Dame); Brian Sadler (U.S. Army Research Lab); Michelle Vanni (U.S. Army Research Lab); Jiawei Han (University of Illinois at Urbana-Champaign)
+Deep Recursive Network Embedding with Regular Equivalence
+Ke Tu (Tsinghua University); Peng Cui (Tsinghua University); Xiao Wang (Tsinghua University); Philip S. Yu (University of Illinois at Chicago); Wenwu Zhu (Tsinghua University)
+PCA by Determinant Optimization has no Spurious Local Optima
+Raphael Hauser (University of Oxford); Armin Eftekhari (Alan Turing Institute); Heinrich Matzinger (Georgia Institute of Technology)
+Concepts-Bridges: Uncovering Conceptual Bridges Based on Biomedical Concept Evolution
+Kishlay Jha (State University of New York at Buffalo); Guangxu Xun (State University of New York at Buffalo); Yaqing Wang (State University of New York at Buffalo); Vishrawas Gopalakrishnan (State University of New York at Buffalo); Aidong Zhang (State University of New York at Buffalo)
+Learning and Interpreting Complex Distributions in Empirical Data
+Chengxi Zang (Tsinghua University); Peng Cui (Tsinghua University); Wenwu Zhu (Tsinghua University)
+Concentrated Differentially Private Gradient Descent with Adaptive per-Iteration Privacy Budget
+Jaewoo Lee (University of Georgia); Daniel Kifer (The Pennsylvania State University)
+Adversarial Attacks on Neural Networks for Graph Data
+Daniel Z¨¹gner (Technical University of Munich); Amir Akbarnejad (Technical University of Munich); Stephan G¨¹nnemann (Technical University of Munich)
+Optimal Distributed Submodular Optimization via Sketching
+Mohammadhossein Bateni (Google); Hossein Esfandiari (Harvard University); Vahab Mirrokni (Google)
+Stable Prediction across Unknown Environments
+Kun Kuang (Tsinghua University); Peng Cui (Tsinghua University); Susan Athey (Stanford University); Ruoxuan Xiong (Stanford University); Bo Li (Tsinghua University)
+Feedback-Guided Anomaly Discovery via Online Optimization
+Md Amran Siddiqui (Oregon State University); Alan Fern (Oregon State University); Thomas Dietterich (Oregon State University); Ryan Wright (Galois, Inc.); Alec Theriault (Galois, Inc.); David Archer (Galois, Inc.)
+Active Feature Acquisition with Supervised Matrix Completion
+Sheng-Jun Huang (NUAA); Miao Xu (RIKEN Center for AIP); Ming-Kun Xie (NUAA); Masashi Sugiyama (RIKEN Center for AIP); Gang Niu (The University of Tokyo); Songcan Chen (NUAA)
+Node Similarity with q-Grams for Real-World Labeled Networks
+Roberto Grossi (University of Pisa); Alessio Conte (University of Pisa); Gaspare Ferraro (University of Pisa); Andrea Marino (University of Pisa); Kunihiko Sadakane (University of Tokyo); Takeaki Uno (National Institute of Informatics, Japan)
+Multi-Pointer Co-Attention Networks for Recommendation
+Yi Tay (Nanyang Technological University); Anh Tuan Luu (I2r); Siu Cheung Hui (Nanyang Technological University)
+Scalable Spectral Clustering Using Random Binning Features
+Lingfei Wu (IBM); Pin-Yu Chen (IBM); Ian En-Hsu Yen (CMU); Fangli Xu (College of William & Mary); Yinglong Xia (Huawei Research); Charu Aggarwal (IBM)
+Model-based Clustering of Short Text Streams
+Jianhua Yin (School of Computer Science and Technology, Shandong University); Daren Chao (School of Computer Science and Technology, Shandong University); Zhongkun Liu (School of Computer Science and Technology, Shandong University); Wei Zhang (Shanghai Key Laboratory of Trustworthy Computing, East China Normal University); Xiaohui Yu (School of Computer Science and Technology, Shandong University); Jianyong Wang (Tsinghua University)
+A Treatment Engine by Predicting Next-Period Prescriptions
+Bo Jin (Dalian University of Technology); Haoyu Yang (Dalian University of Technology); Leilei Sun (Tsinghua University); Chuanren Liu (Drexel University); Yue Qu (Dalian University of Technology); Jianing Tong (Tongji University)
+IntelliLight: a Reinforcement Learning Approach for Intelligent Traffic Light Control
+Hua Wei (The Pennsylvania State University); Guanjie Zheng (The Pennsylvania State University); Huaxiu Yao (The Pennsylvania State University); Zhenhui Li (The Pennsylvania State University)
+Towards Explanation of DNN-based Prediction with Guided Feature Inversion
+Mengnan Du (Texas A&M University); Ninghao Liu (Texas A&M University); Qingquan Song (Texas A&M University); Xia Hu (Texas A&M University)
+Sequences of Sets
+Austin Benson (Cornell University); Ravi Kumar (Google); Andrew Tomkins (Google)
+Multi-Round Influence Maximization
+Lichao Sun (University of Illinois at Chicago); Weiran Huang (Tsinghua University); Philip Yu (University of Illinois at Chicago); Wei Chen (Microsoft)
+Generalized Score Functions for Causal Discovery
+Biwei Huang (Carnegie Mellon University); Kun Zhang (Carnegie Mellon University); Yizhu Lin (Carnegie Mellon University); Bernhard Scho?lkopf (Max-Planck Institute for Intelligent Systems); Clark Glymour (Carnegie Mellon University)
+XiaoIce Band: A Melody and Arrangement Generation Framework for Pop Music
+Hongyuan Zhu (USTC); Qi Liu (USTC); Nicholas Jing Yuan (Microsoft); Chuan Qin (USTC); Jiawei Li (Soochow University); Kun Zhang (USTC); Guang Zhou (Microsoft); Furu Wei (Microsoft); Yuanchun Xu (Microsoft); Enhong Chen (USTC)
+Deep r-th Root Rank Supervised Joint Binary Embedding for Multivariate Time Series Retrieval
+Dongjin Song (NEC Labs America); Ning Xia (NEC Labs America); Wei Cheng (NEC Labs America); Haifeng Chen (NEC Labs America); Dacheng Tao (The University of Sydney)
+FAHES: A Robust Disguised Missing Values Detector
+Mourad Ouzzani (Qatar Computing Research Institute, HBKU); Nan Tang (Qatar Computing Research Institute, HBKU); Ahmed Elmagarmid (Qatar Computing Research Institute, HBKU); Raul Castro Fernandez (CSAIL MIT); Abdulhakim A. Qahtan (Qatar Computing Research Institute, HBKU)
+Dynamic Bike Reposition: A Spatio-Temporal Reinforcement Learning Approach
+Yexin Li (The Hong Kong University of Science and Technology); Yu Zheng (Urban Computing Business Unit, JD Finance); Qiang Yang (The Hong Kong University of Science and Technology)
+Multi-User Mobile Sequential Recommendation: An Efficient Parallel Computing Paradigm
+Zeyang Ye (Stony Brook University); Lihao Zhang (Stony Brook University); Keli Xiao (Stony Brook University); Wenjun Zhou (University of Tennessee Knoxville); Yong Ge (University of Arizona); Yuefan Deng (Stony Brook University)
+Local Latent Space Models for Top-N Recommendation
+Evangelia Christakopoulou (University of Minnesota); George Karypis (University of Minnesota)
+Investor-Imitator: A Framework for Trading Knowledge Extraction
+Yi Ding (Nanjing University of Aeronautics and Astronautics); Weiqing Liu (Microsoft); Jiang Bian (Microsoft); Daoqiang Zhang (Nanjing University of Aeronautics and Astronautics); Tie-Yan Liu (Microsoft)
+Discrete Ranking-based Matrix Factorization with Self-Paced Learning
+Yan Zhang (University of Science and Technology of China); Haoyu Wang (University of Science and Technology of China); Defu Lian (University of Science and Technology of China); Ivor W. Tsang (University of Technology, Sydney); Hongzhi Yin (The University of Queensland); Guowu Yang (University of Science and Technology of China)
+LARC: Learning Activity-Regularized overlapping Communities across Time
+Alexander Gorovits (University at Albany-SUNY); Ekta Gujral (University of California Riverside); Evangelos Papalexakis (University of California Riverside); Petko Bogdanov (University at Albany-SUNY)
+EvoGraph: An Effective and Efficient Graph Upscaling Method for Preserving Graph Properties
+Himchan Park (DGIST); Min-Soo Kim (DGIST)
+Training Big Random Forests with Little Resources
+Fabian Gieseke (University of Copenhagen); Christian Igel (University of Copenhagen)
+
+Research Track Papers - Poster
+Large-Scale Learnable Graph Convolutional Networks
+Hongyang Gao (Washington State University); Zhengyang Wang (Washington State University); Shuiwang Ji (Washington State University)
+Online Adaptive Asymmetric Active Learning for Budgeted Imbalanced Data
+Yifan Zhang (South China University of Technology); Peilin Zhao (South China University of Technology); Jiezhang Cao (South China University of Technology); Wenye Ma (South China University of Technology); Junzhou Huang (University of Texas at Arlington); Qingyao Wu (South China University of Technology); Mingkui Tan (South China University of Technology)
+Multi-Label Inference for Crowdsourcing
+Jing Zhang (Nanjing University of Science and Technology); Xindong Wu (University of Louisiana at Lafayette)
+Deep Adversarial Learning for Multi-Modality Missing Data Completion
+Lei Cai (Washington State University); Zhengyang Wang (Washington State University); Hongyang Gao (Washington State University); Dinggang Shen (The University of North Carolina at Chapel Hill); Shuiwang Ji (Washington State University)
+SPARC: Self-Paced Network Representation for Few-Shot Rare Category Characterization
+Dawei Zhou (Arizona State University); Jingrui He (Arizona State University); Hongxia Yang (Alibaba Group); Wei Fan (Tencent Medical AI Lab)
+Towards Evolutionary Compression
+Yunhe Wang (Peking University); Chang Xu (The University of Sydney); Jiayan Qiu (The University of Sydney); Chao Xu (Peking University); Dacheng Tao (The University of Sydney)
+Accurate and Fast Asymmetric Locality-Sensitive Hashing Scheme for Maximum Inner Product Search
+Qiang Huang (Sun Yat-Sen University); Guihong Ma (Sun Yat-Sen University); Jianlin Feng (Sun Yat-Sen University); Qiong Fang (South China University of Technology); Anthony K. H. Tung (National University of Singapore)
+Parsing to Programs: A Framework for Situated QA
+Mrinmaya Sachan (Carnegie Mellon University); Eric P. Xing (Carnegie Mellon University)
+Dual Memory Neural Computer for Asynchronous Two-view Sequential Learning
+Hung Le (Deakin University); Truyen Tran (Deakin University); Svetha Venkatesh (Deakin University)
+Automated Local Regression Discontinuity Design Discovery
+William Herlands (Carnegie Mellon University); Edward McFowland Iii (University of Minnesota); Andrew Wilson (Cornell University); Daniel Neill (Carnegie Mellon University)
+PME: Projected Metric Embedding on Heterogeneous Networks for Link Prediction
+Hongxu Chen (The University of Queensland); Hongzhi Yin (The University of Queensland); Weiqing Wang (The University of Queensland); Hao Wang (Qihoo 360 Inc); Quoc Viet Hung Nguyen (Griffith University); Xue Li (The University of Queensland)
+Content to Node: Self-translation Network Embedding
+Jie Liu (Nankai University); Zhicheng He (Nankai University); Lai Wei (Nankai University); Yalou Huang (Nankai University)
+Isolation Kernel and Its Effect on SVM
+Kai Ming Ting (Federation University Australia); Yue Zhu (Nanjing University); Zhi-Hua Zhou (Nanjing University)
+Variable Selection and Task Grouping for Multi-Task Learning
+Junyong Jeong (POSSTECH); Chi-Hyuck Jun (POSTECH)
+Are your data gathered?
+Alban Siffer (Univ. Rennes, Inria, CNRS, IRISA, Amossys); Pierre-Alain Fouque (Univ. Rennes, CNRS, IRISA, IUF); Alexandre Termier (Univ. Rennes, Inria, CNRS, IRISA); Christine Largou
+Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning
+Thomas Vandal (Northeastern University); Evan Kodra (risQ Inc.); Jennifer Dy (Northeastern University); Sangram Ganguly (BAERI and NASA Ames Research Center); Ramakrishna Nemani (NASA); Auroop Ganguly (Northeastern University)
+Efficient Mining of the Most Significant Patterns with Permutation Testing
+Leonardo Pellegrina (University of Padova); Fabio Vandin (University of Padova)
+On Interpretation of Network Embedding via Taxonomy Induction
+Ninghao Liu (Texas A&M University); Xiao Huang (Texas A&M University); Jundong Li (Arizona State University); Xia Hu (Texas A&M University)
+Neural Memory Streaming Recommender Networks with Adversarial Training
+Qinyong Wang (The University of Queensland); Hongzhi Yin (The University of Queensland); Zhiting Hu (Language Technologies Institute, Carnegie Mellon University); Defu Lian (School of Computer Science and Engineering, University of Electronic Science and Technology of China); Hao Wang (360 Search Lab); Zi Huang (The University of Queensland)
+Extremely Fast Decision Tree
+Chaitanya Manapragada (Monash University); Geoffrey Webb (Monash University); Mahsa Salehi (Monash University)
+Easing Embedding Learning by Comprehensive Transcription of Heterogeneous Information Networks
+Yu Shi (University of Illinois at Urbana-Champaign); Qi Zhu (University of Illinois Urbana-Champaign); Fang Guo (University of Illinois Urbana-Champaign); Chao Zhang (University of Illinois Urbana-Champaign); Jiawei Han (University of Illinois at Urbana-Champaign)
+On the Generative Discovery of Structured Medical Knowledge
+Chenwei Zhang (University of Illinois at Chicago); Yaliang Li (Baidu Research Big Data Lab); Nan Du (Tencent Medical AI Lab); Wei Fan (Tencent Medical AI Lab); Philip S. Yu (University of Illinois at Chicago)
+Accelerated Equivalence Structure Extraction via Pairwise Incremental Search
+Seiya Satoh (National Institute of Advanced Industrial Science and Technology); Yoshinobu Takahashi (The University of Electro-Communications); Hiroshi Yamakawa (DWANGO Co., Ltd.)
+Unlocking the Value of Privacy: Trading Aggregate Statistics over Private Correlated Data
+Chaoyue Niu (Shanghai Jiao Tong University); Zhenzhe Zheng (Shanghai Jiao Tong University); Fan Wu (Shanghai Jiao Tong University); Shaojie Tang (The University of Texas at Dallas); Xiaofeng Gao (Shanghai Jiao Tong University); Guihai Chen (Shanghai Jiao Tong University)
+Learning from History and Present: Next-item Recommendation via Discriminatively Exploiting User Beh
+Zhi Li (University of Science and Technology of China); Hongke Zhao (University of Science and Technology of China); Qi Liu (University of Science and Technology of China); Zhenya Huang (University of Science and Technology of China); Tao Mei (JD.com); Enhong Chen (University of Science and Technology of China)
+Robust Bayesian Kernel Machine via Stein Variational Gradient Descent for Big Data
+Khanh Nguyen (Deakin University); Trung Le (PRaDA, Deakin University, Australia); Tu Dinh Nguyen (Deakin University); Dinh Phung (Deakin University); Geo?rey Webb (Monash University)
+Recurrent Binary Embedding for GPU-Enabled Exhaustive Retrieval from Billion-Scale Semantic Vectors
+Ying Shan (Microsoft); Jian Jiao (Microsoft); Jie Zhu (Microsoft); Jc Mao (Microsoft)
+DILOF: Effective and Memory Efficient Local Outlier Detection in Data Streams
+Gyoung S. Na (Pohang University of Science and Technology (POSTECH)); Donghyun Kim (Pohang University of Science and Technology (POSTECH),); Hwanjo Yu (Pohang University of Science and Technology (POSTECH),)
+Learning Structural Node Embeddings via Diffusion Wavelets
+Claire Donnat (Stanford University); Marinka Zitnik (Stanford University); David Hallac (Stanford University); Jure Leskovec (Stanford University)
+Transfer Learning via Feature Isomorphism Discovery
+Shimin Di (The Hong Kong University of Secience and Technology); Jingshu Peng (The Hong Kong University of Secience and Technology); Yanyan Shen (Shanghai Jiao Tong University); Lei Chen (The Hong Kong University of Secience and Technology)
+Demand-Aware Charger Planning for Electric Vehicle Sharing
+Bowen Du (SKLSDE Lab and BDBC, Beihang University); Yongxin Tong (SKLSDE Lab and BDBC, Beihang University); Zimu Zhou (Laboratory TIK, ETH Zurich); Qian Tao (SKLSDE Lab and BDBC, Beihang University); Wenjun Zhou (Department of BAS, University of Tennessee)
+Multi-task Representation Learning for Travel Time Estimation
+Yaguang Li (University of Southern California); Kun Fu (DiDi AI Labs); Zheng Wang (DiDi AI Labs); Cyrus Shahabi (University of Southern California); Jieping Ye (DiDi AI Labs); Yan Liu (University of Southern California)
+Safe Triplet Screening for Distance Metric Learning
+Tomoki Yoshida (Nagoya Institute of Technology); Ichiro Takeuchi (Nagoya Institute of Technology, National Institute for Material Science, RIKEN Center for Advanced Intelligence Project); Masayuki Karasuyama (Nagoya Institute of Technology, National Institute for Material Science, Japan Science and Technology Agency)
+Self-Paced Network Embedding
+Hongchang Gao (University of Pittsburgh); Heng Huang (University of Pittsburgh)
+Sketched Follow-The-Regularized-Leader for Online Factorization Machine
+Luo Luo (Shanghai Jiao Tong University); Wenpeng Zhang (Tsinghua University); Zhihua Zhang (Peking University); Wenwu Zhu (Tsinghua University); Tong Zhang (Tencent AI Lab); Jian Pei (Simon Fraser University)
+Coupled Context Modeling for Deep Chit-Chat: Towards Conversations between Human and Computer
+Rui Yan (Peking University); Dongyan Zhao (Peking University)
+Learning-to-Ask: Knowledge Acquisition via 20 Questions
+Yihong Chen (Tsinghua University); Bei Chen (Microsoft); Xuguang Duan (Tsinghua University); Jian-Guang Lou (Microsoft); Yue Wang (Tsinghua University); Wenwu Zhu (Tsinghua University); Yong Cao (Shanghai Higgs Intelligence & Technology Co. Ltd.)
+Multi-Cast Attention Networks
+Yi Tay (Nanyang Technological University); Anh Tuan Luu (Institute for Infocomm Research, Singapore); Siu Cheung Hui (Nanyang Technological University)
+Context-aware Academic Collaborator Recommendation
+Zheng Liu (The Hong Kong University of Science and Technology); Xing Xie (Microsoft); Lei Chen (The Hong Kong University of Science and Technology)
+RAIM: Recurrent Attentive and Intensive Modeling of Multimodal Continuous Patient Monitoring Data
+Yanbo Xu (Georgia Institute of Technology); Siddharth Biswal (Georgia Institute of Technology); Shriprasad Deshpande (Emory University School of Medicine); Kevin Maher (Emory University School of Medicine); Jimeng Sun (Georgia Institute of Technology)
+Route Recommendations for Idle Taxi Drivers: Find Me the Shortest Route to a Customer!
+Nandani Garg (IIT Madras); Sayan Ranu (IIT Delhi)
+Hyperparameter Importance Across Datasets
+Jan N. van Rijn (University of Freiburg); Frank Hutter (University of Freiburg)
+Classifying and Counting with Recurrent Contexts
+Denis Dos Reis (University of S
+Multilevel Wavelet Decomposition Network for Interpretable Time Series Analysis
+Jingyuan Wang (Beihang University); Ze Wang (Beihang University); Jianfeng Li (Beihang University); Junjie Wu (Beihang University)
+Active Opinion Maximization in Social Networks
+Xinyue Liu (Worcester Polytechnic Institute); Xiangnan Kong (Worcester Polytechnic Institute); Philip Yu (University of Illinois at Chicago)
+Identifying Sources and Sinks in the Presence of Multiple Agents with Gaussian Process Vector Calcul
+Adam Derek Cobb (University of Oxford); Richard Everett (University of Oxford); Andrew Markham (University of Oxford); Stephen Roberts (University of Oxford)
+Deep Censored Learning of the Winning Price in the Real Time Bidding
+Wush Chi-Hsuan Wu (National Taiwan University); Mi-Yen Yeh (Institute of Information Science, Academia Sinica); Ming-Syan Chen (National Taiwan University)
+Optimizing cluster-based randomized experiments under monotonicity
+Jean Pouget-Abadie (Harvard University); David Parkes (Harvard University); Vahab Mirrokni (Google); Edoardo M. Airoldi (Harvard University)
+Learning Credible Models
+Jiaxuan Wang (University of Michigan); Jeeheh Oh (University of Michigan); Haozhu Wang (University of Michigan); Jenna Wiens (University of Michigan)
+Explanation Mining: Post Hoc Interpretability of Latent Factor Models for Recommendation Systems
+Georgina Peake (Channel 4 Television); Jun Wang (Computer Science, University College London)
+Quantifying and minimizing risk of conflict in social networks
+Xi Chen (Dept. of Electronics and Information Systems, IDLab, Ghent University); Jefrey Lijffijt (Dept. of Electronics and Information Systems, IDLab, Ghent University); Tijl De Bie (Dept. of Electronics and Information Systems, IDLab, Ghent University)
+A Distributed Quasi-Newton Algorithm for Empirical Risk Minimization with Nonsmooth Regularization
+Ching-Pei Lee (University of Wisconsin-Madison); Cong Han Lim (University of Wisconsin-Madison); Stephen Wright (University of Wisconsin-Madison)
+DeepInf: Social Influence Prediction with Deep Learning
+Jiezhong Qiu (Tsinghua University); Jian Tang (HEC Montreal & Montreal Institute for Learning Algorithms (MILA)); Hao Ma (Microsoft); Yuxiao Dong (Microsoft); Kuansan Wang (Microsoft); Jie Tang (Tsinghua University)
+An Iterative Global Structure-Assisted Labeled Network Aligner
+Abdurrahman Ya?ar (Georgia Institute of Technology) and Umit V. Catalyurek (Georgia Institute of Technology)
+Discovering Models from Structural and Behavioral Brain Imaging Data
+Zilong Bai (University of California, Davis); Buyue Qian (Department of Computer Science Xi'An Jiaotong University); Ian Davidson (University of California, Davis)
+On Discrimination Discovery and Removal in Ranked Data using Causal Graph
+Yongkai Wu (University of Arkansas); Lu Zhang (University of Arkansas); Xintao Wu (University of Arkansas)
+Fairness of Exposure in Rankings
+Ashudeep Singh (Cornell University); Thorsten Joachims (Cornell University)
+BagMinHash - Minwise Hashing Algorithm for Weighted Sets
+Otmar Ertl (Dynatrace)
+Enhancing Predictive Modeling of Nested Spatial Data through Group-Level Feature Disaggregation
+Boyang Liu (Michigan State University); Pang-Ning Tan (Michigan State University); Jiayu Zhou (Michigan State University)
+New Incremental Learning Algorithm for Semi-Supervised Support Vector Machine
+Bin Gu (University of Pittsburgh); Xiao-Tong Yuan (Nanjing University of Information Science & Technology); Songcan Chen (Nanjing University of Aeronautics and Astronautics); Heng Huang (University of Pittsburgh)
+D2K: Scalable Community Detection in Massive Networks via Small-Diameter k-Plexes
+Alessio Conte (National Institute of Informatics, Japan); Tiziano De Matteis (University of Pisa); Daniele De Sensi (University of Pisa); Roberto Grossi (Universita' di Pisa); Andrea Marino (Universita' di Pisa); Luca Versari (Universita' di Pisa)
+Butterfly Counting in Bipartite Networks
+Seyed-Vahid Sanei-Mehri (Iowa State University); Ahmet Erdem Sariyuce (University at Buffalo); Srikanta Tirthapura (Iowa State University)
+An Empirical Evaluation of Sketching for Numerical Linear Algebra
+Yogesh Dahiya (IIT Kanpur); Dimitris Konomis (CMU); David P. Woodruff (Carnegie Mellon University)
+Deep Multi-Output Forecasting: Learning to Accurately Predict Blood Glucose Trajectories
+Ian Fox (University of Michigan); Lynn Ang (Department of Internal Medicine, Division of Metabolism, Endocrinology and Diabetes, University of Michigan); Mamta Jaiswal (Department of Internal Medicine, Division of Metabolism, Endocrinology and Diabetes, University of Michigan); Rodica Pop-Busui (Department of Internal Medicine, Division of Metabolism, Endocrinology and Diabetes, University of Michigan); Jenna Wiens (University of Michigan)
+Active Search of Connections for Case Building and Combating Human Trafficking
+Reihaneh Rabbany (Carnegie Mellon University); David Bayani (Carnegie Mellon University's Auton Labratory); Artur Dubrawski (Carnegie Mellon University)
+Not Just Privacy: Improving Performance of Private Deep Learning in Mobile Cloud
+Ji Wang (National University of Defense Technology); Jianguo Zhang (University of Illinois at Chicago); Weidong Bao (National University of Defense Technology); Xiaomin Zhu (National University of Defense Technology); Bokai Cao (University of Illinois at Chicago); Philip S. Yu (University of Illinois at Chicago)
+xStream: Outlier Detection in Feature-Evolving Data Streams
+Emaad Ahmed Manzoor (Carnegie Mellon University); Hemank Lamba (Carnegie Mellon University); Leman Akoglu (Carnegie Mellon University)
+Semi-Supervised Generative Adversarial Network for Gene Expression Inference
+Kamran Ghasedi (University of Pittsburgh); Xiaoqian Wang (University of Pittsburgh); Heng Huang (University of Pittsburgh)
+HiExpan: Task-Guided Taxonomy Construction by Hierarchical Tree Expansion
+Jiaming Shen (University of Illinois at Urbana-Champaign); Zeqiu Wu (University of Illinois at Urbana-Champaign); Dongming Lei (University of Illinois at Urbana-Champaign); Chao Zhang (University of Illinois at Urbana-Champaign); Xiang Ren (University of Southern California); Michelle T. Vanni (U.S. Army Research Laboratory); Brain M. Sadler (U.S. Army Research Laboratory); Jiawei Han (University of Illinois at Urbana-Champaign)
+Prediction-time Efficient Classification Using Feature Computational Dependencies
+Liang Zhao (George Mason University); Amir Alipour-Fanid (George Mason University); Martin Slawski (George Mason University); Kai Zeng (George Mason University)
+Approximating the Spectrum of a Graph
+David Cohen-Steiner (INRIA); Weihao Kong (Stanford University); Christian Sohler (TU Dortmund); Gregory Valiant (Stanford University)
+When Sentiment Analysis Meets Social Network: A Holistic User Behavior Modeling in Opinionated Data
+Lin Gong (University of Virginia); Hongning Wang (University of Virginia)
+Latent variable time-varying network inference
+Federico Tomasi (DIBRIS - Universita degli studi di Genova); Veronica Tozzo (DIBRIS - Universita degli studi di Genova); Saverio Salzo (IIT); Alessandro Verri (DIBRIS - Universita degli studi di Genova)
+Stablizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation
+Shi-Yong Chen (Nanjing University); Yang Yu (Nanjing University); Qing Da (Alibaba Group); Jun Tan (Alibaba Group); Hai-Kuan Huang (Alibaba Group); Hai-Hong Tang (Alibaba Group)
+Applied Data Science Track Papers - Oral
+I Know You¡¯ll Be Back: Interpretable New User Clustering and Churn Prediction on a Mobile Social App
+Carl Yang (University Of Illinois, Urbana Champaign); Xiaolin Shi (Snap Inc.); Jie Luo (Snap Inc.); Jiawei Han (University of Illinois, Urbana Champaign)
+PrePeP ¨C A Tool for the Identification and Characterization of Pan Assay Interference Compounds
+Maksim Koptelov (University of Caen Normandy); Albrecht Zimmermann (University of Caen Normandy); Pascal Bonnet (University of Orl¨¦ans); Ronan Bureau (University of Caen Normandy); Bruno Cr¨¦milleux (University of Caen Normandy)
+Large-Scale Order Dispatch in On-Demand Ride-Sharing Platforms: A Learning and Planning Approach
+Zhe Xu (AI Labs, Didi Chuxing); Zhixin Li (AI Labs, Didi Chuxing); Qingwen Guan (AI Labs, Didi Chuxing); Dingshui Zhang (AI Labs, Didi Chuxing); Qiang Li (AI Labs, Didi Chuxing); Junxiao Nan (AI Labs, Didi Chuxing); Chunyang Liu (AI Labs, Didi Chuxing); Wei Bian (AI Labs, Didi Chuxing); Jieping Ye (AI Labs, Didi Chuxing)
+WattHome: Identifying Energy-Inefficient Homes at City-scale
+Srinivasan Iyengar (University of Massachusetts Amherst); Stephen Lee (University of Massachusetts Amherst); David Irwin (University of Massachusetts Amherst); Prashant Shenoy (University of Massachusetts Amherst); Benjamin Weil (University of Massachusetts Amherst)
+Perceive Your Users in Depth: Learning Universal User Representations from Multiple E-commerce Tasks
+Yabo Ni (Alibaba Group); Dan Ou (Alibaba Group); Shichen Liu (Alibaba Group); Xiang Li (Alibaba Group); Wenwu Ou (Alibaba Group); Anxiang Zeng (Alibaba Group); Luo Si (Alibaba Group)
+E-tail product return prediction via hypergraph-based local graph cut
+Jianbo Li (Three Bridges Capital); Jingrui He (Arizona State University); Yada Zhu (IBM)
+Customized Regression Model for Airbnb Dynamic Pricing
+Peng Ye (Airbnb); Julian Qian (Ant financial); Jieying Chen (Airbnb); Chen-Hung Wu (Airbnb); Yitong Zhou (Airbnb); Spencer De Mars (Airbnb); Frank Yang (Airbnb); Li Zhang (Airbnb)
+TATC: Predicting Alzheimer¡¯s Disease with Actigraphy Data
+Jia Li (The Chinese University of Hong Kong); Yu Rong (Tencent AI Lab); Helen Meng (The Chinese University of Hong Kong); Zhihui Lu (The Chinese University of Hong Kong); Timothy Kwok (The Chinese University of Hong Kong); Hong Cheng (The Chinese University of Hong Kong)
+Automatic Discovery of Tactics in Spatio-Temporal Soccer Match Data
+Tom Decroos (Katholieke Universiteit Leuven); Jan Van Haaren (SciSports); Jesse Davis (Katholieke Universiteit Leuven)
+Corpus Conversion Service: A machine learning platform to ingest documents at scale.
+Peter W J Staar (IBM); Michele Dolfi (IBM); Christoph Auer (IBM); Costas Bekas (IBM)
+Using Machine Learning to Assess the Risk of and Prevent Water Main Breaks
+Avishek Kumar (The University of Chicago); Syed Ali Asad Rizvi (University of Oxford); Benjamin Brooks (University of Chicago); Ali Vanderveld (ShopRunner); Kevin Hayes Wilson (The Lab @ DC); Chad Kenney (City of Denver, CO); Adria Finch (City of Syracuse, NY); Andrew Maxwell (City of Syracuse, NY); Sam Edelstein (City of Syracuse, NY); Joe Zuckerbraun (City of Syracuse, NY); Rayid Ghani (University of Chicago)
+Using Rule-Based Labels for Weak Supervised Learning: A ChemNet for Transferable Chemical Property P
+Garrett Goh (Pacific Northwest National Laboratory); Charles Siegel (Pacific Northwest National Laboratory); Abhinav Vishnu (Pacific Northwest National Laboratory); Nathan Hodas (Pacific Northwest National Laboratory)
+OpenTag: Open Attribute Value Extraction from Product Profiles
+Guineng Zheng (University of Utah); Subhabrata Mukherjee (Amazon); Xin Luna Dong (Amazon); Feifei Li (University of Utah)
+Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding
+Kyle Hundman (NASA); Valentino Constantinou (NASA); Christopher Laporte (NASA); Ian Colwell (NASA); Tom Soderstrom (NASA)
+Online Parameter Selection for Web-based Ranking Problems
+Deepak Agarwal (LinkedIn Corporation); Kinjal Basu (LinkedIn Corporation); Souvik Ghosh (LinkedIn Corporation); Ying Xuan (LinkedIn Corporation); Yang Yang (LinkedIn Corporation); Liang Zhang (LinkedIn Corporation)
+Rare Query Expansion Through Generative Adversarial Networks in Search Advertising
+Mu-Chu Lee (Carnegie Mellon University); Bin Gao (Microsoft); Ruofei Zhang (Microsoft)
+Learning and Transferring IDs Representation in E-commerce
+Kui Zhao (Machine Intelligence Technologies, Alibaba Group); Yuechuan Li (Machine Intelligence Technologies, Alibaba Group); Zhaoqian Shuai (Machine Intelligence Technologies, Alibaba Group); Cheng Yang (Machine Intelligence Technologies, Alibaba Group)
+Collaborative Deep Metric Learning for Video Understanding
+Joonseok Lee (Google); Sami Abu-El-Haija (Google); Balakrishnan Varadarajan (Google); Paul Natsev (Google)
+Name Disambiguation in AMiner: Clustering, Maintenance, and Human in the Loop
+Yutao Zhang (Tsinghua University); Fanjin Zhang (Tsinghua University); Peiran Yao (Tsinghua University); Jie Tang (Tsinghua University)
+False Discovery Rate Controlled Heterogeneous Treatment Effect Detection for Online Controlled Exper
+Yuxiang Xie (University of Washington); Nanyu Chen (Snap Inc.); Xiaolin Shi (Snap Inc.)
+Rosetta: Large scale system for text detection and recognition in images
+Fedor Borisyuk (Facebook Inc.); Albert Gordo (Facebook Inc.); Viswanath Sivakumar (Facebook Inc.)
+Estimating Glaucomatous Visual Sensitivity from Retinal Thickness by Using Pattern-Based Regularizat
+Hiroki Sugiura (The University of Tokyo); Taichi Kiwaki (The University of Tokyo); Siamak Yousefi (University of Tennessee); Hiroshi Murata (The University of Tokyo); Ryo Asaoka (The University of Tokyo); Kenji Yamanishi (The University of Tokyo)
+Explaining Aviation Safety Incidents Using Deep Temporal Multiple Instance Learning
+Vijay Manikandan Janakiraman (USRA/ NASA ARC)
+Towards station-level demand prediction for effective rebalancing in bike-sharing systems
+Pierre Hulot (Polytechnique Montr¨¦al); Daniel Aloise (Polytechnique Montr¨¦al); Sanjay Jena (ESG-UQAM)
+Du-Parking: Spatio-Temporal Big Data Tells You Realtime Parking Availability
+Yuecheng Rong (Baidu); Zhimian Xu (Baidu); Ruibo Yan (Baidu); Xu Ma (Baidu)
+Near real-time optimization of activity-based notifications
+Yan Gao (LinkedIn); Viral Gupta (LinkedIn); Jinyun Yan (LinkedIn); Changji Shi (LinkedIn); Zhongen Tao (LinkedIn); Pj Xiao (LinkedIn); Curtis Wang (LinkedIn); Shipeng Yu (LinkedIn); Romer Rosales (LinkedIn); Ajith Muralidharan (LinkedIn); Shaunak Chatterjee (LinkedIn)
+Accelerating Prototype-Based Drug Discovery using Conditional Diversity Networks
+Shahar Harel (Technion); Kira Radinsky (Technion ¨C Israel Institute of Technology)
+Releasing eHealth Analytics into the Wild: Lessons Learnt from the SPHERE Project
+Tom Diethe (Amazon); Mike Holmes (University of Bristol); Meelis Kull (University of Tartu); Miquel Perello Nieto (University of Bristol); Kacper Sokol (University of Bristol); Hao Song (University of Bristol); Emma Tonkin (University of Bristol); Niall Twomey (University of Bristol); Peter Flach (University of Bristol)
+Real-time Personalization using Embeddings for Search Ranking at Airbnb
+Mihajlo Grbovic (Airbnb); Haibin Cheng (Airbnb)
+Detecting Illegal Vehicle Parking Events using Sharing Bikes¡¯ Trajectories
+Tianfu He (Harbin Institution of Technology); Jie Bao (Independent); Ruiyuan Li (Urban Computing Business Unit, JD Finance); Sijie Ruan (Urban Computing Business Unit, JD Finance); Yanhua Li (Worcester Polytechnic Institute (WPI)); Chao Tian (Beijing Mobike Technology Co., Ltd.); Yu Zheng (Urban Computing Business Unit, JD Finance)
+Graph Convolutional Neural Networks for Web-Scale Recommender Systems
+Rex Ying (Stanford University); Ruining He (Pinterest Inc.); Kaifeng Chen (Pinterest Inc.); Pong Eksombatchai (Pinterest Inc.); William L. Hamilton (Stanford University); Jure Leskovec (Stanford University)
+Audience Size Forecasting: Fast and Smart Budget Planning for Media Buyers
+Yeming Shi (Dstillery, Inc.); Claudia Perlich (Dstillery, Inc.); Rod Hook (Dstillery, Inc.)
+Q&R: A Two-Stage Approach Toward Interactive Recommendation
+Konstantina Christakopoulou (University of Minnesota); Alex Beutel (Google); Rui Li (Google); Sagar Jain (Google); Ed H. Chi (Google)
+ActiveRemediation: The Search for Lead Pipes in Flint, Michigan
+Jacob Abernethy (Georgia Institute of Technology); Alex Chojnacki (University of Michigan); Arya Farahi (University of Michigan - Ann Arbor); Eric Schwartz (University of Michigan); Jared Webb (Brigham Young University)
+Winner¡¯s Curse: Bias Estimation for Total Effects of Features in Online Controlled Experiments
+Minyong Lee (Airbnb); Milan Shen (Airbnb)
+Detection of Apathy in Alzheimer Patients by Analysing Visual Scanning Behaviour with RNNs
+Jonathan Chung (University of Toronto); Sarah A. Chau (University of Toronto); Nathan Herrmann (University of Toronto); Krista L. Lanct?t (University of Toronto); Moshe Eizenman (University of Toronto)
+A Dynamic Pipeline for Spatio-Temporal Fire Risk Prediction
+Bhavkaran Singh Walia (Carnegie Mellon University); Qianyi Hu (Carnegie Mellon University); Jeffrey Chen (Carnegie Mellon University); Fangyan Chen (Carnegie Mellon University); Jessica Lee (Carnegie Mellon University); Nathan Kuo (Carnegie Mellon University); Palak Narang (Carnegie Mellon University); Jason Batts (Pittsburgh Bureau of Fire); Geoffrey Arnold (Pittsburgh Department of Innovation and Performance); Michael Madaio (Carnegie Mellon University)
+Optimization of a SSP¡¯s Header Bidding Strategy using Thompson Sampling
+Gr¨¦goire Jauvion (AlephD), Nicolas Grislain (AlephD), Pascal Dkengne Sielenou (Institut de Math¨¦matiques de Toulouse), Aur¨¦lien Garivier (Institut de Math¨¦matiques de Toulouse), and S¨¦bastien Gerchinovitz (Institut de Math¨¦matiques de Toulouse)
+Applying the Delta method in metric analytics: A practical guide with novel ideas
+Alex Deng (Microsoft); Ulf Knoblich (Microsoft); Jiannan Lu (Microsoft)
+Where Will Dockless Shared Bikes be Stacked?¡ª- Parking Hotspots Detection in a New City
+Zhaoyang Liu (Shanghai Jiao Tong University); Yanyan Shen (Shanghai Jiao Tong University); Yanmin Zhu (Shanghai Jiao Tong University)
+Applied Data Science Track Papers - Poster
+Visual Search at Alibaba
+Yanhao Zhang (iDST, Alibaba Group); Pan Pan (iDST, Alibaba Group); Yun Zheng (iDST, Alibaba Group); Kang Zhao (iDST, Alibaba Group); Yingya Zhang (iDST, Alibaba Group); Xiaofeng Ren (iDST, Alibaba Group); Rong Jin (iDST, Alibaba Group)
+Deep Distributed Fusion Network for Air Quality Prediction
+Xiuwen Yi (Southwest Jiaotong University); Junbo Zhang (Southwest Jiaotong University); Zhaoyuan Wang (Southwest Jiaotong University); Tianrui Li (Southwest Jiaotong University); Yu Zheng (JD Finance)
+Deep Interest Network for Click-Through Rate Prediction
+Guorui Zhou (Alibaba-inc); Xiaoqiang Zhu (Alibaba-inc); Chengru Song (alibaba-inc); Kun Gai (alibaba-inc); Ying Fan (alibaba-inc); Han Zhu (alibaba); Xiao Ma (alibaba-inc); Yanghui Yan (alibaba-inc); Junqi Jin (alibaba-inc); Han Li (alibaba-inc)
+Learning Tree-based Deep Model for Recommender Systems
+Han Zhu (Alibaba Group); Xiang Li (Alibaba Group); Pengye Zhang (Alibaba Group); Guozheng Li (Alibaba Group); Jie He (Alibaba Group); Han Li (Alibaba Group); Kun Gai (Alibaba Group)
+An Extensible Event Extraction System With Cross-Media Event Resolution
+Fabio Petroni (Thomson Reuters); Natraj Raman (Thomson Reuters); Timothy Nugent (Thomson Reuters); Armineh Nourbakhsh (Thomson Reuters); Zarko Panic (Thomson Reuters); Sameena Shah (Thomson Reuters); Jochen L. Leidner (Thomson Reuters)
+Dynamic Pricing under Competition on Online Marketplaces: A Data-Driven Approach
+Rainer Schlosser (Hasso Plattner Institute); Martin Boissier (Hasso Plattner Institute)
+PittGrub: A Frustration-Free System to Reduce Food Waste by Notifying Hungry College Students
+Mark Silvis (University of Pittsburgh, School of Computer Science); Anthony Sicilia (University of Pittsburgh, School of Computer Science); Alexandros Labrinidis (University of Pittsburgh, School of Computer Science)
+Autotune: A Derivative-free Optimization Framework for Hyperparameter Tuning
+Patrick Koch (SAS Institute Inc.); Oleg Golovidov (SAS Institute Inc.); Steven Gardner (SAS Institute Inc.); Brett Wujek (SAS Institute Inc.); Joshua Griffin (SAS Institute Inc.); Yan Xu (SAS Institute Inc.)
+Improving Box Office Result Predictions for Movies Using Consumer-Centric Models
+Rui Paulo Ruhrl?nder, Martin Boissier, Matthias Uflacker
+State space models for forecasting water quality variables: An application in aquaculture prawn farm
+Joel Dabrowski (CSIRO); Ashfaqur Rahman (CSIRO); Andrew George (CSIRO); Stuart Arnold (CSIRO); John McCulloch (CSIRO)
+Lessons Learned from Developing and Deploying a Large-Scale Employer Name Normalization System for O
+Qiaoling Liu (CareerBuilder LLC); Josh Chao (CareerBuilder LLC); Thomas Mahoney (CareerBuilder LLC); Chris Min (CareerBuilder LLC); Faizan Javed (CareerBuilder LLC); Alan Chern (Georgia Institute of Technology); Valentin Jijkoun (Textkernel BV)
+Web-Scale Responsive Visual Search at Bing
+Houdong Hu (Microsoft); Yan Wang (Microsoft); Linjun Yang (Microsoft); Pavel Komlev (Microsoft); Li Huang (Microsoft); Xi Stephen Chen (Microsoft); Jiapei Huang (Microsoft); Ye Wu (Microsoft); Meenaz Merchant (Microsoft); Arun Sacheti (Microsoft)
+Distributed Collaborative Hashing and Its Applications in Ant Financial
+Chaochao Chen (Ant Financial Group); Ziqi Liu (Ant Financial Group); Peilin Zhao (Ant Financial); Longfei Li (Ant Financial); Jun Zhou (Ant Financial); Xiaolong Li (Ant Financial Group)
+Reinforcement Learning to Rank in E-Commerce Search Engine: Formalization, Analysis, and Application
+Yujing Hu (Alibaba Group); Qing Da (Alibaba Group); Anxiang Zeng (Alibaba Group); Yang Yu (Nanjing University); Yinghui Xu (Alibaba Group)
+Next-Step Suggestions for Modern Interactive Data Analysis Platforms
+Amit Somech (Tel Aviv University); Tova Milo (Tel Aviv University)
+COTA: Improving the Speed and Accuracy of Customer Support through Ranking and Deep Networks
+Piero Molino (Uber AI Labs); Huaixiu Zheng (Ubet technologies); Yi-Chia Wang (Uber Technologies)
+Device Graphing by Example
+Keith Funkhouser (comScore); Matthew Malloy (comScore); Enis Ceyhun Alp (Ecole Polytechnique F¨¦d¨¦rale de Lausanne); Phillip Poon (comScore); Paul Barford (comScore, University of Wisconsin)
+Multimodal Sentiment Analysis To Explore the Structure of Emotions
+Anthony Hu (University of Oxford); Seth Flaxman (Imperial College London)
+SDREGION: fast spotting of changing communities in biological networks
+Serene W.H. Wong (University Health Network); Chiara Pastrello (University Health Network); Max Kotlyar (University Health Network); Christos Faloutsos (Carnegie Mellon University); Igor Jurisica (University of Toronto)
+RapidScorer: Fast Tree Ensemble Evaluation by Maximizing Compactness in Data Level Parallelization
+Ting Ye (Microsoft); Hucheng Zhou (Alibaba); Will Zou (Microsoft); Bin Gao (Microsoft); Ruofei Zhang (Microsoft)
+A real-time framework for detecting efficiency regressions in a globally distributed codebase
+Martin Valdez-Vivas (Facebook); Caner Gocmen (Facebook); Andrii Korotkov (Facebook); Ethan Fang (Facebook); Kapil Goenka (Facebook); Sherry Chen (Facebook)
+Gotcha - Sly Malware! Scorpion: A Metagraph2vec Based Malware Detection System
+Yujie Fan (West Virginia University); Shifu Hou (West Virginia University); Yiming Zhang (West Virginia University); Yanfang Ye (West Virginia University); Melih Abdulhayoglu (Comodo Security Solutions, Inc.)
+Career Transitions and Trajectories: A Case Study in Computing
+Tara Safavi (University of Michigan Ann Arbor); Maryam Davoodi (Purdue University); Danai Koutra (University of Michigan Ann Arbor)
+Fatigue Prediction in Outdoor Runners Via Machine Learning and Sensor Fusion
+Tim Op De Be¨¦ck, Wannes Meert, Kurt Sch¨¹tte, Benedicte Vanwanseele, Jesse Davis
+Inferring Metapopulation Propagation Network for Intra-city Epidemic Control and Prevention
+Jingyuan Wang (Beihang University); Xiaojian Wang (Beihang University); Junjie Wu (Beihang University)
+BigIN4: Instant, Interactive Insight Identification for Multi-Dimensional Big Data
+Qingwei Lin (Microsoft); Weichen Ke (Peking University); Jian-Guang Lou (Microsoft); Hongyu Zhang (The University of Newcastle); Kaixin Sui (Microsoft); Yong Xu (Microsoft); Ziyi Zhou (Microsoft); Bo Qiao (Microsoft); Dongmei Zhang (Microsoft)
+Managing Computer-Assisted Detection System Based on Transfer Learning with Negative Transfer Inhibi
+Issei Sato (The University of Tokyo); Yukihiro Nomura (The University of Tokyo); Shouhei Hanaoka (The University of Tokyo); Soichiro Miki (The University of Tokyo); Naoto Hayashi (The University of Tokyo); Osamu Abe (The University of Tokyo); Yoshitaka Masutani (Hiroshima City University)
+Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba
+Jizhe Wang (Alibaba Group); Pipei Huang (Alibaba Group); Huan Zhao (The Hong Kong University of Science and Technology); Zhibo Zhang (Alibaba Group); Binqiang Zhao (Alibaba Group); Dik Lun Lee (The Hong Kong University of Science and Technology)
+Multi-Task Learning with Neural Networks for Voice Query Understanding on an Entertainment Platform
+Jinfeng Rao (University of Maryland); Ferhan Ture (Comcast Applied AI Research Lab); Jimmy Lin (University of Waterloo)
+A Data-Driven Three-Layer Algorithm for Split Delivery Vehicle Routing Problem with 3D Container Loa
+Xijun Li (Huawei Noah's Ark Lab); Mingxuan Yuan (Huawei Noah's Ark Lab); Di Chen (Huawei Noah's Ark Lab); Jianguo Yao (Shanghai Jiao Tong University); Jia Zeng (Huawei Noah's Ark Lab)
+Predicting Estimated Time of Arrival for Commercial Flights
+Samet Ayhan (University of Maryland); Pablo Costas (Boeing Research & Technology Europe); Hanan Samet (University of Maryland)
+SQR: Balancing Speed, Quality and Risk in Online Experiments
+Ya Xu (LinkedIn Corporation); Weitao Duan (LinkedIn Corporation); Shaochen Huang (LinkedIn Corporation)
+Optimal Allocation of Real-Time-Bidding And Direct Campaigns
+Gre?goire Jauvion (AlephD); Nicolas Grislain (AlephD)
+Tax fraud detection for under-reporting declarations using an unsupervised machine learning approach
+Daniel de Roux (Universidad de los Andes); Boris P
+Dynamic Recommendations for Sequential Hiring Decisions in Online Labor Markets
+Marios Kokkodis (Carroll School of Management, Boston College)
+Assessing Candidate Preference through Web Browsing History
+Giovanni Comarela (Universidade Federal de Vi
+Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning
+Xiangyu Zhao (Michigan State University); Liang Zhang (JD.com); Zhuoye Ding (JD.com); Long Xia (Data Science Lab, JD.com); Jiliang Tang (Michigan State University); Dawei Yin (JD.com)
+Product characterisation towards personalisation: Learning attributes from unstructured data to reco
+Angelo Cardoso (ISR, IST, Universidade de Lisboa); Fabio Daolio (ASOS.com); Sa
+A Scalable Solution for Rule-Based Part-of-Speech Tagging on Novel Hardware Accelerators
+Elaheh Sadredini (University of Virginia); Deyuan Guo (University of Virginia); Chunkun Bo (University of Virginia); Reza Rahimi (University of Virginia); Hongning Wang (University of Virginia); Kevin Skadron (University of Virginia)
+Buy It Again: Modeling Repeat Purchase Recommendations
+Rahul Bhagat (Amazon.com Inc.); Srevatsan Muralidharan (Amazon.com Inc.); Alex Lobzhanidze (Amazon.com Inc.); Shankar Vishwanath (Amazon.com Inc.)
+Adaptive Paywall Mechanism for Digital News Media
+Heidar Davoudi (University of York); Aijun An (University of York); Morteza Zihayat (Ryerson University); Gordon Edall (The Globe and Mail)
+Deep Sequence Learning with Auxiliary Information for Traffic Prediction
+Binbing Liao (Zhejiang University); Jingqing Zhang (Data Science Institute, Imperial College London); Chao Wu (Data Science Institute, Imperial College London); Douglas McIlwraith (Data Science Institute, Imperial College London); Tong Chen (Zhejiang University); Shengwen Yang (Big Data Lab, Baidu Research); Yike Guo (Data Science Institute, Imperial College London); Fei Wu (Zhejiang University)
+Scalable Query N-Gram Embedding for Improving Matching and Relevance in Sponsored Search
+Xiao Bai (Yahoo Research); Erik Ordentlich (Yahoo Research); Yuanyuan Zhang (Yahoo Research); Andy Feng (NVIDIA); Adwait Ratnaparkhi (Yahoo Research); Reena Somvanshi (Oath); Aldi Tjahjadi (Oath)
+Scalable Optimization for Embedding Highly-Dynamic and Recency-Sensitive Data
+Xumin Chen (Tsinghua University); Peng Cui (Tsinghua University); Shiqiang Yang (Tsinghua University)
+Pangloss: Fast Entity Linking in Noisy Text Environments
+Michael Conover (Workday, Inc); Scott Blackburn (Workday, Inc); Matthew Hayes (Workday, Inc); Pete Skomoroch (Workday, Inc); Sam Shah (Workday, Inc)
+Learning to Estimate the Travel Time
+Zheng Wang (Didi Chuxing); Kun Fu (Didi Chuxing); Jieping Ye (Didi Chuxing)
+Anatomy of a Privacy-Safe Large-Scale Information Extraction System Over Email
+Ying Sheng (Google); Sandeep Tata (Google); James B. Wendt (Google); Jing Xie (Google); Qi Zhao (Google); Marc Najork (Google)
+Exploring Student Check-In Behavior for Improved Point-of-Interest Prediction
+Mengyue Hang (Purdue University); Ian Pytlarz (Purdue University); Jennifer Neville (Purdue University)
+EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection
+Yaqing Wang (University at Buffalo, SUNY); Fenglong Ma (SUNY Buffalo); Zhiwei Jin (University of Chinese Academy of Sciences); Ye Yuan (Beijing University of Technology); Guangxu Xun (SUNY Buffalo); Kishlay Jha (SUNY Buffalo); Lu Su (The State University of New York at Buffalo); Jing Gao (University at Buffalo)
+Interpretable Representation Learning for Healthcare via Capturing Disease Progression through Time
+Tian Bai (Temple University); Shanshan Zhang (Temple University); Brian Egleston (Fox Chase Cancer Center); Slobodan Vucetic (Temple University)
+Notification Volume Control and Optimization System at Pinterest
+Bo Zhao (Pinterest); Koichiro Narita (Pinterest); Burkay Orten (Pinterest); John Egan (Pinterest)
+Deep Learning for Practical Image Recognition: Case Study on Kaggle Competitions
+Xulei Yang (Institute for Infocomm Research); Zeng Zeng (Institute for Infocomm Research); Sin Teo (Institute for Infocomm Research); Li Wang (Institute for Infocomm Research); Vijay Chandrasekhar (Institute for Infocomm Research); Steven Hoi (Singapore Management University)
+Identify Susceptible Locations in Medical Records via Adversarial Attacks on Deep Predictive Models
+Mengying Sun (Michigan State University); Fengyi Tang (Michigan State University); Jinfeng Yi (Tencent AI Lab); Fei Wang (Weill Cornell Medical School); Jiayu Zhou (Michigan State University)
+Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression
+Nilaksh Das (Georgia Institute of Technology); Madhuri Shanbhogue (Georgia Institute of Technology); Shang-Tse Chen (Georgia Institute of Technology); Fred Hohman (Georgia Institute of Technology); Siwei Li (Georgia Institute of Technology); Li Chen (Intel); Michael E. Kounavis (Intel); Duen Horng Chau (Georgia Institute of Technology)
+Deploying Machine Learning Models for Public Policy: A Framework
+Klaus Ackermann (Center for Data Science and Public Policy, University of Chicago; Monash University); Joe Walsh (Center for Data Science and Public Policy, University of Chicago); Adolfo De Una?nue (Center for Data Science and Public Policy, University of Chicago); Hareem Naveed (Center for Data Science and Public Policy, University of Chicago); Andrea Navarrete Rivera (Instituto Tecnolo?gico Auto?nomo de Me?xico); Sun-Joo Lee (Center for Data Science and Public Policy University of Chicago); Jason Bennett (Charlotte-Mecklenburg Police Department); Michael Defoe (Charlotte-Mecklenburg Police Department); Crystal Cody (Charlotte-Mecklenburg Police Department); Lauren Haynes (Center for Data Science and Public Policy University of Chicago); Rayid Ghani (Center for Data Science and Public Policy University of Chicago)
+Detection of Paroxysmal Atrial Fibrillation using Attention based Bidirectional Recurrent Neural Net
+Supreeth Prajwal Shashikumar (Georgia Institute of Technology); Amit Shah (Emory University); Gari Clifford (Emory University); Shamim Nemati (Emory University)
+Active Deep Learning To Tune Down the Noise in Labels
+Karan Samel (Astound); Xu Miao (Astound)
+Resolving Abstract Anaphora in Conversational Assistants using a Hierarchically-stacked RNN
+Prerna Khurana (Tata Consultancy Services); Puneet Agarwal (Tata Consultancy Services); Gautam Shroff (Tata Consultancy Services); Lovekesh Vig (Tata Consultancy Services)
+Mobile access record resolution on large-scale identifier-linkage graphs
+Shen Xin (Zhejiang University); Weizhao Xian (Zhejiang University); Martin Ester (Simon Fraser University); Hongxia Yang (Alibaba Group); Zhongyao Wang (Alibaba Group Holding Ltd); Jiajun Bu (Zhejiang University); Can Wang (Zhejiang University)
+Towards Knowledge Discovery from the Vatican Secret Archives. In Codice Ratio
+Donatella Firmani (Roma Tre University); Marco Maiorino (Vatican Secret Archives); Paolo Merialdo (Universit
+Deep Reinforcement Learning for Sponsored Search Real-time Bidding
+Jun Zhao (Alibaba Group); Guang Qiu (Alibaba Group); Ziyu Guan (Xidian University); Wei Zhao (Xidian University); Xiaofei He (Zhejiang University)
+How LinkedIn Economic Graph Bonds Information and Product: Applications in LinkedIn Salary
+Xi Chen (LinkedIn Corporation); Yiqun Liu (LinkedIn Corporation); Liang Zhang (LinkedIn Corporation); Krishnaram Kenthapadi (LinkedIn Corporation)
+Hetero-ConvLSTM: A Deep Learning Approach to Traffic Accident Prediction on Heterogeneous Spatio-Tem
+Zhuoning Yuan (University of Iowa); Xun Zhou (University of Iowa); Tianbao Yang (University of Iowa)
+Automated Audience Segmentation Using Reputation Signals
+Maria Daltayanni (USF), Ali Dasdan (KD Consulting), Luca de Alfaro (UCSC)
+Infrastructure Quality Assessment in Africa using Satellite Imagery and Deep Learning
+Barak Oshri (Stanford University); Annie Hu (Stanford University); Peter Adelson (Stanford University); Xiao Chen (Stanford University); Pascaline Dupas (Stanford University); Jeremy Weinstein (Stanford University); Marshall Burke (Stanford University); David Lobell (Stanford University); Stefano Ermon (Stanford University)
+NGUARD: A Game Bot Detection Framework for NetEase MMORPGs
+Jianrong Tao (NetEase Fuxi AI Lab); Jiarong Xu (Zhejiang University); Linxia Gong (NetEase Fuxi AI Lab); Yifu Li (NetEase Fuxi AI Lab); Changjie Fan (NetEase Fuxi AI Lab); Zhou Zhao (Zhejiang University)
+Rotation-Blended CNNs on a New Open Dataset for Tropical Cyclone Image-to-intensity Regression
+Boyo Chen (National Taiwan University); Buofu Chen (National Center of Atmospheric Research); Hsuan-Tien Lin (National Taiwan University)
+Accelerating Large-Scale Data Analysis by Offloading to High-Performance Computing Libraries using A
+Alex Gittens (Rensselaer Polytechnic Institute); Kai Rothauge (University of California, Berkeley); Shusen Wang (University of California, Berkeley); Michael Mahoney (University of California, Berkeley); Lisa Gerhardt (NERSC/LBNL); Prabhat (NERSC/LBNL); Jey Kottalam (University of California, Berkeley); Michael Ringenburg (Cray Inc.); Kristyn Maschhoff (Cray Inc.)
+MIX: Multi-Channel Information Crossing for Text Matching
+Haolan Chen (Mobile Internet Group, Tencent); Fred X. Han (University of Alberta); Di Niu (University of Alberta); Dong Liu (Mobile Internet Group, Tencent); Kunfeng Lai (Mobile Internet Group, Tencent); Chenglin Wu (Mobile Internet Group, Tencent); Yu Xu (Mobile Internet Group, Tencent)
+Discovering latent patterns of urban cultural interactions in WeChat for modern city planning
+Xiao Zhou (University of Cambridge); Anastasios Noulas (Center for Data Science New York University); Cecilia Mascolo (University of Cambridge); Zhongxiang Zhao (Tencent Corporation, Shenzhen, China)
+Learning Tasks for Multitask Learning: Heterogenous Patient Populations in the ICU
+Harini Suresh (Massachusetts Institute of Technology); Jen Gong (Massachusetts Institute of Technology); John Guttag (Massachusetts Institute of Technology)
+StepDeep: A Novel Spatial-temporal Mobility Event Prediction Framework based on Deep Neural Network
+Bilong Shen (Tsinghua University); Xiaodan Liang (Carnegie Mellon University); Yufeng Ouyang (Arizona State University); Miaofeng Liu (University of Science and Technology of China); Weimin Zheng (Tsinghua University); Kathleen Carley (Carnegie Mellon University)
