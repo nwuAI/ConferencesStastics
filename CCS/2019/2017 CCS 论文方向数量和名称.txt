@@ -1,1 +1,67 @@
+ACM 计算机与通信安全会议（CCS, ACM Conference on Computer and Communications Security）属于CCF A类会议，行业四大会议之一（S&P、CCS、Security、NDSS）。CCS 2018年共收到809篇论文，录取134篇论文，录用率为16.6%。（中文地址：https://www.jianshu.com/p/ee92546ee54f）
+
+
+分类：
+Multi-Party Computation（多部分计算） 
+DUPLO: Unifying Cut-and-Choose for Garbled Circuits
+Authenticated Garbling and Efficient Maliciously Secure Two-Party Computation
+Global-Scale Secure Multiparty Computation
+Pool: Scalable On-Demand Secure Computation Service Against Malicious Adversaries
+A Framework for Constructing Fast MPC Over Arithmetic Circuits with Malicious Adversaries and an Honest-Majority
+Efficient, Constant-Round and Actively Secure MPC: Beyond the Three-Party Case
+
+
+
+Human Authentication（身份验证）
+Hearing Your Voice Is Not Enough: An Articulatory Gesture Based Liveness Detection for Voice Authentication
+VibWrite: Towards Finger-input Authentication on Ubiquitous Surfaces via Physical Vibration
+Presence Attestation: The Missing Link In Dynamic Trust Bootstrapping
+
+
+Adversial Machine Learning（对抗机器学习）：
+Evading Classifiers by Morphing in the Dark
+MagNet: a Two-Pronged Defense Against Adversarial Examples
+DolphinAttack: Inaudible Voice Commands
+
+Passwords（密码）：
+Let's Go in for a Closer Look: Observing Passwords in Their Natural Habitat
+
+
+
+Browsers（浏览器） 
+Hindsight: Understanding the Evolution of UI Vulnerabilities in Mobile Browsers
+Deterministic Browser
+Most Websites Don't Need to Vibrate: A Cost-Benefit Approach to Improving Browser Security
+
+
+
+Cryptocurrency （加密货币）
+Be Selfish and Avoid Dilemmas: Fork After Withholding (FAW) Attacks on Bitcoin
+Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for Verifiable Cloud Computing
+Zero-Knowledge Contingent Payments Revisited: Attacks and Payments for Services
+
+
+
+国人参与论文：
+1） PrinTracker: Fingerprinting 3D Printers using Commodity Scanners	
+     Zhengxiong Li (SUNY University at Buffalo), Aditya Singh Rathore (SUNY University at Buffalo), Chen Song (SUNY University at Buffalo), Wenyao      Xu (SUNY University at Buffalo), Sheng Wei (Rutgers University), Yanzhi Wang (Northeastern University)
+2） CALM: Consistent Adaptive Local Marginal for Marginal Release under Local Differential Privacy	
+    Zhikun Zhang (Zhejiang University), Tianhao Wang (Purdue University), Ninghui Li (Purdue University), Shibo He (Zhejiang University), Jiming         Chen (Zhejiang University)
+3）Yet Another Text Captcha Solver: A Generative Adversarial Network Based Approach	
+    Guixin Ye (Northwest University), Zhanyong Tang (Northwest University), Dingyi Fang (Northwest University), Zhanxing Zhu (Peking University),        Yansong Feng (Peking University), Pengfei Xu (Northwest University), Xiaojiang Chen (Northwest University), Zheng Wang (Lancaster University)
+4）Towards Paving the Way for Large-Scale Windows Malware Analysis: Generic Binary Unpacking with Orders-of-Magnitude Performance Boost	    Binlin Cheng (Wuhan University &, Hubei Normal University), Jiang Ming (University of Texas at Arlington), Jianming Fu (Wuhan University),            Guojun Peng (Wuhan University), Ting Chen (University of Electronic Science and Technology of China), Xiaosong Zhang (University of Electronic      Science and Technology of China), Jean-Yves Marion (LORIA)
+5）PatternListener: Cracking Android Pattern Lock Using Acoustic Signals	
+    Man Zhou (Wuhan University), Qian Wang (Wuhan University), Jingxiao Yang (Wuhan University), Qi Li (Tsinghua University), Feng Xiao (Wuhan        University), Zhibo Wang (Wuhan University), Xiaofeng Chen (Xidian University)
+    Pinpointing Insecure Cryptographic Keys from Execution Traces	
+    Juanru Li (Shanghai Jiao Tong University), Zhiqiang Lin (Ohio State University), Juan Caballero (IMDEA Software Institute), Yuanyuan Zhang       (Shanghai Jiao Tong University), Dawu Gu (Shanghai Jiao Tong University)
+6）HoMonit: Monitoring Smart Home Apps from Encrypted Traffic	
+    Wei Zhang (Shanghai Jiao Tong University), Yan Meng (Shanghai Jiao Tong University), Yugeng Liu (Shanghai Jiao Tong University), Xiaokuan            Zhang (The Ohio State University), Yinqian Zhang (The Ohio State University), Haojin Zhu (Shanghai Jiao Tong University)
+7）New Constructions for Forward and Backward Private Symmetric Searchable Encryption	
+    Javad Ghareh Chamani (Hong Kong University of Science and Technology &, Sharif University of Technology), Dimitrios Papadopoulos (Hong        Kong University of Science and Technology), Charalampos Papamanthou (University of Maryland), Rasool Jalili (Sharif Univesity of Technology)
+8）How You Get Bullets in Your Back: A Systematical Study about Cryptojacking in Real-world	
+    Geng Hong (Fudan University), Zhemin Yang (Fudan University), Sen Yang (Fudan University), Lei Zhang (Fudan University), Yuhong Nan (Fudan        University), Zhibo Zhang (Fudan University), Min Yang (Fudan University), Yuan Zhang (Fudan University), Zhiyun Qian (UC Riverside), Haixin     Duan    (Tsinghua University)
+9）Invetter: Locating Insecure Input Validations in Android Services	
+     Lei Zhang (Fudan University), Zhemin Yang (Fudan University), Yuyu He (Fudan University), Zhenyu Zhang (Fudan University), Zhiyun Qian              (University of Califormia Riverside), Geng Hong (Fudan University), Yuan Zhang (Fudan University), Min Yang (Fudan University)
+10）Revery: from Proof-of-Concept to Exploitable (One Step towards Automatic Exploit Generation)	
+    Yan Wang (Institute of Information Engineering, Chinese Academy of Sciences), Chao Zhang (Institute for Network Sciences and Cyberspace,          Tsinghua University), Xiaobo Xiang (Institute of Information Engineering, Chinese Academy of Sciences), Zixuan Zhao (Institute of Information       Engineering, Chinese Academy of Sciences), Bingchang Liu (Institute of Information Engineering, Chinese Academy of Sciences), Wenjie Li       (Institute of Information Engineering, Chinese Academy of Sciences), Xiaorui Gong (Institute of Information Engineering, Chinese Academy of          Sciences), Kaixiang Chen (Institute for Network Sciences and Cyberspace, Tsinghua University), Wei Zou (Institute of Information Engineering,          Chinese Academy of Sciences)
 
