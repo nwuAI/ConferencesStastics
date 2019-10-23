@@ -1,0 +1,358 @@
+2018 INFOCOM共收到 1606篇投稿，最终录取了 209篇论文，录取率为 (19.2%)。其中，中国96篇（38.25%），美国92篇（36.65%）。会议涵括范围：5G网络，大数据和机器学习解决网络问题，蜂窝网络，云计算/移动云计算，认知无线网络，网络跨层优化和控制，网络物理系统，数据中心网络，网络能效设计，边缘和雾计算/网络，网络容错性、可靠性和生存性，互联网结构，物联网，MIMO网络，网络可视化，网络安全性，车联网，无线传感网。
+
+2019 SIGCOM范围：机器学习（包括深度学习等），网络应用结果，互联网的经济，网络交通特征，容错&可靠，安全&漏洞&防御，网络协议，路由&交换&中继，资源管理与分配，无线&移动网络，社交网络。
+
+
+分类：
+1) 机器学习（包括深度学习等）（43篇）
+A Collaborative Learning Based Approach for Parameter Configuration of Cellular Networks（华为） -- 协同学习
+Statistical learning of geometric characteristics of wireless networks（华为） -- 统计学习
+Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning（武大）-- 联邦学习
+DRL360: 360-degree Video Streaming with Deep Reinforcement Learning（北大） ----深度学习 
+TDFI: Two-stage Deep Learning Framework for Friendship Inference via Multi-source Information （清华大学） ----深度学习 
+Towards Low Latency Multi-viewpoint 360° Interactive Video: A Multimodal Deep Reinforcement Learning Approach（清华大学） ----深度学习 
+Unsupervised Anomaly Detection for Intricate KPIs via Adversarial Training of VAE（清华大学） ----深度学习 （变分自编码）
+Evolving Knowledge Graphs（上交）
+GCN-GAN: A Non-linear Temporal Link Prediction Model for Weighted Dynamic Networks（北大）
+UnseenCode: Invisible On-screen Barcode with Image-based Extraction （中科大）
+VoicePop: A Pop Noise based Anti-spoofing System for Voice Authentication on Smartphones（武汉大学）
+Deep Learning-based Job Placement in Distributed Machine Learning Clusters（香港大学） ---深度学习
+Dynamic Adaptive DNN Surgery for Inference Acceleration on the Edge （香港理工）---深度学习
+How to Earn Money in Live Streaming Platforms? — A Study of Donation-Based Markets（香港中文）
+The Consistent Cuckoo Filter（国防科大）
+Search in My Way: Practical Outsourced Image Retrieval Framework Supporting Unshared Key（西电）-- 检索问题
+Strongly Secure and Efficient Range Queries in Cloud Databases under Multiple Keys（西电）-- 检索问题
+DeepCog: Cognitive Network Management in Sliced 5G Networks with Deep Learning   ---- 深度学习
+DeepTMA: Predicting Effective Contention Models for Network Calculus using Graph Neural Networks  ----深度学习 
+Differentially-Private Deep Learning from an Optimization Perspective  ----深度学习
+Big Data Goes Small: Real-Time Spectrum-Driven Embedded Wireless Networking Through Deep Learning in the RF Loop  ----深度学习
+CapJack: Capture In-Browser Crypto-jacking by Deep Capsule Network through Behavioral Analysis ----深度学习
+SADeepSense: Self-Attention Deep Learning Framework for Heterogeneous On-Device Sensors in Internet of Things Applications ----深度学习（注意力机制）
+ReLeS: A Neural Adaptive Multipath Scheduler based on Deep Reinforcement Learning -- 深度强化学习
+NeuralWalk: Trust Assessment in Online Social Networks with Neural Networks ----深度学习
+ORACLE: Optimized Radio clAssification through Convolutional neuraL nEtworks ----深度学习
+Winning at the Starting Line: Joint Network Selection and Service Placement for Mobile Edge Computing -- 多任务学习
+iLPS: Local Positioning System with Simultaneous Localization and Wireless Communication -- 多任务学习
+Client Pre-Screening for MU-MIMO in Commodity 802.11ac Networks via Online Learning  -- 在线学习
+D3-Guard: Acoustic-based Drowsy Driving Detection Using Smartphones
+Distributed Machine Learning with a Serverless Architecture  --分布式学习
+Distributed Self-Adjusting Tree Networks
+Federated Learning over Wireless Networks: Optimization Model Design and Analysis -- 联邦学习
+Hurts to Be Too Early: Benefits and Drawbacks of Communication in Multi-Agent Learning -- 多代理学习
+Intelligent Edge-Assisted Crowdcast with Deep Reinforcement Learning for Personalized QoE -- 深度学习
+Joint Content Distribution and Traffic Engineering of Adaptive Videos in Telco-CDNs -- 多任务学习
+Joint Placement and Allocation of Virtual Network Functions with Budget and Capacity Constraints -- 多任务学习
+Joint Service Placement and Request Routing in Multi-cell Mobile Edge Computing Networks -- 多任务学习
+Pairwise Markov Chain: A Task Scheduling Strategy for Privacy-Preserving SIFT on Edge -- 马尔可夫过程
+Routing and Spectrum Assignment Integrating Machine-Learning-Based QoT Estimation in Elastic Optical Networks
+Simultaneous Bi-directional Communications and Data Forwarding using a Single ZigBee Data Stream
+The Role of Network Topology for Distributed Machine Learning --分布式学习
+Update Algebra: Toward Continuous, Non-Blocking Composition of Network Updates in SDN
+
+
+2）优化&矩阵论&张量分析（7篇）
+Dynamic Task Pricing in Multi-Requester Mobile Crowd Sensing with Markov Correlated Equilibrium（上交）
+MG-WFBP: Efficient Data Communication for Distributed Synchronous SGD Algorithms（香港浸会大学）
+A Flexible Distributed Optimization Framework for Service of Concurrent Tasks in Processing Networks
+Distributed Learning and Optimal Assignment in Multiplayer Heterogeneous Networks
+Efficiently Inferring Top-k Elephant Flows based on Discrete Tensor Completion
+On the Power of Preprocessing in Decentralized Network Optimization
+Online Internet Anomaly Detection With High Accuracy: A Fast Tensor Factorization Solution
+
+3）目标识别&目标定位&环境定位（4篇）
+ALS-P: Light Weight Visible Light Positioning via Ambient （香港科大）
+Autonomous Environment Mapping Using Commodity Millimeter-wave Network Device（北京邮电）
+Spin-Antenna: 3D Motion Tracking for Tag Array Labeled Objects via Spinning Antenna（南京大学）
+Statistical Enrichment Models for Activity Inference from Imprecise Location Data
+
+4）云计算&边缘计算（15篇）
+Adaptive User-managed Service Placement for Mobile Edge Computing: An Online Learning Approach（中山大学）
+Burstable Instances for Clouds: Performance Modeling, Equilibrium Analysis, and Revenue Maximizatio（香港科大）
+Dedas: Online Task Dispatching and Scheduling with Bandwidth Constraint in Edge Computing（中国科大）
+Efficient Indexing Mechanism for Unstructured Data Sharing Systems in Edge Computing（国防科大）
+A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement
+A Distributed Orchestration Algorithm for Edge Computing Resources with Guarantees
+Hetero-Edge: Orchestration of Real-time Vision Applications on Heterogeneous Edge Clouds
+An Integrated Top-down and Bottom-up Task Allocation Approach in Social Sensing based Edge Computing SystemsMemory flipping: a threat to NUMA virtual machines in the Cloud
+No Regret in Cloud Resources Reservation with Violation Guarantees
+Nomad: An Efficient Consensus Approach for Latency-Sensitive Edge-Cloud Applications
+OFM: An Online Fisher Market for Cloud Computing
+Service Placement and Request Scheduling for Data-intensive Applications in Edge Clouds
+Service Placement with Provable Guarantees in Heterogeneous Edge Computing System
+Wireless and Computing Resource Allocation for Selfish Computation Offloading in Edge Computing
+
+
+5）网络交换&路由&调度&中继（34篇）
+Camul: Online Caching on Multiple Caches with Relaying and Bypassing（中科大）
+Distributed Energy-Adaptive Aggregation Scheduling with Coverage Guarantee For Battery-Free Wireless Sensor Networks（哈工大）
+Minimizing Charging Delay for Directional Charging in Wireless Rechargeable Sensor Networks（大连理工）
+Efficient Online Resource Allocation in Heterogeneous Clusters with Machine Variability（东莞理工）
+Dynamic Multicast Traffic Engineering with Efficient Rerouting for Software-Defined Networks（台湾国立中成大学）
+Minimum Age TDMA Scheduling（台湾国立城池大学）
+Making Big Money from Small Sensors: Trading Time-Series Data under Pufferfish Privacy（上交）
+Routing in Black Box: Modularized Load Balancing for Multipath Data Center Networks（浙大）
+Robust Scheduling for Wireless Charger Networks（南京大学）
+A Constant Approximation for Maximum Throughput Multicommodity Routing
+A stack-vector routing protocol for automatic tunneling
+Adaptive Multipath Routing based on Hybrid Data and Control Plane Operation
+Adaptive Path Tracing with Programmable Bloom Filters in Software-Defined Networks
+Bonsai: Locality and Congestion Aware Fast Rerouting
+CG4SR: Near Optimal Traffic Engineering for Segment Routing with Column Generation
+CRF: Coexistent Routing and Flooding using WiFi Packets in Heterogeneous IoT Networks
+Data-Intensive Routing in Delay-Tolerant Networks
+Enhancing Cellular Performance via Vehicular-based Opportunistic Relaying and Load Balancing
+Hysteresis-based Active Queue Management for TCP Traffic in Data Centers
+Incentivizing Relay Participation for Securing IoT Communication
+Link Rate Selection using Constrained Thompson Sampling
+Load Balancing for Interdependent IoT Microservices
+Novel and Practical SDN-based Traceback Technique for Malicious Traffic over Anonymous Networks
+On the Distribution of Traffic Volumes in the Internet and its Implications
+Online Channel-state Clustering And Multiuser Capacity Learning For Wireless Scheduling
+Online Job Scheduling with Resource Packing on a Cluster of Heterogeneous Servers
+Optimal Resource Allocation for Secure Multi-User Wireless Powered Backscatter Communication with Artificial Noise
+Real-Time Scheduling for Event-Triggered and Time-Triggered Flows in Industrial Wireless Sensor-Actuator Networks
+Scheduling Jobs with Random Resource Requirements in Computing Clusters
+Service Scheduling for Bernoulli Requests and Quadratic Cost
+Space-Optimal Packet Routing on Trees
+Switching Constrained Max-Weight Scheduling for Wireless Networks
+When Network Matters: Data Center Scheduling with Network Tasks
+Wireless Multicasting for Content Distribution: Endless Stability and Delay Gains
+
+
+6）物联网&车联网（9篇）
+CellTradeMap: Delineating Trade Areas for Urban Commercial Districts with Cellular Networks（清华）
+Trustworthiness Inference Framework in the Social Internet of Things: A Context-Aware Approach（清华）
+A General Model for Minimizing Age of Information at Network Edge for IoT Applications
+Age of Information-aware Scheduling for Timely and Scalable Internet of Things Applications
+Aloe: An Elastic Auto-Scaled and Self-stabilized Orchestration Framework for IoT Applications
+EE-IoT: An Energy-Efficient IoT Communication Scheme for WLANs
+Fog-based Data Offloading in Urban IoT Scenarios
+Maximum Lifetime Analytics in IoT Networks
+PassiveRETRO: Enabling Completely Passive Visible Light Localization for IoT Applications
+
+
+
+7）网络设计&系统性能&网络管理&能耗（89篇）
+Large-Scale Network Utility Maximization: Countering Exponential Growth with Exponentiated Gradients（华为）
+A Generic Technique for Sketches to Adapt to Different Counting Ranges （北大&清华）
+A Unified Sampling and Scheduling Approach for Status Update in Multiaccess Wireless Networks（清华）
+Bootstrapping Accountability and Privacy to IPv6 Internet without Starting from Scratch（清华）
+Towards Verifiable Performance Measurement over In-the-Cloud Middleboxes（清华）
+Octans: Optimal Placement of Service Function Chains in Many-Core Systems（清华）
+Impact of Network Topology on the Performance of DML: Theoretical Analysis and Practical Factor（清华）
+Individual Data Plan in Virtual Network Operation: A Proactive Matching Approach（清华）
+A Holistic Model for Performance Prediction and Optimization on NUMA-based Virtualized Systems（上交）
+Adjusting Matching Algorithm to Adapt to Workload Fluctuations in Content-based Publish/Subscribe Systems（上交）
+A Truthful FPTAS Mechanism for Emergency Demand Response in Colocation Data Centers （浙大）
+An Online Market Mechanism for Edge Emergency Demand Response via Cloudlet Control （华中科大）
+INT-path: Towards Optimal Path Planning for In-band Network-Wide Telemetry（北邮）
+Balancing Cost and Dissatisfaction in Online EV Charging under Real-time Pricing（香港中文）
+FAVE: A fast and efficient network Flow AVailability Estimation method with bounded relative error（香港中文）
+Economic Viability of Data Trading with Rollover（香港中文）
+Mechanism Design for Network Utility Maximization with Private Constraint Information（香港中文）
+MV-Sketch: A Fast and Compact Invertible Sketch for Heavy Flow Detection in Network Data Streams（香港中文）
+Crowd-Flow Graph Construction and Identification with Spatio-Temporal Signal Feature Fusion（香港科大）
+Round-Robin Synchronization: Mitigating Communication Bottlenecks in Parameter Servers（香港科大）
+Fast Distributed Backbone Construction Despite Strong Adversarial Jamming（香港大学）
+CFHider: Control Flow Obfuscation with Intel SGX（西电）
+Interference Recycling: Exploiting Interfering Signals to Enhance Data Transmission（西电）
+Disentangled Network Alignment with Matching Explainability（电子科大）
+Hierarchical Multi-resource Fair Queueing for Network Function Virtualization（电子科大）
+FS-Net: A Flow Sequence Network For Encrypted Traffic Classification（中科大）
+Lightweight Flow Distribution for Collaborative Traffic Measurement in Software Defined Networks（中科大）
+Charging Oriented Sensor Placement and Flexible Scheduling in Rechargeable WSN（中国陆军工程大学）
+Collaborated Tasks-driven Mobile Charging and Scheduling: A Near Optimal Result（中国陆军工程大学）
+Market Manipulation of Bitcoin: Evidence from Mining the Mt. Gox Transaction Network（中山大学）
+PANDA: Placement of Unmanned Aerial Vehicles Achieving 3D Directional Coverage（南京大学）
+A Near Optimal Reliable Composition Approach for Geo-Distributed Latency-Sensitive Service Chains
+A Network-centric Framework for Auditing Recommendation Systems
+Probabilistic framework to Node-level Anomaly Detection in Communication Networks
+A Utility-driven Multi-Queue Admission Control Solution for Network Slicing
+ACCEL: Accelerating the Bitcoin Blockchain for High-throughput, Low-latency Applications
+Access Strategies for Network Caching
+Addressing Skewness in Iterative ML Jobs with Parameter Partition
+Age Optimal Information Gathering and Dissemination on Graphs
+Approximate Classifiers with Controlled Accuracy
+APRIL: An Application-Aware, Predictive and Intelligent Load Balancing Solution for Data-Intensive Science
+Automating CSI Measurement with UAVs: from Problem Formulation to Energy-Optimal Solution
+Cache Network Management Using BIG Cache Abstraction
+Channel Independent Wi-Fi Backscatter Networks
+Combinatorial Sleeping Bandits with Fairness Constraints
+Computing Blocking Probabilities in Elastic Optical Networks with Spectrum Defragmentation
+Consortiums of ISP-Content Providers Formed by Nash Bargaining for Internet Content Delivery
+Counterintuitive Characteristics of Optimal Distributed LRU Caching Over Unreliable Channels
+Cross-Network Prioritized Sharing: An Added Value MVNO's Perspective
+Demand-Aware Network Design with Minimal Congestion and Route Lengths
+Differentially-Private Incentive Mechanism for Crowdsourced Radio Environment Map Constructio
+Differentially-Private Two-Party Egocentric Betweenness Centrality
+Discrete-Time Modeling of NFV Accelerators that Exploit Batched Processing
+Dynamic Pricing and Capacity Allocation of UAV-provided Mobile Services
+Efficient systematic testing of network protocols with temporal uncertain events
+Enabling Cross-Technology Coexistence for Extremely Weak Wireless Devices
+EVSO: Environment-aware Video Streaming Optimization of Power Consumption
+Experiences Implementing Live VM Migration over the WAN with Multi-Path TCP
+F-ID: Function Modeling-based Data-Independent and Channel-Robust Physical-Layer Identification
+Fair Rate Allocation over A Generalized Symmetric Polymatroid with Box Constraints
+Faster Placement of Virtual Machines through Adaptive Caching
+HyCloud: Tweaking Hybrid Cloud Storage Services for Cost-Efficient Filesystem Hosting
+If You Do Not Care About It, Sell It: Trading Location Privacy in Mobile Crowd Sensin
+Joint Offloading Decision and Resource Allocation with Uncertain Task Computing Requirement
+Kelly Cache Networks
+Learning Network Traffic Dynamics Using Temporal Point Process
+Learning the Optimal Synchronization Rates in Distributed SDN Control Architectures
+Learning to Cache With no Regrets
+LiBeam: Throughput-Optimal Cooperative Beamforming for Indoor Visible Light Networks
+Measurements as First-class Artifacts
+Measuring Update Performance and Consistency Anomalies in Managed DNS Services
+Multisource Rumor Spreading with Network Coding
+Network Interdiction Using Adversarial Traffic Flows
+On the Distribution of AoI for the GI/GI/1/1 and GI/GI/1/2* Systems: Exact Expressions and Bounds
+On the Link Modeling of Wireless Sensor Networks in Ocean Environments
+Only Those Requested Count: Proactive Scheduling Polices for Minimizing Effective Age-of-Information
+Optimal Network Control in Partially-Controllable Networks
+Optimal Trunk-Reservation by Policy Learning
+Optimal User Choice Engineering in Mobile Crowdsensing with Bounded Rational Users
+Parameter Self-Configuration and Self-Adaptation in Industrial Wireless Sensor-Actuator Networks
+PeDSS: Privacy Enhanced and Database-Driven Dynamic spectrum Sharing
+PHDP: Preserving Persistent Homology in Differentially Private Graph Publications
+Powers Maximizing Proportional Fairness Among Poisson Bipoles
+Regularized inversion of flow size distribution
+Slicing Cell Resources: The Case of HTC and MTC Coexistence
+Smartlink: Exploiting Channel Clustering Effects for Reliable Millimeter Wave Communications
+To Cancel or Not to Cancel: Exploiting Interference Signal Strength in the Eigenspace for Efficient MIMO DoF Utilization
+Virtual Speed Test: an AP Tool for Passive Analysis of Wireless LANs
+Weighted Sum-Rate Maximization in Multi-Carrier NOMA with Cellular Power Constraint
+
+
+8）认知无线网（3篇）
+A Practical Underlay Spectrum Sharing Scheme for Cognitive Radio Networks
+Dynamic Mobility-Aware Interference Avoidance for Aerial Base Stations in Cognitive Radio Networks
+Hide and Seek: A Defense Against Off-sensing Attack in Cognitive Radio Networks
+
+
+9）网络虚拟化（4篇）
+Achieving a Fully-Flexible Virtual Network Embedding in Elastic Optical Networks
+Live Migration Ate My VM: Recovering a Virtual Machine After Failure of Post-Copy Live Migration
+Memory/Disk Operation aware Lightweight VM Live Migration across Data-centers with Low Performance Impact
+RABA: Resource-Aware Backup Allocation For A Chain of Virtual Network Functions
+
+
+
+10）4G&5G网络（7篇）
+NASCENT: Tackling Caller-ID Spoofing in 4G Networks via Efficient Network-Assisted Validation
+Adaptive Interference-Aware VNF Placement for Service-Customized 5G Network Slices
+D2D Offloading for Statistical QoS Provisionings Over 5G Multimedia Mobile Wireless Networks
+Dynamic Spectrum Management in 5G Wireless Networks: A Real-Life Modeling Approach
+Satisfying Network Slicing Constraints via 5G MAC Scheduling
+The Slice Is Served: Enforcing Radio Access Network Slicing in Virtualized 5G Systems
+TrustSAS: A Trustworthy Spectrum Access System for the 3.5 GHz CBRS Band
+
+11）异质网（3篇）
+Auction-based Cache Trading for Scalable Videos in Multi-Provider Heterogeneous Networks
+On Optimal Hybrid Premium Peering and Caching Purchasing Strategy of Internet Content Providers
+Receiver-driven Video Multicast over NOMA Systems in Heterogeneous Environments
+
+
+12）网络环境数据处理&分析（10篇）
+Batch Reading Densely Arranged QR Codes（上交）
+Brush like a Dentist: Accurate Monitoring of Toothbrushing via Wrist-Worn Gesture Sensing（深圳大学）
+Beyond Uniform Reverse Sampling: A Hybrid Sampling Technique for Misinformation Prevention
+Bound-based Network Tomography with Additive Metrics
+Calibrate: Frequency Estimation and Heavy Hitter Identification with Local Differential Privacy via Incorporating Prior Knowledge
+CBA: Contextual Quality Adaptation for Adaptive Bitrate Video Streaming
+Compressed Distributed Gradient Descent: Communication-Efficient Consensus over Networks
+Joint Antenna Allocation and Link Scheduling in FlexRadio Networks
+Looking Glass of NFV: Inferring the Structure and State of NFV Network from External Observations
+Real-time Identification of Rogue WiFi Connections Using Environment-Independent Physical Features
+
+13）网络安全&网络异常&网络质量（19篇）
+CoDoC: A Novel Attack for Wireless Rechargeable Sensor Networks through Denial of Charge（大连理工）
+Detecting Anomaly in Large-scale Network using Mobile Crowdsourcing（上交）
+Hardening Database Padding for Searchable Encryption（南京理工）
+Interference-aware User Grouping Strategy in NOMA Systems with QoS Constraints（中科大）
+NAuth: Secure Face-to-Face Device Authentication via Nonlinearity（浙大）
+On User Selective Eavesdropping Attacks in MU-MIMO: CSI Forgery and Countermeasure（复旦）
+Perceiving Internet Anomalies via CDN Replica Shifts（清华）
+Towards Privacy-preserving Incentive for Mobile Crowdsensing Under An Untrusted Platform（武大）
+Collaborative Client-Side DNS Cache Poisoning Attack
+Collaborative Validation of Public-Key Certificates for IoT by Distributed Caching
+Countering Cryptojacking and Parasitic Miners on the Web
+Detecting Network Disruptions At Colocation Facilities
+Detecting Vulnerable Android Inter-App Communication in Dynamically Loaded Code
+Entrapment for Wireless Eavesdroppers
+Hiding Data in Plain Sight: Undetectable Wireless Communications Through Pseudo-Noise Asymmetric Shift Keying
+Orthogonality-Sabotaging Attacks against OFDMA-based Wireless Networks
+PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments
+Performance Analysis of Online Social Platforms
+Towards Measuring Quality of Service in Untrusted Multi-Vendor Service Function Chains: Balancing Security and Resource Consumption
+
+14）区块链（1篇）
+Corking by Forking: Vulnerability Analysis of Blockchain（北京师范）
+
+15）雷达（1篇）
+Doppler Radar with In-Band Full Duplex Radios
+
+16）RFID（6篇）
+LEGO-Fi: Transmitter-Transparent CTC with Cross-Demapping（清华）
+TwinLeak: RFID-based Liquid Leakage Detection in Industrial Environments（清华）
+On Improving Write Throughput in Commodity RFID Systems（南京大学）
+Towards Physical-Layer Vibration Sensing with RFIDs（国防科大）
+Embracing Tag Collisions: Acquiring Bloom Filters across RFIDs in Physical Layer
+RF-Mehndi: A Fingertip Profiled RF Identifier
+
+
+17）社会化网络（3篇）
+HideMe: Privacy-Preserving Photo Sharing on Social Networks（中科大）
+TansLink: User Identity Linkage across Heterogeneous Social Networks via Translating Embeddings（苏州大学）
+Smart Information Spreading for Opinion Maximization in Social Networks
+
+
+18）其他（24篇）
+Label-Less: A Semi-automatic Labeling Tool for KPI Anomalies（清华）
+See-Your-Way: Peer-to-Peer Indoor Navigation with Mobile Vision（清华）
+Pricing for Revenue Maximization in IoT Data Markets: An Information Design Perspective（上交）
+Search in My Way: Practical Outsourced Image Retrieval Framework Supporting Unshared Key（西电）
+Strongly Secure and Efficient Range Queries in Cloud Databases under Multiple Keys（西电）
+TagSheet: Sleeping Posture Recognition with an Unobtrusive Passive Tag Matrix（南京大学）
+ImgSensingNet: UAV Vision Guided Aerial-Ground Air Quality Sensing System
+Incrementally-deployable Indoor Navigation with Automatic Trace Generation
+Keeping Context In Mind: Automating Mobile App Access Control with User Interface Inspection
+KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen through Acoustic Signals
+LEAP: Location Estimation and Predictive Handover with Consumer-Grade mmWave Devices
+Multi-hop Backscatter Tag-to-Tag Network
+Price Competition with LTE-U and WiFi
+Recommending Paths: Follow or Not Follow?
+Robust and Efficient Modulation Recognition Based on Local Sequential IQ Features
+RTOP: Optimal User Grouping and SFN Clustering for Multiple eMBMS Sessions
+SAS: Modeling and Analysis of Spectrum Activity Surveillance in Wireless Overlay Networks
+SynLight: Synthetic Light Emission for Fast Transmission in COTS Device-enabled VLC
+Synthesizing Wider WiFi Bandwidth for Respiration Rate Monitoring in Dynamic Environments
+Throughput and Pricing of Ridesharing Systems
+TTL-based Cloud Caches
+Tweeting with Sunlight: Encoding Data on Mobile Objects
+WristSpy: Snooping Passcodes in Mobile Payment Using Wrist-worn Wearables
+X-CHANT: A Diverse DSA based Architecture for Next-generation Challenged Networks
+
+
+19）感兴趣
+Figment: Fine-grained Permission Management for Mobile Apps
+CBA: Contextual Quality Adaptation for Adaptive Bitrate Video Streaming
+Calibrate: Frequency Estimation and Heavy Hitter Identification with Local Differential Privacy via Incorporating Prior Knowledge
+Distributed Machine Learning with a Serverless Architecture
+Distributed Self-Adjusting Tree Networks
+Evolving Knowledge Graphs
+GCN-GAN: A Non-linear Temporal Link Prediction Model for Weighted Dynamic Networks
+HideMe: Privacy-Preserving Photo Sharing on Social Networks
+Joint Antenna Allocation and Link Scheduling in FlexRadio Networks
+Keeping Context In Mind: Automating Mobile App Access Control with User Interface Inspection
+KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen through Acoustic Signals
+NeuralWalk: Trust Assessment in Online Social Networks with Neural Networks
+On the Link Modeling of Wireless Sensor Networks in Ocean Environments
+Optimal Network Control in Partially-Controllable Networks
+Recommending Paths: Follow or Not Follow?
+Robust and Efficient Modulation Recognition Based on Local Sequential IQ Features
+Search in My Way: Practical Outsourced Image Retrieval Framework Supporting Unshared Key
+Secure On-skin Biometric Signal Transmission using Galvanic Coupling
+Smart Information Spreading for Opinion Maximization in Social Networks
+Strongly Secure and Efficient Range Queries in Cloud Databases under Multiple Keys
+Tweeting with Sunlight: Encoding Data on Mobile Objects
