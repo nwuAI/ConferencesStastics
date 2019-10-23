@@ -1,0 +1,109 @@
+2019 SIGIR 论文共录取长文84篇，短文108篇（July 21-25, 2019 Paris, France）
+
+分类：
+迁移学习：（领域自适应和多任务学习等） （8篇）
+An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation
+Domain Adaptation for Enterprise Search
+Identifying Entity Properties from Text with Zero-shot Learning
+Legal Intelligence, E-Commerce, Multiview Dispute Representation, Multi-task Learning
+Online User Representation Learning Across Heterogeneous Social Networks
+π-Net: A Parallel Information-sharing Network for Cross-domain Shared-account Sequential Recommendations
+Modeling Transferable Topics for Cross-Target Stance Detection
+TDP: Personalized Taxi Demand Prediction Based on Heterogeneous Graph Embedding
+
+
+深度学习模型（注意力&生成对抗网络&胶囊网络等）（33篇）
+A Capsule Network for Recommendation and Explaining What You Like and Dislike
+Adaptive Multi-Attention Network Incorporating Answer Information for Duplicate Question Detection
+Adversarial Mahalanobis Distance-based Attentive Song Recommender for Automatic Playlist Continuation
+CTRec: A Long-Short Demands Evolution Model for Continuous-Time Recommendation
+Cross-Modal Interaction Networks for Query-Based Moment Retrieval in Videos
+Deep Reinforcement Learning over Knowledge Graph Inference for E-Commerce Recommendation
+DivGraphPointer: A Graph Pointer Network for Extracting Diverse Keyphrases
+EnsembleGAN: Adversarial Learning for Retrieval-Generation Ensemble Model on Short-Text Conversation
+Finding Camouflaged Needle in a Haystack? Pornographic Products Detection via Berrypicking Tree Model
+Hate Speech Detection is Not as Easy as You May Think: A Closer Look at Model Validation
+Hot Topic-Aware Retweet Prediction with Masked Self-attentive Model
+Interact and Decide: Medley of Sub-Attention Networks for Effective Group Recommendation
+Neural-Network Lexical Translation for Cross-lingual IR from Text and Speech
+Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network
+Scalable Deep Multimodal Learning for Cross-Modal Retrieval
+User Attention-guided Multimodal Dialog Systems
+Video Dialog via Multi-Grained Convolutional Self-Attention Context Networks
+A study on the Interpretability of Neural Retrieval Models using DeepSHAP
+Adversarial Collaborative Neural Network for Robust Recommendation
+Adversarial Training for Review-Based Recommendations
+Deep Collaborative Discrete Hashing with Semantic-Invariant Structure
+Deep Distribution Network: Addressing the Data Sparsity Issue for Top-N Recommendation
+Dynamic Sampling Meets Pooling
+Ensembles of Recurrent Networks for Classifying the Relationship of Fake News Titles
+FAQ Retrieval Using Attentive Matching
+Graph Intention Network for Click-through Rate Prediction in Sponsored Search
+Information Cascades Modeling via Deep Multi-Task Learning
+Length-adaptive Neural Network for Answer Selection
+One-Class Collaborative Filtering with the Queryable Variational Autoencoder
+Order-aware Embedding Neural Network for CTR Prediction
+Revisiting Approximate Metric Optimizationin in the Age of Deep Neural Networks
+SAIN: Self-Attentive Integration Network for Recommendation
+Uncovering Insurance Fraud Conspiracy with Network Learning
+
+
+
+基于会话的推荐：(Session-Based)（2篇）
+A Collaborative Session-based Recommendation Approach with Parallel Memory Modules
+Sequence and Time Aware Neighborhood for Session-based Recommendations
+
+
+社会化推荐：（Social Recommendation）（3篇）
+A Neural Influence Diffusion Model for Social Recommendation
+An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation
+CROSS: Cross-platform Recommendation for Online Shopping in Social Media
+
+
+
+检索：（Retrieval）（2篇）
+Accelerated Query Processing Via Similarity Score Prediction
+Domain Adaptation for Enterprise Search
+
+
+因子分解机：（Factorization Machines）（1篇）
+Bayesian Personalized Feature Interaction Selection for Factorization Machines
+
+
+哈希：（hashing）（5篇）
+Compositional Coding for Collaborative Filtering
+Online Multi-modal Hashing with Dynamic Query-adaption
+Supervised Hierarchical Cross-Modal Hashing
+Unsupervised Neural Generative Semantic Hashing
+Deep Collaborative Discrete Hashing with Semantic-Invariant Structure
+
+问题回答：（Question Answering）（6篇）
+Controlling Risk of Web Question Answering
+Document Gated Reader for Open Domain Question Answering
+Quantifying and Alleviating the Language Prior Problem in Visual Question Answering
+FAQ Retrieval using Query-Question Similarity and BERT-Based Query-Answer Relevance
+History Modeling for Conversational Question Answering
+How to deal with scarse annotations in question answering
+
+
+
+
+多模态：（Multi-modal）（6篇）
+Cross-Modal Interaction Networks for Query-Based Moment Retrieval in Videos
+Online Multi-modal Hashing with Dynamic Query-adaption
+Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network
+Scalable Deep Multimodal Learning for Cross-Modal Retrieval
+Supervised Hierarchical Cross-Modal Hashing
+A Scalable Virtual Document-Based Keyword Search System for RDF Datasets
+
+
+层次结构：（Hierarchical  struct）（4篇）
+Hierarchical Matching Network for Crime Classification
+Outline Generation: Understanding the Inherent Content Structure of Documents
+Supervised Hierarchical Cross-Modal Hashing
+Embedding Edge-attributed Relational Hierarchies
+
+
+
+
+
