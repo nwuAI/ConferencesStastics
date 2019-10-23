@@ -1,0 +1,293 @@
+2019 CHI（人机交互方向）大会共收到论文投稿2960篇，录用705篇，最终录用率约为23.8%。29篇论文获取最佳论文，119篇获得最佳论文提名。其中，虚拟显示&增强现实&混合显示&全息影像&可穿戴设备（75篇），手机移动设备（27篇），医学&健康（14篇），儿童（19篇），眼动&手势（17篇），声音&超声&雷达&WIFI（5篇），文物&博物馆&虚拟游览（4篇），机器学习&人工智能&深度学习（35篇），推荐（3篇），社交&游戏（20篇），特定人群服务（共7篇），3D&4D打印（5篇）。可以看出新的交互设备（VR/AR/MR等）和机器学习&人工智能&深度学习在人机交互的应用是热点研究方向。
+
+分类：
+虚拟显示&增强现实&混合显示&全息影像&可穿戴设备： （共75篇）
+Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model
+TabletInVR: Exploring the Design Space for Using a Multi-Touch Tablet in Virtual Reality
+LightBee: A Self-Levitating Light Field Display for Hologrammatic Telepresence
+Designing ‘True Colors’: A Social Wearable that Affords Vulnerability
+Deaf and Hard-of-hearing Individuals’ Preferences for Wearable and Mobile Sound Awareness Technologies
+VirtualBricks: Exploring a Scalable, Modular Toolkit for Enabling Physical Manipulation in VR
+TORC: A Virtual Reality Controller for In-Hand High-Dexterity Finger Interaction
+PlaneVR: Social Acceptability of Virtual Reality for Aeroplane Passengers
+Behavioural Biometrics in VR: Identifying People from Body Motion and Relations in Virtual Reality
+SeeingVR: A Set of Tools to Make Virtual Reality More Accessible to People with Low Vision
+I’m Sensing in the Rain: Spatial Incongruity in Visual-Tactile Mid-Air Stimulation Can Elicit Ownership in VR Users
+Putting the Value in VR: How to Systematically and Iteratively Develop a Value-Based VR Application with a Complex Target Group
+Virtual Showdown: An Accessible Virtual Reality Game with Scaffolds  for Youth with Visual Impairments
+Assessing the Accuracy of Point & Teleport Locomotion with Orientation Indication for Virtual Reality using Curved Trajectories
+Virtual Performance Augmentation in an Immersive Jump & Run Exergame
+Evaluating the Combination of Visual Communication Cues for HMD-based Mixed Reality Remote Collaboration
+ThermalBracelet: Exploring Thermal Haptic Feedback Around the Wrist
+Usability of Gamified Knowledge Learning in VR and Desktop-3D
+Mobi3DSketch: 3D Sketching in Mobile AR
+VirtualComponent: A Mixed-Reality Tool for Designing and Tuning Breadboarded Circuits
+The Role of Physical Props in VR Climbing Environments
+Experimental Analysis of Barehand Mid-air Mode-Switching Techniques in Virtual Reality
+Designing Interactive 3D Printed Models with Teachers of the Visually Impaired
+Mixed Reality Remote Collaboration Combining 360 Video and 3D Reconstruction
+Editing Spatial Layouts through Tactile Templates for People with Visual Impairments
+The Effect of Stereo Display Deficiencies on Virtual Hand Pointing
+Chatbots, Humbots, and the Quest for Artificial General Intelligence
+ElasticVR: Providing Multilevel Continuously-Changing Resistive Force and Instant Impact Using Elasticity for VR
+“What’s Happening at that Hip?”: Evaluating an On-body Projection based Augmented Reality System for Physiotherapy Classroom
+Bring the Outside In: Providing Accessible Experiences Through VR for People with Dementia in Locked Psychiatric Hospitals
+Examining and Enhancing the Illusory Touch Perception in Virtual Reality Using Non-Invasive Brain Stimulation
+Enhancing Texture Perception in Virtual Reality Using 3D-Printed Hair Structures
+Crowdsourcing Interface Feature Design with Bayesian Optimization
+Thinking Too Classically: Research Topics in Human-Quantum Computer Interaction
+Exploring Virtual Agents for Augmented Reality
+TutoriVR: A Video-Based Tutorial System for Design Applications in Virtual Reality
+Brick: Toward A Model for Designing Synchronous Colocated Augmented Reality Games
+Sensing Fine-Grained Hand Activity with Smartwatches
+RealityCheck: Blending Virtual Environments with Situated Physical Reality
+Lost in Style: Gaze-driven Adaptive Aid for VR Navigation
+Engaging Lived and Virtual Realities
+The Effect of Field-of-View Restriction on Sex Bias in VR Sickness and Spatial Navigation Performance
+Beyond The Force: Using Quadcopters to Appropriate Objects and the Environment for Haptics in Virtual Reality
+Using Presence Questionnaires in Virtual Reality
+Affinity Lens: Data-Assisted Affinity Diagramming with Augmented Reality
+AutoFritz: Autocomplete for Prototyping Virtual Breadboard Circuits 
+Exploring Interaction Fidelity in Virtual Reality: Object Manipulation and Whole-Body Movements
+Analyzing the Use of Camera Glasses in the Wild
+Understanding the Impact of TVIs on Technology Use and Selection by Children with Visual Impairments
+Detecting Visuo-Haptic Mismatches in Virtual Reality using the Prediction Error Negativity of Event-Related Brain Potentials
+Around the (Virtual) World: Infinite Walking in Virtual Reality Using Electrical Muscle Stimulation
+Quantitative Measurement of Tool Embodiment for Virtual Reality Input Alternatives
+DMove: Directional Motion-based Interaction for Augmented Reality Head-Mounted Displays
+Behind the Curtain of the “Ultimate Empathy Machine”: On the Composition of Virtual Reality Nonfiction Experiences
+Online, VR, AR, Lab, and In-Situ: Comparison of Research Methods to Evaluate Smart Artifacts 
+Personalising the TV Experience using Augmented Reality: An Exploratory Study on Delivering Synchronised Sign Language Interpretation
+FTVR in VR: Evaluation of 3D Perception With a Simulated Volumetric Fish-Tank Virtual Reality Display
+What is Mixed Reality?
+What Can We Learn from Augmented Reality (AR)?: Benefits and Drawbacks of AR for Inquiry-based Learning of Physics
+VRsneaky: Increasing Presence in VR Through Gait-Aware Auditory Feedback
+Investigating Implicit Gender Bias and Embodiment of White Males in Virtual Reality with Full Body Visuomotor Synchrony
+Shaping Pro-Social Interaction in VR: An Emerging Design Framework
+Participatory Design of VR Scenarios for Exposure Therapy
+360proto: Making Interactive Virtual Reality & Augmented Reality Prototypes from Paper
+Crossing-Based Selection with Virtual Reality Head-Mounted Displays
+ARPen: Mid-Air Object Manipulation Techniques for a Bimanual AR System with Pen & Smartphone
+The Heat is On: Exploring User Behaviour in a Multisensory Virtual Environment for Fire Evacuation
+Let’s Play Together: Adaptation Guidelines of Board Games for Players with Visual Impairment
+Measuring and Understanding Photo Sharing Experiences in Social Virtual Reality
+Does It Feel Real? Using Tangibles with Different Fidelities to Build and Explore Scenes in Virtual Reality
+Geollery: A Mixed Reality Social Media Platform
+HoloDoc: Enabling Mixed Reality Workspaces that Harness Physical and Digital Content
+Virtual Objects in the Physical World: Relatedness and Psychological Ownership in Augmented Reality
+HapTwist: Creating Interactive Haptic Proxies in Virtual Reality Using Low-cost Twistable Artefacts
+
+
+手机移动设备：（共27篇）
+Cluster Touch: Improving Touch Accuracy on Smartphones for People with Motor and Situational Impairments
+WhatFutures: Designing Large-Scale Engagements on WhatsApp
+Towards Understanding the Link Between Age and Smartphone Authentication
+App Usage Predicts Cognitive Ability in Older Adults
+Everyone Has Some Personal Stuff”: Designing to Support Digital Privacy with Shared Mobile Phone Use in Bangladesh”
+Engagement with Mental Health Screening on Mobile Devices: Results from an Antenatal Feasibility Study
+Detecting Perception of Smartphone Notifications Using Skin Conductance Responses
+Understanding and Modeling User-Perceived Brand Personality from Mobile Application UIs
+Interactive Repair of Tables Extracted from PDF Documents on Mobile Devices
+The Smartphone as a Pacifier and its Consequences: Young adults’ smartphone usage in moments of solitude and correlations to self-reflection
+Understanding the Social Acceptability of Mobile Devices using the Stereotype Content Model
+Examining Augmented Virtuality Impairment Simulation for Mobile App Accessibility Design
+Accessible Gesture Typing for Non-Visual Text Entry on Smartphones
+A Tale of Two Perspectives: A Conceptual Framework of User Expectations and Experiences of Instructional Fitness Apps
+Ten-Minute Silence: A New Notification UX of Mobile Instant Messenger
+Engaging High School Students in Cameroon with Exam Practice Quizzes via SMS and WhatsApp
+PinchList: Leveraging Pinch Gestures for Hierarchical List Navigation on Smartphones
+Together in Bed? Couples’ Mobile Technology Use in Bed
+Does Who Matter? Studying the Impact of Relationship Characteristics on Receptivity to Mobile IM Messages
+Evaluating Expert Curation in a Baby Milestone Tracking App
+TrackCap: Enabling Smartphones for 3D Interaction on Mobile Head-Mounted Displays
+Vulnerability & Blame: Making Sense of Unauthorized Access to Smartphones
+Passquerade: Improving Error Correction of Text Passwords on Mobile Devices by using Graphic Filters for Password Masking
+Signal Appropriation of Explicit HIV Status Disclosure Fields in Sex-Social Apps used by Gay and Bisexual Men
+LocknType: Lockout Task Intervention for Discouraging Smartphone App Use
+A Wee Bit More Interaction: Designing and Evaluating an Overactive Bladder App
+HandSee: Enabling Full Hand Interaction on Smartphone with Front Camera-based Stereo Vision
+
+
+医学&健康：（共14篇）
+Human-Centered Tools for Coping with Imperfect Algorithms During Medical Decision-Making
+Moments of Change: Analyzing Peer-Based Cognitive Support in Online Mental Health Forums
+What Can Gestures Tell?: Detecting Motor Impairment in Early Parkinson’s from Common Touch Gestural Interactions
+Supporting Coping with Parkinson’s Disease Through Self Tracking
+ “My blood sugar is higher on the weekends”: Finding a Role for Context and Context-Awareness in the Design of Health Self-Management Technology
+Evaluating the Impact of Pseudo-Colour and Coordinate System on the Detection of Medication-induced ECG Changes
+“This Girl is on Fire”: Sensemaking in an Online Health Community for Vulvodynia
+Reading Face, Reading Health: Exploring Face Reading Technologies for Everyday Health
+HCI and Affective Health: Taking stock of a decade of studies and charting future research directions
+Measuring the Influences of Musical Parameters on Cognitive and Behavioral Responses to Audio Notifications Using EEG and Large-scale Online Studies
+Making Healthcare Infrastructure Work: Unpacking the Infrastructuring Work of Individuals
+Local Standards for Anonymization Practices in Health, Wellness, Accessibility, and Aging Research at CHI
+To Repeat or Not to Repeat? Redesigning Repeating Auditory Alarms Based on EEG Analysis
+Emotion and Experience in Negotiating HIV-Related Digital Resources: “It’s not just a runny nose!”
+
+
+
+
+儿童：（共19篇）
+Anchored Audio Sampling: A Seamless Method for Exploring Children’s Thoughts During Deployment Studies
+DesignABILITY: Framework for the Design of Accessible Interactive Tools to Support Teaching to Children with Disabilities
+Co-Design Beyond Words: ‘Moments of Interaction’ with Minimally-Verbal Children on the Autism Spectrum
+Evaluating the Impact of a Mobile Neurofeedback App for Young Children at School and Home
+Laughing is Scary, but Farting is Cute: A Conceptual Model of Children’s Perspectives of Creepy Technologies
+‘I make up a silly name’: Understanding Children’s Perception of Privacy Risks Online
+Coding for Outdoor Play: A Coding Platform for Children to Invent and Enhance Outdoor Play Experiences
+“Everything’s the Phone”: Understanding the Phone’s Supercharged Role in Parent-Teen Relationships
+Risk vs. Restriction: The Tension between Providing a Sense of Normalcy and Keeping Foster Teens Safe Online
+Nurturing Constructive Disagreement - Agonistic Design with Neurodiverse Children
+A Place to Play: The (Dis)Abled Embodied Experience for Autistic Children in Online Spaces
+Making Diabetes Education Interactive: Tangible Educational Toys for Children with Type-1 Diabetes
+A is for Artificial Intelligence: The Impact of Artificial Intelligence Activities on Young Children’s Perceptions of Robots
+“Like Popcorn”: Crossmodal Correspondences Between Scents, 3D Shapes and Emotions in Children
+Psychologically Inclusive Design: Cues Impact Women’s Participation in STEM Education
+What’s Missing: The Role of Instructional Design in Children’s Games-Based Learning
+Automating the Administration and Analysis of Psychiatric Tests: The Case of Attachment in School Age Children
+A Walk on the Child Side: Investigating Parents’ and Children’s Experience and Perspective on Mobile Technology for Outdoor Child Independent Mobility
+NaviBike: Comparing Unimodal Navigation Cues for Child Cyclists
+
+
+
+眼动&手势：（共17篇）
+RotoSwype: Word-Gesture Typing using a Ring
+BeamBand: Hand Gesture Sensing with Ultrasonic Beamforming
+CodeGazer: Making Code Navigation Easy and Natural With Gaze Input
+ReType: Quick Text Editing with Keyboard and Gaze
+Detecting Personality Traits Using Eye-Tracking Data
+The Dissimilarity-Consensus Approach to Agreement Analysis in Gesture Elicitation Studies
+Interferi: Gesture Sensing using On-Body Acoustic Interferometry
+Evaluation of Appearance-Based Methods and Implications for Gaze-Based Applications
+Gaze-Guided Narratives: Adapting Audio Guide Content to Gaze in Virtual and Real Environments
+Eye-Write: Gaze Sharing for Collaborative Writing
+An Explanation of Fitts’ Law-like Performance in Gaze-Based Selection Tasks Using a Psychophysics Approach
+NVGaze: An Anatomically-Informed Dataset for Low-Latency, Near-Eye Gaze Estimation
+The Mental Image Revealed by Gaze Tracking
+Communication Cost of Single-user Gesturing Tool in Laparoscopic Surgical Training
+Resolving Target Ambiguity in 3D Gaze Interaction through VOR Depth Estimation
+A Design Space for Gaze Interaction on Head-mounted Displays
+Effect of Orientation on Unistroke Touch Gestures
+
+声音&超声&雷达&WIFI：（共5篇）
+MilliSonic: Pushing the Limits of Acoustic Motion Tracking
+An Evaluation of Radar Metaphors for Providing Directional Stimuli Using Non-Verbal Sound
+Direct Finger Manipulation of 3D Object Image with Ultrasound Haptic Feedback
+MultiTrack: Multi-User Tracking and Activity Recognition Using Commodity WiFi
+Enabling Identification and Behavioral Sensing in Homes using Radio Reflections
+
+文物&博物馆&虚拟游览：（共4篇）
+Seeing with New Eyes: Designing for In-the-Wild Museum Gifting
+Design and Plural Heritages: Composing Critical Futures
+Connect-to-Connected Worlds: Piloting a Mobile, Data-Driven Reflection Tool for an Open-Ended Simulation at a Museum
+“I feel it is my responsibility to stream”: Streaming and Engaging with Intangible Cultural Heritage through Livestreaming
+
+
+机器学习&人工智能&深度学习：（共35篇）
+Guidelines for Human-AI Interaction
+Human-Centered Tools for Coping with Imperfect Algorithms During Medical Decision-Making
+In a Silent Way: Communication Between AI and Improvising Musicians Beyond Sound
+At Your Service: Designing Voice Assistant Personalities to Improve Automotive User Interfaces
+Evaluating the Effect of Feedback from Different Computer Vision Processing Stages: A Comparative Lab Study
+Modeling Mobile Interface Tappability Using Crowdsourcing and Deep Learning
+Implicit Communication of Actionable Information in Human-AI teams
+Design and Evaluation of Service Robot’s Proactivity in Decision-Making Support Process
+VizML: A Machine Learning Approach to Visualization Recommendation
+How Guiding Questions Facilitate Feedback Exchange in Project-Based Learning
+SottoVoce: An Ultrasound Imaging-Based Silent Speech Interaction Using Deep Neural Networks
+Sketching NLP: A Case Study of Exploring the Right Things To Design with Language Intelligence
+AILA: Attentive Interactive Labeling Assistant for Document Classification through Attention-Based Deep Neural Networks
+Multi-Modal Approaches for Post-Editing Machine Translation
+AI-Mediated Communication: How the Perception that Profile Text was Written by AI Affects Trustworthiness
+Understanding the Effect of Accuracy on Trust in Machine Learning Models
+Privacy, Power, and Invisible Labor on Amazon Mechanical Turk
+Hands Holding Clues for Object Recognition in Teachable Machines
+Geppetto: Enabling Semantic Design of Expressive Robot Behaviors
+Will You Accept an Imperfect AI? Exploring Designs for Adjusting End-user Expectations of AI Systems
+SmartEye: Assisting Instant Photo Taking via Integrating User Preference with Deep View Proposal Network
+Some Prior(s) Experience Necessary: Templates for Getting Started With Bayesian Analysis
+Machine Heuristic: When We Trust Computers More than Humans with Our Personal Information
+Rehumanized Crowdsourcing: A Labeling Framework Addressing Bias and Ethics in Machine Learning
+REsCUE: A framework for REal-time feedback on behavioral CUEs using multimodal anomaly detection
+Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models
+Abstract Machines: Overlaying Virtual Worlds on Physical Rides
+Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need?
+Designing Theory-Driven User-Centric Explainable AI
+Friend, Collaborator, Student, Manager: How Design of an AI-Driven Game Level Editor Affects Creators
+May AI? Design Ideation with Cooperative Contextual Bandits
+How Do Humans Assess the Credibility on Web Blogs: Qualifying and Verifying Human Factors with Machine Learning
+VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications
+Sound Forest: Evaluation of an Accessible Multisensory Music Installation
+ATMSeer: Increasing Transparency and Controllability in Automated Machine Learning
+
+
+
+推荐：（共3篇）
+B-Script: Transcript-based B-roll Video Editing with Recommendations
+Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes
+Let Me Explain: Impact of Personal and Impersonal Explanations on Trust in Recommender Systems
+
+社交&游戏：（共20篇）
+When Do People Trust Their Social Groups?
+Threats, Abuses, Flirting, and Blackmail: Gender Inequity in Social Media Voice Forums
+I Don’t Even Have to Bother Them!: Using Social Media to Automate the Authentication Ceremony in Secure Messaging
+Discovering Alternative Treatments for Opioid Use Recovery Using Social Media
+Methodological Gaps in Predicting Mental Health States from Social Media: Triangulating Diagnostic Signals
+What Happens After Disclosing Stigmatized Experiences on Identified Social Media: Individual, Dyadic, and Social/Network Outcomes
+Influencers in Multiplayer Online Shooters: Evidence of Social Contagion in Playtime and Social Play
+Engaging Gentrification as a Social Justice Issue in HCI
+Social, Cultural and Systematic Frustrations Motivating the Formation of a DIY Hearing Loss Hacking Community
+Social Media TestDrive: Real-World Social Media Education for the Next Generation
+Seekers, Providers, Welcomers, and Storytellers: Modeling Social Roles in Online Health Communities
+“I was really, really nervous posting it”: Communicating about Invisible Chronic Illnesses across Social Media Platforms
+Frame Analysis of Voice Interaction Gameplay
+A Field Study of Teachers Using a Curriculum-integrated Digital Game
+Social Play in an Exergame: How the Need to Belong Predicts Adherence
+Design and Evaluation of a Social Media Writing Support Tool for People with Dyslexia
+Does Being Verified Make You More Credible? Account Verification’s Effect on Tweet Credibility
+ #HandsOffMyADA: A Twitter Response to the ADA Education and Reform Act
+“Notjustgirl”: Exploring Male-related Eating Disordered Content across Social Media Platforms
+Who Would You Like to Work With?: Use of Individual Characteristics and Social Networks in Team Formation Systems
+
+
+特定人群服务：（共7篇）
+EarTouch: Facilitating Smartphone Use for Visually Impaired People in Mobile and Public Scenarios
+Changing Perspective: A Co-Design Approach to Explore Future Possibilities of Divergent Hearing
+The Channel Matters: Self-disclosure, Reciprocity and Social Support in Online Cancer Support Groups
+Design Goals for Playful Technology to Support Physical Activity Among Wheelchair Users
+BBeep: A Sonic Collision Avoidance System for Blind Travellers and Nearby Pedestrians
+Exploring Sound Awareness in the Home for People who are Deaf or Hard of Hearing
+“I Bought This for Me to Look More Ordinary”: A Study of Blind People Doing Online Shopping
+
+
+3D&4D打印：（共5篇）
+Geodesy: Self-rising 2.5D Tiles by Printing along 2D Geodesic Closed Path
+Desktop Electrospinning: A Single Extruder 3D Printer for Producing Rigid Plastic and Electrospun Textiles
+A-line: 4D Printing Morphing Linear Composite Structures
+trilaterate: A Fabrication Pipeline to Design and 3D Print Hover-, Touch-,and Force-Sensitive Objects
+FiberWire: Embedding Electronic Function into 3D Printed Mechanically Strong, Lightweight Carbon Fiber Composite Objects
+
+
+感兴趣：
+DesignABILITY: Framework for the Design of Accessible Interactive Tools to Support Teaching to Children with Disabilities
+Design and Plural Heritages: Composing Critical Futures
+Connect-to-Connected Worlds: Piloting a Mobile, Data-Driven Reflection Tool for an Open-Ended Simulation at a Museum
+LightBee: A Self-Levitating Light Field Display for Hologrammatic Telepresence
+Airport Accessibility and Navigation Assistance for People with Visual Impairments
+Making Sense of Art: Access for Gallery Visitors with Vision Impairments
+Emotional Utility and Recall of the Facebook News Feed
+EarTouch: Facilitating Smartphone Use for Visually Impaired People in Mobile and Public Scenarios
+ActiveInk: (Th)Inking with Data
+Pinpoint: A PCB Debugging Pipeline Using Interruptible Routing and Instrumentation
+How to Work in the Car of the Future?: A Neuroergonomical Study Assessing Concentration, Performance and Workload Based on Subjective, Behavioral and Neurophysiological Insights
+Painting with CATS: Camera-Aided Texture Synthesis
+HistoryTracker: Minimizing Human Interactions in Baseball Game Annotation
+Increasing the Transparency of Research Papers with Explorable Multiverse Analyses
+DataSelfie: Empowering People to Design Personalized Visuals to Represent Their Data
+Swire: Sketch-based User Interface Retrieval
+On the Internet, Nobody Knows You’re a Dog... Unless You’re Another Dog
+Modeling Fully and Partially Constrained Lasso Movements in a Grid of Icons
+r/science: Challenges and Opportunities in Online Science Communication
+‘Think secure from the beginning’: A Survey with Software Developers
+On the Latency of USB-Connected Input Devices
+
