@@ -1,0 +1,428 @@
+2019 AAAI 今年共收到7095份专业论文，比去年收获的论文数量增长103%，并且突破了协会成立以来的历史最高纪录。而另一方面，今年的论文录取率创历史新低，平均每6篇递交的论文只有1篇被录取。在大会接受的1147篇被论文中，中美两国分别以382篇和264篇高居全球榜首。南京大学计算机系周志华教授与美国密歇根大学Pascal Van Hentenryck教授一起担任AAAI 2019大会的程序委员会主席。
+
+分类：
+1）深度学习  （189篇）
+CircConv: A Structured Convolution with Low Complexity
+Deep Single-View 3D Object Reconstruction with Visual Hull Embedding
+Weighted Channel Dropout for Regularization of Deep Convolutional Neural Network
+Weighted abstract dialectical frameworks through the lens of approximation fixpoint theory
+MetaStyle: Three-Way Trade-Off Among Speed, Flexibility and Quality in Neural Style Transfer
+Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction
+DeepChannel: Salience Estimation by Contrastive Learning for Extractive Document Summarization
+Deep Recurrent Survival Analysis
+Sensitivity Analysis of Deep Neural Networks
+Scalable Distributed DL Training: Batching Communication and Computation
+Deep Interest Evolution Network for Click-Through Rate Prediction
+Adversarial Dropout for Recurrent Neural Networks
+Deep Bayesian Trust : A Dominant and Fair Incentive Mechanism for Crowd
+Learning to Steer by Mimicking Features from Heterogeneous Auxiliary Networks
+A^2-Net: Molecular Structure Estimation for Cryo-EM Density Volumes
+Template-Based Math Word Problem Solvers with Recursive Neural Networks
+Perceptual-Sensitive GAN for Generating Adversarial Patches
+Data-to-Text Generation with Content Selection and Planning
+Learning a Deep Convolutional Network for Colorization in Monochrome-Color Dual-Lens System
+Fully Convolutional Network with Multi-Step Reinforcement Learning for Image Processing
+Cubic LSTMs for Video Prediction
+3D Object Detection Using Scale Invariant and Feature Reweighting Networks
+Unsupervised Fake News Detection on Social Media: A Generative Approach
+Deep Latent Generative Models For Energy Disaggregation
+Deep Reinforcement Learning for Syntactic Error Repair in Student Programs
+Efficient Region Embedding with Multi-view Spatial Networks: A Perspective of LocalityConstrained Spatial Autocorrelations
+Cycle-SUM: Cycle-consistent Adversarial LSTM Networks for Unsupervised Video Summarization
+Predicting Hurricane Trajectories using a Recurrent Neural Network
+The Goldilocks zone: Towards better understanding of neural network loss landscapes
+ Learning to Compose Topic-Aware Mixture of Experts for Zero-Shot Video Captioning
+TET-GAN: Text Effects Transfer via Stylization and Destylization
+Hypergraph Neural Networks
+Cognitive Deficit of Deep Learning in Numerosity
+Projection Convolutional Neural Networks
+Capacity Control of ReLU Neural Networks by Basis-path Norm
+3D Volumetric Modeling with Introspective Neural Networks
+Outlier Aware Network Embedding for Attributed Networks
+Classification with Costly Features using Deep Reinforcement Learning
+Scene Text Detection with Supervised Pyramid Context Network
+TDSNN:From Deep Neural Networks to Deep Spike Neural Networks with Temporalcoding
+Deep Reinforcement Learning for Green Security Games with Real-Time Information
+Graph Convolutional Networks for Text Classification
+DoPAMINE: Double-sided Masked CNN for Pixel Adaptive Multiplicative Noise Despeckling
+A Human-like Semantic Cognition Network for Aspect-level Sentiment Classification
+Training Deep Neural Networks in Generations: A More Tolerant Teacher Educates Better Students
+Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple Action Detection
+Dictionary-Guided Editing Networks for Paraphrase Generation
+M2Det: A Single-Shot Object detector based on Multi-Level Feature Pyramid Network
+Super Sparse Convolutional Neural Networks
+SVM-based Deep Stacking Networks
+View Inter-Prediction GAN: Unsupervised Representation Learning for 3D Shapes by
+Learning Global Shape Memories to Support Local View Predictions
+MeshNet: Mesh Neural Network for 3D Shape Representation
+Cousin Network Guided Sketch Recognition via Latent Attribute Warehouse
+Balanced Sparsity for Efficient DNN Inference on GPU
+Temporal Deformable Convolutional Encoder-Decoder Networks for Video Captioning
+Unsupervised Cross-spectral Stereo Matching by Learning to Synthesize
+CNN-Cert: An Efficient Framework for Certifying Robustness of Convolutional Neural Networks
+AutoZOOM: Autoencoder-based Zeroth Order Optimization Method for Attacking Blackbox Neural Networks
+Combining Deep Learning and Qualitative Spatial Reasoning to Learn Complex Structures from Sparse Examples with Noise
+Learning Anytime Predictions in Neural Networks via Adaptive Loss Balancing
+An Efficient Compressive Convolutional Network for Unified Object Detection and Image Compression
+Depthwise Convolution is All You Need for Learning Multiple Visual Domains
+MVPNet: Multi-View Point Regression Networks for 3D Object Reconstruction from A Single Image
+Difficulty-Aware Attention Network with Confidence Learning for Medical Image Segmentation
+Practical Approximate Second-Order Method for Training Fully-Connected Neural Networks
+Compressing Recurrent Neural Networks with Tensor Ring Decomposition for Action Recognization
+Residual Invertible Spatio-Temporal Network For Video Super-Resolution
+Deep neural networks constrained by decision rules
+MLVCNN: Multi-Loop-View Convolutional Neural Network for 3D Shape Retrieval
+Who Blames Whom in a Crisis? Detecting Blame Ties from News Articles Using Neural Network
+Improving Domain-Specific Classification by Collaborative Learning with Adaptation Networks
+Learning to Align Question and Answer Utterances in Customer Service Conversation with Recurrent Pointer Networks
+Popularity Prediction on Online Articles with Deep Fusion of Temporal Process and Content Features
+Neural Speech Synthesis with Transformer Network
+Incorporating Network Embedding into Markov Random Field for Better Community Detection
+Semantic Sentence Matching with Densely-connected Recurrent and Co-attentive Information
+Long Short-Term Memory with Dynamic Skip Connections
+Temporal Bilinear Networks for Video Action Recognition
+A Grammar-Based Structural CNN Decoder for Code Generation
+Communication Efficient Stochastic Gradient MCMC for Neural Networks
+Image Saliency Prediction in Transformed Domain: A Deep Complex Neural Network Method
+Detecting Incongruity Between News Headline and Body Text via a Deep Hierarchical Encoder
+Deep Convolutional Sum-Product Networks
+Inverse Abstraction of Neural Networks Using Symbolic Interpolation
+A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in
+Multivariate Time Series Data
+Regularizing Neural Machine Translation by Target-bidirectional Agreement
+Dynamic Layer Aggregation for Neural Machine Translation
+Network Recasting: A Universal Method for Network Architecture Transformation
+Dynamic Spatial-Temporal Graph Convolutional Neural Networks for Traffic Forecasting
+Deep Robust Unsupervised Multi-Modal Network
+DialogueRNN: An Attentive RNN for Emotion Detection in Conversations
+Robust Deep Co-Saliency Detection with Group Semantic
+Smooth Deep Image Generator from Noises
+Task-Driven Common Representation Learning via Bridge Neural Network
+DeepETA: A Spatial-temporal Sequential Neural Network Model for Estimating Time of Arrival in Package Delivery System
+Deep Short Text Classification with Knowledge Powered Attention
+DeepDPM: Dynamic Population Mapping via Deep Neural Network
+A Layer Decomposition-Recomposition Framework for Neuron Pruning towards Accurate Lightweight Networks
+Multi-CGN: Graph Convolutional Networks for Multi-View Networks, with Applications to Global Poverty
+Data-Distortion Guided Self-Distillation for Deep Neural Networks
+BiHMP-GAN: Bidirectional 3D Human Motion Prediction GAN
+MRes-RGNN: A Novel Deep Learning based Framework for Traffic Prediction
+DeepCCFV: Camera Constraint-Free Multi-View Convolutional Neural Network for 3D Object Retrieval
+DTMT: A Novel Deep Transition Architecture for Neural Machine Translation
+Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data
+Personalized Question Routing via Heterogeneous Network Embedding
+Coupled CycleGAN: Unsupervised Hashing Network for Cross-Modal Retrieval
+Variational Autoencoder with Implicit Optimal Priors
+Learning (from) Deep Hierarchical Structure among Features
+Estimating the Days to Success of Campaigns in Crowdfunding: A Deep Survival Perspective
+Inter-Class Angular Loss for Convolutional Neural Networks
+TableSense: Mask R-CNN for Spreadsheet Table Detection
+HyperAdam: A Learnable Task-Adaptive Adam for Network Training
+Evolutionarily Learning Multi-aspect Interactions and Influences from Network Structure and Node Content
+Deep Learning for Cost-Optimal Planning: Task-Dependent Planner Selection
+Improving Image Captioning with Conditional Generative Adversarial Nets
+DRr-Net: Dynamic Re-read Network for Sentence Semantic Matching
+Relation Structure-Aware Heterogeneous Information Network Embedding
+Learning to Solve NP-Complete Problems -- A Graph Neural Network for the Decision TSP
+Perceptual Pyramid Adversarial Networks for Text-to-Image Synthesis
+GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition
+Scale Invariant Fully Convolutional Network: Detecting Hands Efficiently
+SuperVAE: Superpixelwise Variational Autoencoder for Salient Object Detection
+PVRNet: Point-View Relation Neural Network for 3D Shape Recognition
+Deliberate Residual based Attention Network for Image Captioning
+A Radical-aware Attention-based Model for Chinese Text Classification
+Deep Embedding Features for Salient Object Detection
+Understanding Dropouts in MOOCs
+Coverage Centrality Maximization in Undirected Networks
+DeepSTN+: Context-aware Spatial Temporal Neural Network for Crowd Flow Prediction in Metropolis
+Tied Transformers: Neural Machine Translation with Shared Encoder and Decoder
+SCNN: A General Distribution based Statistical Convolutional Neural Network with Application to Video Object Detection
+A Neural Network Approach to Verb Phrase Ellipsis Resolution
+Graph CNNs with Motif and Variable Temporal Block for Skeleton-based Action Recognition
+Subtask Gated Networks for Non-Intrusive Load Monitoring
+Guiding the One-to-one Mapping in CycleGAN via Optimal Transport
+Complex Unitary Recurrent Neural Networks using Scaled Cayley Transform
+Designing Deep Generative Models for Molecular Graphs
+What Is One Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models
+Bayesian Graph Convolutional Neural Networks for Semi-supervised Classification
+PerformanceNet: Score-to-Audio Music Generation with Multi-Band Convolutional Residual Network
+Learning Diverse Bayesian Networks
+Combining Fact Extraction and Verification with Neural Semantic Matching Networks
+Multi-Perspective Relevance Matching with Hierarchical ConvNets for Social Media Search
+Resisting Adversarial Attacks using Gaussian Mixture Variational Autoencoders
+Learning to Adaptively Scale Recurrent Neural Networks
+Non-Parametric Transformation Networks
+Guided Dropout: A Strength Based Neuron Dropping Approach to Improve Generalization of Neural Network
+Manifold-valued Image Generation with Wasserstein Generative Adversarial Nets
+Fast, Memory-Efficient and Simple Mixture of Softmaxes with BPE and Hybrid-LightRNN for Language Generation
+Gradient-based Inference for Networks with Output Constraints
+Incomplete Label Multi-task Deep Learning for Spatio-temporal Event Subtype Forecasting
+Contextualized Non-local Neural Networks for Sequence Learning
+Robust Negative Sampling for Network Embedding
+One-Class Adversarial Nets for Fraud Detection
+IPOMDP-Net: A Deep Neural Network for Partially Observable Multi-Agent Planning using Interactive POMDPs
+Learning from Web Data using Adversarial Discriminative Neural Networks for FineGrained Classification
+ACM: Adaptive Cross-Modal Graph Convolutional Neural Networks for RGB-D Scene Recognition
+PCGAN: Partition-Controlled Human Image Generation
+Text Assisted Insight Ranking Using Context-Aware Memory Network
+Utilizing Class Information for DNN Representation Shaping
+A Deep Reinforcement Learning based Multi-Step Coarse to Fine Question Answering (MSCQA) System
+Spatially Invariant Unsupervised Object Detection with Convolutional Neural Networks
+Improving GAN with neighbors embedding and gradient matching
+Story Ending Generation with Incremental Encoding and Commonsense Knowledge
+Composite Binary Decomposition Network
+Character n-gram Embeddings to Improve RNN Language Models
+Network Structure and Transfer Behaviors Embedding via Deep Prediction Model
+Similarity Preserving Deep Asymmetric Quantization for Image Retrieval
+Revisiting LSTM Networks for Semi-Supervised Text Classification via Mixed Objective Function
+Matrix Completion for Graph-Based Deep Semi-Supervised Learning
+Data Augmentation based on Adversarial Autoencoder Handling Imbalance for Learning to Rank
+InfoVAE: Balancing Learning and Inference in Variational Autoencoders
+Ladder Gamma Variational Autoencoders for Graphs
+Tensor Decomposition for Multilayer Networks Clustering
+A Deep Sequential Model for Discourse Parsing on Multi-Party Dialogues
+High Dimensional Clustering with $r$-nets
+Learning Phenotypes and Dynamic Patient Representations via RNN Regularized Collective Non-negative Tensor Factorization
+Switch-LSTMs for Multi-Criteria Chinese Word Segmentation
+Paraphrase Diversification as Guided Style Transfer
+Efficient Quantization for Compact Neural Networks with Binary Weights and Low Bitwidth Activations
+Geometric Hawkes Processes with Graph Convolutional Recurrent Neural Networks
+Active Generative Adversarial Network for Image Classification Enhancement
+Universal Approximation Property and Equivalence of Stochastic Computing-based Neural Networks and Binary Neural Networks
+Parallel Restarted SGD with Faster Convergence and Less Communication: Demystifying Why Model Averaging Works for Deep Learning
+Modeling Local Dependence in Natural Language with Multi-channel Recurrent Neural Networks
+Direct Training for Spiking Neural Networks: Faster, Larger, Better
+
+2）迁移学习（领域自适应&多任务学习）（58篇）
+Transferable Curriculum for Weakly-Supervised Domain Adaptation
+Zero-Shot Object Detection with Textual Descriptions
+Disjoint Label Space Transfer Learning with Common Factorised Space
+Consensus Adversarial Domain Adaptation
+Energy Confused Adversarial Metric Learning for Zero-Shot Image Retrieval and Clustering
+Optimal Projection Guided Transfer Hashing for Image Retrieval
+Cross-domain Visual Representations via Unsupervised Graph Alignment
+Zero-Shot Adaptive Transfer for Conversational Language Understanding
+Task Transfer by Preference-Based Cost Learning
+RGBD Based Gaze Estimation via Multi-task CNN
+Combo-Action: Training Agent For FPS Game with Auxiliary Tasks
+Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification
+Heterogeneous Transfer Learning via Deep Matrix Completion with Adversarial Kernel Embedding
+RSA: Byzantine-Robust Stochastic Aggregation Methods for Distributed Learning from Heterogeneous Datasets
+Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons
+Human Action Transfer Based on 3D Model Reconstruction
+Distribution Consistency based Covariance Metric Networks for Few Shot Learning
+Transferable Attention for Domain Adaptation
+Unsupervised Transfer Learning for Spoken Language Understanding in Intelligent Agents
+Play As You Like: Timbre-Enhanced Multi-modal Music Style Transfer
+Number Sequence Prediction Problems for Evaluating Computational Powers of Neural Networks
+Improving Natural Language Inference Using External Knowledge in the Science Questions Domain
+Image Block Augmentation for One-Shot Learning
+Unsupervised Domain Adaptation by Matching Distributions based on the Maximum
+Mean Discrepancy via Unilateral Transformations
+Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation
+Learning Personalized Attribute Preference via Multi-task AUC Optimization
+I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph
+SCFont: Structure-guided Chinese Font Generation via Deep Stacked Networks
+Unsupervised Domain Adaptation Based on Source-guided Discrepancy
+Training Complex Models with Multi-Task Weak Supervision
+Answer Identification from Product Reviews for User Questions by Multi-task Attentive Networks
+Exploiting Local Feature Patterns for Unsupervised Domain Adaptation
+Dual-view Ranking with Hardness Assessment for Zero-shot Learning
+Covariate Shift Adaptation on Learning from Positive and Unlabeled Data
+ClusterGAN : Latent Space Clustering in Generative Adversarial Networks
+Self-Ensembling Attention Networks: Addressing Domain Shift for Semantic Segmentation
+Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering
+Aligning Domain-specific Distribution and Classifier for Cross-domain Classification from Multiple Sources
+Meta Learning for Image Captioning
+Action Knowledge Transfer for Action Prediction with Partial Videos
+A Neural Multi-Task Learning Framework to Jointly Model Medical Named Entity Recognition and Normalization
+Multi-Attribute Transfer via Disentangled Representation
+Transferable Interactive Memory Network for Domain Adaptation in Fine-grained Opinion Extraction
+Online Active Learning cross Multiple Tasks
+Gated Interleaved Multi-Task Composite State Sequencing: Learning to Daisy-Chain the Best Experts with GIRNet
+Interactive Attention Transfer Network for Cross-domain Sentiment Classification
+Multi-task Deep Reinforcement Learning with PopArt
+Instance-level Facial Attributes Transfer with Geometry-aware Flow
+Robust Optimization over Multiple Domains
+Multi-task architecture learning
+Zero-shot Neural Transfer for Cross-lingual Entity Linking
+Transfer Learning Only Using the Source Model and the Target Data for Sequence Labeling Tasks
+SNR: Sub-Network Routing for Flexible Parameter Sharing in Multi-task Learning
+Zero Shot Learning for Code Education: Rubric Sampling with Deep Learning Inference
+AffinityNet: Semi-supervised Few-shot Learning for Disease Type Prediction
+Multi-Fidelity Automatic Hyper-Parameter Tuning via Transfer Series Expansion
+A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks
+
+
+
+3）行人重鉴别 （10篇）
+Spatial-Temporal Person Re-identification
+Learning Resolution-Invariant Deep Representations for Person Re-Identification
+Horizontal Pyramid Matching for Person Re-identification
+STA: Spatial-Temporal Attention for Large-Scale Video-based Person Re-Identification
+Multi-scale 3D Convolution Network for Video Based Person Re-Identification
+A Bottom-Up Clustering Approach to Unsupervised Person Re-identification
+Backbone Can Not be Trained at Once: Rolling Back to Pre-trained Network for Person Re-Identification
+Spatial and Temporal Mutual Promotion for Video-based Person Re-identification
+Learning Incremental Triplet Margin for Person Re-identification
+Learning A Key-Value Memory Co-Attention Matching Network for Person ReIdentification
+
+
+
+4）多示例多标签 （8篇）
+Two-Stage Label Embedding via Neural Factorization Machine for MultiLabelClassification
+Partial Multi-Label Learning via Credible Label Elicitation
+Multi-labeled Relation Extraction with Attentive Capsule Network
+Learning Compact Model for Large-Scale Multi-Label Data
+Partial Multi-Label Learning by Low-Rank and Sparse Decomposition
+Multi-View Multi-Instance Multi-Label Learning based on Confederate Matrix Factorization
+Collaboration based Multi-Label Learning
+Distributional Semantics meets Multi-Label Learning
+
+
+
+
+5）多模态 （7篇）
+MEAL: Multi-Model Ensemble via Adversarial Learning
+Y^2Seq2Seq: Cross-Modal Representation Learning for 3D Shape and Text by Joint
+Reconstruction and Prediction of View and Word Sequences
+Multi-Interactive Memory Network for Aspect Based Multimodal Sentiment Analysis
+Ranking-based Deep Cross-modal Hashing
+Hyperbolic Heterogeneous Information Network Embedding
+An Efficient Approach to Informative Feature Extraction from Multimodal Data
+
+
+
+6）推荐系统 （28篇）
+Non-Compensatory Psychological Models for Recommender Systems
+Neural Attentive Model for Explainable Recommendation by Learning User Dynamic Preference
+GAMENet: Graph Augmented MEmory Networks for Recommending Medication Combination
+DAN : Deep Attention Neural Network for News Recommendation
+Deeply Fusing Reviews and Contents for Cold Start Users in Cross-Domain Recommendation System
+From Zero-Shot Learning to Cold-Start Recommendation
+Joint Representation Learning for Multi-Modal Transportation Recommendation
+Recurrent Stacking of Layers for Compact Neural Machine Translation Models
+Dynamic Compositionality in Recursive Neural Networks with Structure-aware Tag Representations
+Calibrated Stochastic Gradient Descent for Convolutional Neural Networks
+Large-scale Interactive Recommendation with Tree-structured Policy Gradient 
+Discrete Social Recommendation
+CAMO: A Collaborative Ranking Method for Content Based Recommendation
+Holographic Factorization Machines for Recommendation
+Cooperative Multimodal Approach to Depression Detection in Twitter
+Multi-order Attentive Ranking Model for Sequential Recommendation
+Multi-Level Deep Cascade Trees for Conversion Rate Prediction in Recommendation System
+DeepCF: A Unified Framework of Representation Learning and Matching Function Learning in Recommender System
+Hashtag Recommendation for Photo Sharing Services
+HERS: Modeling Influential Contexts with Heterogeneous Relations for Sparse and Coldstart Recommendation
+An Integral Tag Recommendation Model for Textual Content
+Where to Go Next: A Spatio-Temporal Gated Network for Next POI Recommendation
+Explainable Recommendation Through Attentive Multi-View Learning
+Evaluating Recommender System Stability with Influence-Guided Fuzzing
+Reasoning over Knowledge Graph Paths for Recommendation
+RepeatNet: A Repeat Aware Neural Recommendation Machine for Session-based Recommendation
+Hierarchical Context enabled Recurrent Neural Network for Recommendation
+Session-based Recommendation with Graph Neural Network
+
+
+
+7）人脸和表情识别 （10篇）
+Look Across Elapse: Disentangled Representation Learning and Photorealistic Cross-Age
+Face Synthesis for Age-Invariant Face Recognition
+Talking Face Generation by Adversarially Disentangled Audio-Visual Representation
+Disentangled Variational Representation for Heterogeneous Face Recognition
+Selective Refinement Network for High Performance Face Detection
+Structured and Sparse Annotations for Image Emotion Distribution Learning
+Residual Compensation Networks for Heterogeneous Face Recognition
+CycleEmotionGAN: Emotional Semantic Consistency Preserved CycleGAN for Adapting Image Emotions
+Mode Variational LSTM Robust to Unseen Modes of Variation: Application to Facial Expression Recognition
+Controllable Image-to-Video Translation: A Case Study on Facial Expression Generation
+
+
+
+8）VQA（视觉问答） （12篇）
+Differential Networks for Visual Question Answering
+A Novel Framework for Robustness Analysis of Visual QA Models
+ActivityNet-QA: A Dataset for Understanding Complex Web Videos via Question Answering
+BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual Relationship Detection
+Exploiting Sentence Embedding for Medical Question Answering
+Dynamic Capsule Attention for Visual Question Answering
+HAS-QA: Hierarchical Answer Spans Model for Open-domain Question Answering
+Structured Two-stream Attention Network for Video Question Answering
+Lattice CNNs for Matching Based Chinese Question Answering
+Beyond RNNs: Positional Self-Attention with Co-Attention for Video Question Answering
+QuaRel: A Dataset and Models for Answering Questions about Qualitative Relationships
+WK-VQA: World Knowledge-enabled Visual Question Answering
+
+
+
+
+9）医学信息处理 （9篇）
+PhoneMD: Learning to Diagnose Parkinson's Disease from Smartphone Data
+Knowledge-Driven Encode, Retrieve, Paraphrase for Medical Image Report Generation
+Towards Sentence-Level Brain Decoding with Distributed Representations
+Synergistic Image and Feature Adaptation: Towards Cross-Modality Domain Adaptation for Medical Image Segmentation
+A Theoretically Guaranteed Deep Optimization Framework for Robust Compressive Sensing MRI
+Building Causal Graphs from Medical Literature and Electronic Medical Records
+SEGAN: Structure-Enhanced Generative Adversarial Network for Compressed Sensing MRI Reconstruction
+PGANs: Personalized Generative Adversarial Networks for ECG Generation to improve
+Patient-Specific Deep ECG Classification
+
+
+
+
+10）注意力机制 （26篇）
+Attention-based Multi-Context Guiding for Few-Shot Semantic Segmentation
+Residual Attribute Attention Network for Face Image Super-Resolution
+Hybrid Attention-based Prototypical Networks for Noisy Few-Shot Relation Classification
+To Find Where You Talk: Temporal Sentence Localization in Video with Attention Based Location Regression
+STA: Spatial-Temporal Attention for Large-Scale Video-based Person Re-Identification
+An Affect-Rich Neural Conversational Model with Biased Attention and Weighted CrossEntropy Loss
+A Dual Attention Network with Semantic Embedding for Few-shot Learning
+Hierarchical Attention Network for Image Captioning
+DAN : Deep Attention Neural Network for News Recommendation
+A Two-Stream Mutual Attention Network for Semi-supervised Biomedical Segmentation with Noisy Labels
+Transferable Attention for Domain Adaptation
+Fully Convolutional Video Captioning with Coarse-to-Fine and Inherited Attention
+Point2Sequence: Learning the Shape Representation of 3D Point Clouds with an
+Attention-based Sequence to Sequence Network
+Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow orecasting
+Motion Guided Spatial Attention for Video Captioning
+Cross-relation Cross-bag Attention for Distantly-supervised Relation Extraction
+Semantic Adversarial Network with Multi-scale Pyramid Attention for Video Classification
+Hierarchical Attention Networks for Sentence Ordering
+AFS: An Attention-based mechanism for Supervised Feature Selection
+Granger-causal Attentive Mixtures of Experts: Learning Important Features with Neural Networks
+SAM-Net: Integrating Event-Level and Chain-Level Attentions to Predict What Happens Next
+Deep Metric Learning by Online Soft Mining and Class-Aware Attention
+Exploring Answer Stance Detection with Recurrent Conditional Attention
+Context-Aware Self-Attention Networks
+Attention-aware Sampling via Deep Reinforcement Learning for Action Recognition
+Character-Level Language Modeling with Deeper Self-Attention
+
+
+11）视频插帧 （1篇）
+Deep Video Frame Interpolation using Cyclic Frame Generation
+
+
+12）层次&空间&级联&金字塔 （7篇）
+A Deep Cascade Model for Multi-Document Reading Comprehension
+A Hierarchical Framework for Relation Extraction with Reinforcement Learning
+Robust Anomaly Detection in Videos using Multilevel Representations
+Diversity-Driven Extensible Hierarchical Reinforcement Learning
+Bias-Variance Trade-Off in Hierarchical Probabilistic Models Using Higher-Order Feature Interactions
+Attentive Temporal Pyramid Network for Dynamic Scene Classification
+Weakly-Supervised Hierarchical Text Classification
+
+
+
+
+13）图像&视频修复 （2篇）
+Video Inpainting by Jointly Learning Temporal Structure and Spatial Details
+CISI-net: Explicit latent content inference and imitated style rendering for image inpainting
+
+
+14）年龄识别 (3篇)
+Soft Facial Landmark Detection by Label Distribution Learning
+Theoretical Analysis of Label Distribution Learning
+Hierarchical Classification based on Label Distribution Learning
+
+
