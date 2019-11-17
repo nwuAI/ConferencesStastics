@@ -41,6 +41,31 @@ The stastics information of top conference realted to information area including
   
   # Labs 
   
+  Computer Vision Group at UC Berkeley    https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/
+  
+  Robotics Research Group at Univ. of Oxford   http://www.robots.ox.ac.uk/
+  
+  LEAR at INRIA    http://lear.inrialpes.fr/index.php
+  
+  Computer Vision Lab at Stanford  http://vision.stanford.edu/index.html
+  
+  Computer Vision Lab at EPFL    https://www.epfl.ch/labs/cvlab/
+  
+  Computer Vision Lab at ETH Zurich  http://www.vision.ee.ethz.ch/en/
+  
+  Computer Vision Lab at Seoul National Univ.   https://cv.snu.ac.kr/
+  
+  Computer Vision Lab at UC San Diego  http://vision.ucsd.edu/
+  
+  UCLA Vision Lab  http://www.vision.cs.ucla.edu/index.html
+  
+  Computer Vision Lab. at Vienna Univ. of Tech.   https://cvl.tuwien.ac.at/
+  
+  Visual Perception Lab at Purdue Univ.   https://cvl.tuwien.ac.at/
+  
+  
+  
+  
   Masters' introduction:
   
   https://www.jianshu.com/p/b3bbeb7c67f5
