@@ -2,8 +2,8 @@
 The stastics information of top conference realted to information area including AI, ML, CV, etc
 
 # Computer vision (# CVPR Directory / # ICCV Directory / # ECCV Directory)
-# The top three conferences of computer vision are CVPR, ICCV, ECCV. 
-# These websites will be helpful 
+The top three conferences of computer vision are CVPR, ICCV, ECCV. 
+# These personal websites will be helpful 
   
   FeiFei Li            http://vision.stanford.edu/                         Stanford
 
