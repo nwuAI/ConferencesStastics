@@ -4,6 +4,7 @@ The statistics information of top conference realted to information area includi
 
 # `Computer vision stastics are listed in CVPR Directory /  ICCV Directory /  ECCV Directory`
 The top three conferences of computer vision are `CVPR, ICCV, ECCV`. 
+The CV files can be obtained from `http://openaccess.thecvf.com/menu.py`.
 ## These personal websites will be helpful 
   
  * FeiFei Li            http://vision.stanford.edu/                         Stanford
