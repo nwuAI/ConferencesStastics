@@ -1,6 +1,6 @@
-Conference Stastics
+Conference Statistics
 ===
-The stastics information of top conference realted to information area including AI, ML, CV, etc
+The statistics information of top conference realted to information area including AI, ML, CV, etc
 
 # `Computer vision stastics are list at CVPR Directory /  ICCV Directory /  ECCV Directory`
 The top three conferences of computer vision are `CVPR, ICCV, ECCV`. 
