@@ -10,6 +10,12 @@ The stastics information of top conference realted to information area including
   
   Serge Belongie       http://vision.ucsd.edu/biblio                       University of California, San Diego
   
+  Antonio Torralba     http://web.mit.edu/torralba/www/                    Massachusetts Institute of Technology
+  
+  Alexei Ffros         https://people.eecs.berkeley.edu/~efros/#pubs       Berkeley
+  
+  Devi Parikh          https://www.cc.gatech.edu/~parikh/publications.html  Georgia Tech
+  
   
 
   JianboShi史建波       https://www.cis.upenn.edu/~jshi/                    University of Pennsylvania
