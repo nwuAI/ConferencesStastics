@@ -21,10 +21,7 @@ The stastics information of top conference realted to information area including
   
   Piotr Dollar         https://research.fb.com/publications/                FaceBook
   
-  David Ross           http://www.cs.toronto.edu/~dross/                    Google AI
-  
-  
-  
+  David Ross           http://www.cs.toronto.edu/~dross/                    Google AI  
 
   JianboShi史建波       https://www.cis.upenn.edu/~jshi/                    University of Pennsylvania
 
@@ -41,6 +38,8 @@ The stastics information of top conference realted to information area including
   孙剑                 http://www.jiansun.org/publications.html             Face++
   
   汤晓欧               https://github.com/nwuAI/ConferencesStastics/edit/master/README.md   The Chinese University of Hong Kong & SenseTime
+  
+  # Labs 
   
   Masters' introduction:
   
