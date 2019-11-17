@@ -7,6 +7,10 @@ The stastics information of top conference realted to information area including
   FeiFei Li            http://vision.stanford.edu/                         Stanford
 
   Kristen Grauman      http://www.cs.utexas.edu/~grauman/                  University of Texas at Austin
+  
+  Serge Belongie       http://vision.ucsd.edu/biblio                       University of California, San Diego
+  
+  
 
   JianboShi史建波       https://www.cis.upenn.edu/~jshi/                    University of Pennsylvania
 
