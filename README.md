@@ -52,31 +52,31 @@ The top three conferences of computer vision are `CVPR, ICCV, ECCV`.
   
   * Robotics Research Group at Univ. of Oxford   http://www.robots.ox.ac.uk/
   
-  LEAR at INRIA    http://lear.inrialpes.fr/index.php
+  * LEAR at INRIA    http://lear.inrialpes.fr/index.php
   
-  Computer Vision Lab at Stanford  http://vision.stanford.edu/index.html
+  * Computer Vision Lab at Stanford  http://vision.stanford.edu/index.html
   
-  Computer Vision Lab at EPFL    https://www.epfl.ch/labs/cvlab/
+  * Computer Vision Lab at EPFL    https://www.epfl.ch/labs/cvlab/
   
-  Computer Vision Lab at ETH Zurich  http://www.vision.ee.ethz.ch/en/
+  * Computer Vision Lab at ETH Zurich  http://www.vision.ee.ethz.ch/en/
   
-  Computer Vision Lab at Seoul National Univ.   https://cv.snu.ac.kr/
+  * Computer Vision Lab at Seoul National Univ.   https://cv.snu.ac.kr/
   
-  Computer Vision Lab at UC San Diego  http://vision.ucsd.edu/
+  * Computer Vision Lab at UC San Diego  http://vision.ucsd.edu/
   
-  UCLA Vision Lab  http://www.vision.cs.ucla.edu/index.html
+  * UCLA Vision Lab  http://www.vision.cs.ucla.edu/index.html
   
-  Computer Vision Lab. at Vienna Univ. of Tech.   https://cvl.tuwien.ac.at/
+  * Computer Vision Lab. at Vienna Univ. of Tech.   https://cvl.tuwien.ac.at/
   
-  Visual Perception Lab at Purdue Univ.   https://cvl.tuwien.ac.at/
+  * Visual Perception Lab at Purdue Univ.   https://cvl.tuwien.ac.at/
   
   
   
   
   Masters' introduction:
   
-  https://www.jianshu.com/p/b3bbeb7c67f5
+  * https://www.jianshu.com/p/b3bbeb7c67f5
   
-  http://wap.sciencenet.cn/blog-605185-502314.html
+  * http://wap.sciencenet.cn/blog-605185-502314.html
 
 
