@@ -40,6 +40,8 @@ The CV files can be obtained from `http://openaccess.thecvf.com/menu.py`.
  * David Lowe           https://www.cs.ubc.ca/~lowe/pubs.html               University of British Columbia
   
  * Luc Van Gool         https://www.vision.ee.ethz.ch/en/publications/      Eidgenössische Technische Hochschule Zürich
+ 
+ * Yang JianWei         https://www.cc.gatech.edu/~jyang375/                Georgia Tech
   
  * 何恺明               http://kaiminghe.com/                                FaceBook
   
