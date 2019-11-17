@@ -2,7 +2,7 @@ Conference Statistics
 ===
 The statistics information of top conference realted to information area including AI, ML, CV, etc
 
-# `Computer vision stastics are list at CVPR Directory /  ICCV Directory /  ECCV Directory`
+# `Computer vision stastics are listed in CVPR Directory /  ICCV Directory /  ECCV Directory`
 The top three conferences of computer vision are `CVPR, ICCV, ECCV`. 
 ## These personal websites will be helpful 
   
