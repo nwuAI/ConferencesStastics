@@ -17,6 +17,8 @@ The stastics information of top conference realted to information area including
   
   Devi Parikh          https://www.cc.gatech.edu/~parikh/publications.html  Georgia Tech
   
+  Jürgen Gall          https://pages.iai.uni-bonn.de/gall_juergen/index.html#Publications  University of Bonn
+  
   John Wright          http://www.columbia.edu/~jw2966/publications.html    Columbia Univ.
   
   Piotr Dollar         https://research.fb.com/publications/                FaceBook
