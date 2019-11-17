@@ -6,9 +6,9 @@ The stastics information of top conference realted to information area including
 The top three conferences of computer vision are `CVPR, ICCV, ECCV`. 
 ## These personal websites will be helpful 
   
-  FeiFei Li            http://vision.stanford.edu/                         Stanford
+ * FeiFei Li            http://vision.stanford.edu/                         Stanford
 
-  Kristen Grauman      http://www.cs.utexas.edu/~grauman/                  University of Texas at Austin
+ * Kristen Grauman      http://www.cs.utexas.edu/~grauman/                  University of Texas at Austin
   
   Serge Belongie       http://vision.ucsd.edu/biblio                       University of California, San Diego
   
