@@ -17,6 +17,8 @@ The stastics information of top conference realted to information area including
   
   Devi Parikh          https://www.cc.gatech.edu/~parikh/publications.html  Georgia Tech
   
+  Peter Kontschieder   https://deepai.org/machine-learning/researcher/peter-kontschieder  Director of Research at Mapillary
+  
   Mathieu Salzmann     https://people.epfl.ch/mathieu.salzmann              EPFL IC IINFCOM CVLAB
   
   Jürgen Gall          https://pages.iai.uni-bonn.de/gall_juergen/index.html#Publications  University of Bonn
