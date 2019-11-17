@@ -4,7 +4,7 @@ The stastics information of top conference realted to information area including
 
 # Computer vision (# CVPR Directory / # ICCV Directory / # ECCV Directory)
 The top three conferences of computer vision are `CVPR, ICCV, ECCV`. 
-# These personal websites will be helpful 
+## These personal websites will be helpful 
   
   FeiFei Li            http://vision.stanford.edu/                         Stanford
 
@@ -46,7 +46,7 @@ The top three conferences of computer vision are `CVPR, ICCV, ECCV`.
   
   汤晓欧               https://github.com/nwuAI/ConferencesStastics/edit/master/README.md   The Chinese University of Hong Kong & SenseTime
   
-  # Labs 
+  ## Labs 
   
   Computer Vision Group at UC Berkeley    https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/
   
