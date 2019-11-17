@@ -20,6 +20,8 @@ The stastics information of top conference realted to information area including
   
   Piotr Dollar         https://research.fb.com/publications/                FaceBook
   
+  David Ross           http://www.cs.toronto.edu/~dross/                    Google AI
+  
   
   
 
