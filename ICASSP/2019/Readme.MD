@@ -6,10 +6,15 @@ This is the stastics of 2019 ICASSP
 Convex Relaxations of Convolutional Neural Nets
 
 User Constrained Thumbnail Generation Using Adaptive Convolutions
+
 D2PGGAN: Two Discriminators Used in Progressive Growing of GANS
+
 Graph Signal Representation with Wasserstein Barycenters
+
 Enhanced Recurrent Neural Network for Combining Static and Dynamic Features for Credit Card Default Prediction
+
 Real-time Object Detection via Pruning and a Concatenated Multi-feature Assisted Region Proposal Network
+
 Power Minimization in Multi-tier Networks with Flexible Duplexing
 Residual Integration Neural Network
 Attention in Recurrent Neural Networks for Ransomware Detection
