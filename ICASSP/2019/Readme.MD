@@ -4,6 +4,7 @@ This is the stastics of 2019 ICASSP
 
 深度学习模型：（13篇）
 Convex Relaxations of Convolutional Neural Nets
+
 User Constrained Thumbnail Generation Using Adaptive Convolutions
 D2PGGAN: Two Discriminators Used in Progressive Growing of GANS
 Graph Signal Representation with Wasserstein Barycenters
