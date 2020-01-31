@@ -1,35 +1,27 @@
-This is the stastics of 2019 ICASSP
-
 2019 ICASSP 论文共 1743篇，比较杂的一个会议，以声学和语音信号分析为主，涵括了图像、视频、雷达、光学、WIFI、量子信息等等信号的处理和分析。解决问题的方法中还有很多：稀疏表达、传统统计学习的方法。深度学习方法是主要方法之一。
 
 深度学习模型：（13篇）
-Convex Relaxations of Convolutional Neural Nets
-
-User Constrained Thumbnail Generation Using Adaptive Convolutions
-
-D2PGGAN: Two Discriminators Used in Progressive Growing of GANS
-
-Graph Signal Representation with Wasserstein Barycenters
-
-Enhanced Recurrent Neural Network for Combining Static and Dynamic Features for Credit Card Default Prediction
-
-Real-time Object Detection via Pruning and a Concatenated Multi-feature Assisted Region Proposal Network
-
-Power Minimization in Multi-tier Networks with Flexible Duplexing
-Residual Integration Neural Network
-Attention in Recurrent Neural Networks for Ransomware Detection
-Learning Convolutional Neural Networks with Deep Part Embeddings
-Speech Augmentation Using Wavenet in Speech Recognition
-Improving ASR Robustness to Perturbed Speech Using Cycle-consistent Generative Adversarial Networks
-A Novel Repetition Normalized Adversarial Reward for Headline Generation
+Convex Relaxations of Convolutional Neural Nets  
+User Constrained Thumbnail Generation Using Adaptive Convolutions  
+D2PGGAN: Two Discriminators Used in Progressive Growing of GANS  
+Graph Signal Representation with Wasserstein Barycenters  
+Enhanced Recurrent Neural Network for Combining Static and Dynamic Features for Credit Card Default Prediction  
+Real-time Object Detection via Pruning and a Concatenated Multi-feature Assisted Region Proposal Network  
+Power Minimization in Multi-tier Networks with Flexible Duplexing  
+Residual Integration Neural Network  
+Attention in Recurrent Neural Networks for Ransomware Detection  
+Learning Convolutional Neural Networks with Deep Part Embeddings  
+Speech Augmentation Using Wavenet in Speech Recognition  
+Improving ASR Robustness to Perturbed Speech Using Cycle-consistent Generative Adversarial Networks  
+A Novel Repetition Normalized Adversarial Reward for Headline Generation  
 
 信号编码&解码（2篇）：
 Speaker-dependent Wavenet-based Delay-free Adpcm Speech Coding
-Immersive Audio Coding for Virtual Reality Using a Metadata-assisted Extension of the 3GPP EVS Codec
+Immersive Audio Coding for Virtual Reality Using a Metadata-assisted Extension of the 3GPP EVS Codec  
 
 
 图像和视频检测&评价&修复&风格迁移（6篇）：
-Fire Detection in H.264 Compressed Video
+Fire Detection in H.264 Compressed Video  
 The Effect of Spatio-temporal Inconsistency on the Subjective Quality Evaluation of Omnidirectional Videos
 Early Wildfire Smoke Detection Based on Motion-based Geometric Image Transformation and Deep Convolutional Generative Adversarial Networks
 Inpainting in Omnidirectional Images for Privacy Protection
