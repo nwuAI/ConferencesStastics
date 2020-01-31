@@ -1,0 +1,262 @@
+2019 ICASSP 论文共 1743篇，比较杂的一个会议，以声学和语音信号分析为主，涵括了图像、视频、雷达、光学、WIFI、量子信息等等信号的处理和分析。解决问题的方法中还有很多：稀疏表达、传统统计学习的方法。深度学习方法是主要方法之一。
+
+深度学习模型：（13篇）
+Convex Relaxations of Convolutional Neural Nets
+User Constrained Thumbnail Generation Using Adaptive Convolutions
+D2PGGAN: Two Discriminators Used in Progressive Growing of GANS
+Graph Signal Representation with Wasserstein Barycenters
+Enhanced Recurrent Neural Network for Combining Static and Dynamic Features for Credit Card Default Prediction
+Real-time Object Detection via Pruning and a Concatenated Multi-feature Assisted Region Proposal Network
+Power Minimization in Multi-tier Networks with Flexible Duplexing
+Residual Integration Neural Network
+Attention in Recurrent Neural Networks for Ransomware Detection
+Learning Convolutional Neural Networks with Deep Part Embeddings
+Speech Augmentation Using Wavenet in Speech Recognition
+Improving ASR Robustness to Perturbed Speech Using Cycle-consistent Generative Adversarial Networks
+A Novel Repetition Normalized Adversarial Reward for Headline Generation
+
+信号编码&解码（2篇）：
+Speaker-dependent Wavenet-based Delay-free Adpcm Speech Coding
+Immersive Audio Coding for Virtual Reality Using a Metadata-assisted Extension of the 3GPP EVS Codec
+
+
+图像和视频检测&评价&修复&风格迁移（6篇）：
+Fire Detection in H.264 Compressed Video
+The Effect of Spatio-temporal Inconsistency on the Subjective Quality Evaluation of Omnidirectional Videos
+Early Wildfire Smoke Detection Based on Motion-based Geometric Image Transformation and Deep Convolutional Generative Adversarial Networks
+Inpainting in Omnidirectional Images for Privacy Protection
+A Simple Way of Multimodal and Arbitrary Style Transfer
+
+信号分离&合成&去噪&增强&超分（47篇）：
+Denoising Gravitational Waves with Enhanced Deep Recurrent Denoising Auto-encoders
+Using Recurrences in Time and Frequency within U-net Architecture for Speech Enhancement
+Human Perception Oriented Image Enhancement
+Self-attention Based Model for Punctuation Prediction Using Word and Speech Embeddings
+On Role and Location of Normalization before Model-based Data Augmentation in Residual Blocks for Classification Tasks
+An Efficiency-improved Tdoa-based Direct Position Determination Method for Multiple Sources
+Autoencoding HRTFS for DNN Based HRTF Personalization Using Anthropometric Features
+Tensor Super-resolution for Seismic Data
+Robust Super-resolution Using Multiple Bases and 3D Filtering
+A Fully Convolutional Neural Network for Complex Spectrogram Processing in Speech Enhancement
+A Hybrid Method for Blind Estimation of Frequency Dependent Reverberation Time Using Speech Signals
+A Pitch-aware Approach to Single-channel Speech Separation
+A New Separation Method for Galaxy Spectra Based on Data Fusion between Two Grism Orders in Slitless Spectroscopy
+Image Reflection Removal Using the Wasserstein Generative Adversarial Network
+DNN-based Speaker-adaptive Postfiltering with Limited Adaptation Data for Statistical Speech Synthesis Systems
+Deep Neural Networks for Low-resolution Photon-limited Imaging
+A Novel Fractional Order Derivate Based Log-demons with Driving Force for High Accurate Image Registration
+Ad-net: Attention Guided Network for Optical Flow Estimation Using Dilated Convolution
+Graph Spectral Domain Blind Watermarking
+A Vocoder Based Method for Singing Voice Extraction
+Large-pose Face Alignment via Shape-aware Heatmap
+A Novel Approach for Feedforward Control of Noise in Ducts Using Simplified Multichannel Inverse Filters
+Perfect Match: Improved Cross-modal Embeddings for Audio-visual Synchronisation
+F0 Contour Estimation Using Phonetic Feature in Electrolaryngeal Speech Enhancement
+Speaker Characterization Using TDNN-LSTM Based Speaker Embedding
+Perfect Match: Improved Cross-modal Embeddings for Audio-visual Synchronisation
+3D Visual Speech Animation Using 2D Videos
+Frequency Separation Method Based on Sparse Coding
+Image Correction in Emission Tomography Using Deep Convolution Neural Network
+Generative Adversarial Networks Based Error Concealment for Low Resolution Video
+Pixel Level Data Augmentation for Semantic Image Segmentation Using Generative Adversarial Networks
+Deriving Spectro-temporal Properties of Hearing from Speech Data
+Integrating Spectrotemporal Context into Features Based on Auditory Perception for Classification-based Speech Separation
+Analysis of Broadband GEVD-based Blind Source Separation
+TCNN: Temporal Convolutional Neural Network for Real-time Speech Enhancement in the Time Domain
+Hyperspectral Image Super-resolution Using Generative Adversarial Network and Residual Learning
+Robust and Fine-grained Prosody Control of End-to-end Speech Synthesis
+Towards Unsupervised Single-channel Blind Source Separation Using Adversarial Pair Unmix-and-remix
+DSNET: Accelerate Indoor Scene Semantic Segmentation
+SVD-PHAT: A Fast Sound Source Localization Method
+Simultaneous Optimization of Forgetting Factor and Time-frequency Mask for Block Online Multi-channel Speech Enhancement
+Overlap-add Windows with Maximum Energy Concentration for Speech and Audio Processing
+Online Deep Attractor Network for Real-time Single-channel Speech Separation
+A Robust Text-independent Speaker Verification Method Based on Speech Separation and Deep Speaker
+Exploring Deep Complex Networks for Complex Spectrogram Enhancement
+End-to-end Sound Source Separation Conditioned on Instrument Labels
+
+
+
+
+表情&人脸识别（10篇）：
+EXPRESSION-IDENTITY FUSION NETWORK FOR FACIAL EXPRESSION RECOGNITION
+Expression-identity Fusion Network for Facial Expression Recognition
+Discriminative Video Representation with Temporal Order for Micro-expression Recognition
+FACIAL MICRO-EXPRESSION SPOTTING AND RECOGNITION USING TIME CONTRASTED FEATURE WITH VISUAL MEMORY
+Fine-tuning Approach to NIR Face Recognition
+CAN AUTOMATIC FACIAL EXPRESSION ANALYSIS BE USED FOR TREATMENT OUTCOME ESTIMATION IN SCHIZOPHRENIA?
+NOSE, EYES AND EARS: HEAD POSE ESTIMATION BY LOCATING FACIAL KEYPOINTS
+TURNING A VULNERABILITY INTO AN ASSET: ACCELERATING FACIAL IDENTIFICATION WITH MORPHING
+IMPROVING FACIAL ATTRACTIVENESS PREDICTION VIA CO-ATTENTION LEARNING
+AUDIOVISUAL SPEAKER CONVERSION: JOINTLY AND SIMULTANEOUSLY TRANSFORMING FACIAL EXPRESSION AND ACOUSTIC CHARACTERISTICS
+Improving Speech Emotion Recognition with Unsupervised Representation Learning on Unlabeled Speech
+
+注意力（61篇）：
+Deep Recurrent Neural Networks with Layer-wise Multi-head Attentions for Punctuation Restoration
+Self-attention Based Prosodic Boundary Prediction for Chinese Speech Synthesis
+A Bayesian Attention Neural Network Layer for Speaker Recognition
+Phonemic-level Duration Control Using Attention Alignment for Natural Speech Synthesis
+Perceptual Quality Preserving Image Super-resolution via Channel Attention
+LEARNING TO MATCH TRANSIENT SOUND EVENTS USING ATTENTIONAL SIMILARITY FOR FEW-SHOT SOUND RECOGNITION
+ATTENTION-BASED ATROUS CONVOLUTIONAL NEURAL NETWORKS: VISUALISATION AND UNDERSTANDING PERSPECTIVES OF ACOUSTIC SCENES
+SINGLE-CHANNEL SPEECH EXTRACTION USING SPEAKER INVENTORY AND ATTENTION NETWORK
+AUTOMATIC SINGING TRANSCRIPTION BASED ON ENCODER-DECODER RECURRENT NEURAL NETWORKS WITH A WEAKLY-SUPERVISED ATTENTION MECHANISM
+A REGION BASED ATTENTION METHOD FOR WEAKLY SUPERVISED SOUND EVENT DETECTION AND CLASSIFICATION
+DETECTING ATTENTION SHIFT FROM NEURAL RESPONSE BASED ON BEAT-FREQUENCY-MODULATED MUSICAL EXCERPTS
+ATTENTION-BASED TRANSFER LEARNING FOR BRAIN-COMPUTER INTERFACE
+DECOUPLING CATEGORY-WISE INDEPENDENCE AND RELEVANCE WITH SELF-ATTENTION FOR MULTI-LABEL IMAGE CLASSIFICATION
+SCANET: SPATIAL-CHANNEL ATTENTION NETWORK FOR 3D OBJECT DETECTION
+MULTI-STEP SELF-ATTENTION NETWORK FOR CROSS-MODAL RETRIEVAL BASED ON A LIMITED TEXT SPACE
+VISUAL RELATIONSHIP RECOGNITION VIA LANGUAGE AND POSITION GUIDED ATTENTION
+DISCRIMINATIVE SALIENCY-POSE-ATTENTION COVARIANCE FOR ACTION RECOGNITION
+AD-NET: ATTENTION GUIDED NETWORK FOR OPTICAL FLOW ESTIMATION USING DILATED CONVOLUTION
+END-TO-END AUDIO VISUAL SCENE-AWARE DIALOG USING MULTIMODAL ATTENTION-BASED VIDEO FEATURES
+VIDEO QUALITY ASSESSMENT FOR ENCRYPTED HTTP ADAPTIVE STREAMING: ATTENTION-BASED HYBRID RNN-HMM MODEL
+SPEECH EMOTION RECOGNITION USING MULTI-HOP ATTENTION MECHANISM
+NON-LOCAL SELF-ATTENTION STRUCTURE FOR FUNCTION APPROXIMATION IN DEEP REINFORCEMENT LEARNING
+ATTENTION IN RECURRENT NEURAL NETWORKS FOR RANSOMWAREDETECTION
+A SEQUENTIAL GUIDING NETWORK WITH ATTENTION FOR IMAGE CAPTIONING
+NOISE-TOLERANT AUDIO-VISUAL ONLINE PERSON VERIFICATION USING AN ATTENTION-BASED NEURAL NETWORK FUSION
+IMPROVING FACIAL ATTRACTIVENESS PREDICTION VIA CO-ATTENTION LEARNING
+SELF-ATTENTION ALIGNER: A LATENCY-CONTROL END-TO-END MODEL FOR ASR USING SELF-ATTENTION NETWORK AND CHUNK-HOPPING
+TRIGGERED ATTENTION FOR END-TO-END SPEECH RECOGNITION
+PHONEMIC-LEVEL DURATION CONTROL USING ATTENTION ALIGNMENT FOR NATURAL SPEECH SYNTHESIS
+END-TO-END LANGUAGE RECOGNITION USING ATTENTION BASED HIERARCHICAL GATED RECURRENT UNIT MODELS
+UTTERANCE-LEVEL END-TO-END LANGUAGE IDENTIFICATION USING ATTENTION-BASED CNN-BLSTM
+SEQUENCE-LEVEL KNOWLEDGE DISTILLATION FOR MODEL COMPRESSION OF ATTENTION-BASED SEQUENCE-TO-SEQUENCE SPEECH RECOGNITION
+TOKEN-WISE TRAINING FOR ATTENTION BASED END-TO-END SPEECH RECOGNITION
+ADVERSARIAL EXAMPLES FOR IMPROVING END-TO-END ATTENTION-BASED SMALL-FOOTPRINT KEYWORD SPOTTING
+MODALITY ATTENTION FOR END-TO-END AUDIO-VISUAL SPEECH RECOGNITION
+DILATED RESIDUAL NETWORK WITH MULTI-HEAD SELF-ATTENTION FOR SPEECH EMOTION RECOGNITION
+CONTEXT MODELLING USING HIERARCHICAL ATTENTION NETWORKS FOR SENTIMENT AND SELF-ASSESSED EMOTION DETECTION IN SPOKEN NARRATIVES
+AN INTERACTION-AWARE ATTENTION NETWORK FOR SPEECH EMOTION RECOGNITION IN SPOKEN DIALOGS
+ATTENTION-AUGMENTED END-TO-END MULTI-TASK LEARNING FOR EMOTION PREDICTION FROM SPEECH
+CO-ATTENTION NETWORK AND LOW-RANK BILINEAR POOLING FOR ASPECT BASED SENTIMENT ANALYSIS （重要）
+ATTENTION-BASED WAVENET AUTOENCODER FOR UNIVERSAL VOICE CONVERSION
+WINDOWED ATTENTION MECHANISMS FOR SPEECH RECOGNITION
+STREAM ATTENTION-BASED MULTI-ARRAY END-TO-END SPEECH RECOGNITION
+SELF-ATTENTION NETWORKS FOR CONNECTIONIST TEMPORAL CLASSIFICATION IN SPEECH RECOGNITION
+DYNAMICALLY CONTEXT-SENSITIVE TIME-DECAY ATTENTION FOR DIALOGUE MODELING
+SELF-ATTENTION BASED MODEL FOR PUNCTUATION PREDICTION USING WORD AND SPEECH EMBEDDINGS
+DEEP RECURRENT NEURAL NETWORKS WITH LAYER-WISE MULTI-HEAD ATTENTIONS FOR PUNCTUATION RESTORATION
+EXPLORING ATTENTION MECHANISM FOR ACOUSTIC-BASED CLASSIFICATION OF SPEECH UTTERANCES INTO SYSTEM-DIRECTED AND NON-SYSTEM-DIRECTED
+ATTENTION-BASED GRAPH CONVOLUTIONAL NETWORK FOR RECOMMENDATION SYSTEM （重要）
+
+行人重鉴别（3篇）：
+Unsupervised Person Re-identification Using Reliable and Soft Labels
+Cross-view Identical Part Area Alignment for Person Re-identification
+Deep Counting Model Extensions with Segmentation for Person Detection
+Multi-level Supervised Network for Person Re-identification
+
+脑图（6篇）：
+Statistical Persistent Homology of Brain Signals
+IDENTIFYING STRUCTURAL BRAIN NETWORKS FROM FUNCTIONAL CONNECTIVITY: A NETWORK DECONVOLUTION APPROACH
+ATTENTION-BASED TRANSFER LEARNING FOR BRAIN-COMPUTER 
+CAPSULE NETWORKS FOR BRAIN TUMOR CLASSIFICATION BASED ON MRI IMAGES AND COARSE TUMOR BOUNDARIES
+BHATTACHARYYA DISTANCE-BASED TRANSFER LEARNING FOR A HYBRID EEG-FTCD BRAIN-COMPUTER INTERFACE
+A SUBJECT-TO-SUBJECT TRANSFER LEARNING FRAMEWORK BASED ON JENSEN-SHANNON DIVERGENCE FOR IMPROVING BRAIN-COMPUTER INTERFACE
+
+
+
+问答系统（4篇）：
+EDUQA: Educational Domain Question Answering System Using Conceptual Network Mapping
+TOWARDS COLD-START DEVELOPMENT OF END-TO-END SPOKEN LANGUAGE INTERFACE FOR QUESTION ANSWERING
+MITIGATING THE IMPACT OF SPEECH RECOGNITION ERRORS ON SPOKEN QUESTION ANSWERING BY ADVERSARIAL DOMAIN ADAPTATION
+QUESTION ANSWERING FOR SPOKEN LECTURE PROCESSING
+
+多模态（18篇）：
+MULTIMODAL RETINAL IMAGE REGISTRATION AND FUSION BASED ON SPARSE REGULARIZATION VIA A GENERALIZED MINIMAX-CONCAVE PENALTY
+A NEW FUSION FRAMEWORK FOR MULTIMODAL MEDICAL IMAGE BASED ON GRWT
+A SIMPLE WAY OF MULTIMODAL AND ARBITRARY STYLE TRANSFER
+END-TO-END AUDIO VISUAL SCENE-AWARE DIALOG USING MULTIMODAL ATTENTION-BASED VIDEO FEATURES
+LEARNING TO FUSE LATENT REPRESENTATIONS FOR MULTIMODAL DATA
+ACCURATE TARGET ANNOTATION IN 3D FROM MULTIMODAL STREAMS
+MULTI-FEATURE FUSION BASED ON SUPERVISED MULTI-VIEW MULTI-LABEL CANONICAL CORRELATION PROJECTION
+DENSE MULTIMODAL FUSION FOR HIERARCHICALLY JOINT REPRESENTATION
+CONTEXT-AWARE DEEP LEARNING FOR MULTI-MODAL DEPRESSION DETECTION
+AUDIO FEATURE GENERATION FOR MISSING MODALITY PROBLEM IN VIDEO ACTION RECOGNITION
+SEEING THROUGH SOUNDS: PREDICTING VISUAL SEMANTIC SEGMENTATION RESULTS FROM MULTICHANNEL AUDIO SIGNALS
+PERFECT MATCH: IMPROVED CROSS-MODAL EMBEDDINGS FOR AUDIO-VISUAL SYNCHRONISATION
+A NEIGHBOR-AWARE APPROACH FOR IMAGE-TEXT MATCHING .
+LEARNING AFFECTIVE CORRESPONDENCE BETWEEN MUSIC AND IMAGE
+DYNAMIC TEMPORAL ALIGNMENT OF SPEECH TO LIPS
+LEARNING SEMANTIC-PRESERVING SPACE USING USER PROFILE AND MULTIMODAL MEDIA CONTENT FROM POLITICAL SOCIAL NETWORK
+NOISE-TOLERANT AUDIO-VISUAL ONLINE PERSON VERIFICATION USING AN ATTENTION-BASED NEURAL NETWORK FUSION
+CROSS-CULTURE MULTIMODAL EMOTION RECOGNITION WITH ADVERSARIAL LEARNING
+
+
+
+信号识别&分类&定位&跟踪（70篇）：
+A Denoising Autoencoder for Speaker Recognition. Results on the MCE 2018 Challenge
+Sequence-level Knowledge Distillation for Model Compression of Attention-based Sequence-to-sequence Speech Recognition
+When Not to Classify: Detection of Reverse Engineering Attacks on DNN Image Classifiers
+Discriminative Video Representation with Temporal Order for Micro-expression Recognition
+Expression-identity Fusion Network for Facial Expression Recognition
+EXPRESSION-IDENTITY FUSION NETWORK FOR FACIAL EXPRESSION RECOGNITION
+An Integrated Framework for Field Recording, Localization, Classification and Annotation of Birdsongs Using Robot Audition Techniques — Harkbird 2.0
+Random Infinite Tree and Dependent Poisson Diffusion Process for Nonparametric Bayesian Modeling in Multiple Object Tracking
+Skin Lesion Classification Using Hybrid Deep Neural Networks
+Autonomous Detection and Disambiguation of Martian Ion Trails Using Geometric Signal Processing Techniques
+Adaptation of Multiple Sound Source Localization Neural Networks with Weak Supervision and Domain-adversarial Training
+A Novel Three Dimensional Probability-based Classifier for Improving Motor Imagery-based BCI
+Multisource Remote Sensing Data Classification Using Deep Hierarchical Random Walk Networks
+Adaptive Adjustment with Semantic Feature Space for Zero-shot Recognition
+Sound Event Detection Using Graph Laplacian Regularization Based on Event Co-occurrence
+Detecting and Classifying Rail Corrugation Based on Axle Bearing Vibration
+Incorporate User Representation for Personal Question Answer Selection Using Siamese Network
+Polyphonic Sound Event Detection Using Convolutional Bidirectional Lstm and Synthetic Data-based Transfer Learning
+Learning Temporal Information from Spatial Information Using CapsNets for Human Action Recognition
+Vehicle Pose Estimation Using Mask Matching
+A Novel Framework of Hand Localization and Hand Pose Estimation
+Speaker Characterization Using TDNN-LSTM Based Speaker Embedding
+Attacks on Digital Watermarks for Deep Neural Networks
+Adversarial Watermarking to Attack Deep Neural Networks
+A Novel Framework of Hand Localization and Hand Pose Estimation
+Multi-objective Optimization Training of PLDA for Speaker Verification
+Frequency-domain Based Waveform Design for Binary Extended-target Classification
+Domain Mismatch Robust Acoustic Scene Classification Using Channel Information Conversion
+Transferable Positive/negative Speech Emotion Recognition via Class-wise Adversarial Domain Adaptation
+Detection of Sleep Apnea/hypopnea Events Using Synchrosqueezed Wavelet Transform
+Detecting Attention Shift from Neural Response Based on Beat-frequency-modulated Musical Excerpts
+Selecting Optimal Proposal Number for Image-based Object Detection
+A Spiking Neural Network Approach to Auditory Source Lateralisation
+Adaptive Brightness Learning for Active Object Recognition
+Temporal Salience Based Human Action Recognition
+Audio Replay Spoof Attack Detection Using Segment-based Hybrid Feature and DenseNet-LSTM Network
+Neural Codes to Factor Language in Multilingual Speech Recognition
+Gradient-based Active Learning Query Strategy for End-to-end Speech Recognition
+CNN Based Two-stage Multi-resolution End-to-end Model for Singing Melody Extraction（唱歌旋律提取）
+A STREAMLINED ENCODER/DECODER ARCHITECTURE FOR MELODY EXTRACTION
+UNSUPERVISED MELODY STYLE CONVERSION
+AUTOMATIC SINGING EVALUATION WITHOUT REFERENCE MELODY USING BI-DENSE NEURAL NETWORK
+VOCAL MELODY EXTRACTION VIA DNN-BASED PITCH ESTIMATION AND SALIENCE-BASED PITCH REFINEMENT（唱歌旋律提取）
+Online Singing Voice Separation Using a Recurrent One-dimensional U-NET Trained with Deep Feature Losses （唱歌人分离）
+ZERO-MEAN CONVOLUTIONAL NETWORK WITH DATA AUGMENTATION FOR SOUND LEVEL INVARIANT SINGING VOICE SEPARATION
+PROXIMAL DEEP RECURRENT NEURAL NETWORK FOR MONAURAL SINGING VOICE SEPARATION
+SEMI-SUPERVISED MONAURAL SINGING VOICE SEPARATION WITH A MASKING NETWORK TRAINED ON SYNTHETIC MIXTURES
+SINGING VOICE SEPARATION: A STUDY ON TRAINING DATA（唱歌人分离）
+Decoupling Category-wise Independence and Relevance with Self-attention for Multi-label Image Classification
+Embedding Physical Augmentation and Wavelet Scattering Transform to Generative Adversarial Networks for Audio Classification with Limited Training Resources
+Speech Recognition with No Speech or with Noisy Speech
+Efficient Arabic Emotion Recognition Using Deep Neural Networks
+SPFEMD: Super-pixel Based Finger Earth Mover’s Distance for Hand Gesture Recognition
+Saliency Aware: Weakly Supervised Object Localization
+Cyclegan Bandwidth Extension Acoustic Modeling for Automatic Speech Recognition
+Practical Concentric Open Sphere Cardioid Microphone Array Design for Higher Order Sound Field Capture
+Adversarially Trained Autoencoders for Parallel-data-free Voice Conversion
+Voice Trigger Detection from Lvcsr Hypothesis Lattices Using Bidirectional Lattice Recurrent Neural Networks
+Audio Feature Generation for Missing Modality Problem in Video Action Recognition
+DOD-CNN: Doubly-injecting Object Information for Event Recognition
+Multi-teacher Knowledge Distillation for Compressed Video Action Recognition on Deep Neural Networks
+Music Boundary Detection Based on a Hybrid Deep Model of Novelty, Homogeneity, Repetition and Duration
+Investigation on Neural Bandwidth Extension of Telephone Speech for Improved Speaker Recognition
+Automatic Radar-based Gesture Detection and Classification via a Region-based Deep Convolutional Neural Network
+M-vectors: Sub-band Based Energy Modulation Features for Multi-stream Automatic Speech Recognition
+Augmenting Dysphonia Voice Using Fourier-based Synchrosqueezing Transform for a CNN Classifier
+A Novel Deterministic Sensing Matrix Based on Kasami Codes for Cluster Structured Sparse Signals
+Human Behaviour Recognition Using Wifi Channel State Information
+Transferring Piano Performance Control across Environments
+
+数据集（1篇）：
+Phonespoof: A New Dataset for Spoofing Attack Detection in Telephone Channel
+
